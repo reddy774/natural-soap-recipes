@@ -1,0 +1,863 @@
+{
+  "hot_process": [
+    {
+      "name": "Recipe Name:** Simple & Moisturizing Hot Process Soap Recipe",
+      "type": "Hot Process",
+      "ingredients": [
+        "",
+        "Lye solution:",
+        "3.94 oz sodium hydroxide (112 g)",
+        "10.19 oz distilled water (289 g)",
+        "Solid oils:",
+        "7.05 oz coconut oil (refined) (200 g)",
+        "1.41 oz mango butter (40 g)",
+        "Liquid oils:",
+        "16.93 oz olive oil (480 g)",
+        "1.41 oz castor oil (40 g)",
+        "Add after Trace:",
+        "1.41 oz mango butter (40 g) \u2013 superfat",
+        "6 tsp grapefruit essential oil (24 g / 0.85 oz)",
+        "1 TBSP yogurt (15 g)",
+        ""
+      ],
+      "instructions": "**\nMake soap from scratch using this simple and moisturizing hot process soap recipe. Pre-measure all ingredients, prepare your workspace with safety gear, and carefully make the lye solution by mixing sodium hydroxide into water and cooling it to about 120\u00b0F. Melt the solid oils on low heat, then combine with liquid oils in the slow cooker, bringing the mixture to around 120\u00b0F. Carefully add the lye solution to the oils, blend until reaching a medium trace (pudding-like consistency). Cook on low for 30-60 minutes, stirring occasionally, until the soap resembles vaseline. Remove from heat, cool to just under 180\u00b0F, then stir in melted mango butter, essential oil, and yogurt. Pour into molds, let cool and harden for at least 12 hours, then cure for 4 weeks before use.\n**",
+      "source_url": "https://lovelygreens.com/simple-moisturizing-hot-process-soap-recipe/",
+      "benefits": "** Moisturizing, skin nourishment, mango butter, yogurt, coconut oil, olive oil, castor oil, grapefruit essential oil.",
+      "structured_ingredients": [
+        {
+          "original": ""
+        },
+        {
+          "original": "Lye solution:"
+        },
+        {
+          "amount": 3.94,
+          "unit": "oz",
+          "name": "sodium hydroxide (112 g)",
+          "original": "3.94 oz sodium hydroxide (112 g)"
+        },
+        {
+          "amount": 10.19,
+          "unit": "oz",
+          "name": "distilled water (289 g)",
+          "original": "10.19 oz distilled water (289 g)"
+        },
+        {
+          "original": "Solid oils:"
+        },
+        {
+          "amount": 7.05,
+          "unit": "oz",
+          "name": "coconut oil (refined) (200 g)",
+          "original": "7.05 oz coconut oil (refined) (200 g)"
+        },
+        {
+          "amount": 1.41,
+          "unit": "oz",
+          "name": "mango butter (40 g)",
+          "original": "1.41 oz mango butter (40 g)"
+        },
+        {
+          "original": "Liquid oils:"
+        },
+        {
+          "amount": 16.93,
+          "unit": "oz",
+          "name": "olive oil (480 g)",
+          "original": "16.93 oz olive oil (480 g)"
+        },
+        {
+          "amount": 1.41,
+          "unit": "oz",
+          "name": "castor oil (40 g)",
+          "original": "1.41 oz castor oil (40 g)"
+        },
+        {
+          "original": "Add after Trace:"
+        },
+        {
+          "amount": 1.41,
+          "unit": "oz",
+          "name": "mango butter (40 g) \u2013 superfat",
+          "original": "1.41 oz mango butter (40 g) \u2013 superfat"
+        },
+        {
+          "amount": 6.0,
+          "unit": "tsp",
+          "name": "grapefruit essential oil (24 g / 0.85 oz)",
+          "original": "6 tsp grapefruit essential oil (24 g / 0.85 oz)"
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "name": "yogurt (15 g)",
+          "original": "1 TBSP yogurt (15 g)"
+        },
+        {
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Homemade Hot Process Soap Recipe",
+      "type": "Hot Process",
+      "ingredients": [
+        "Moisturizing (Olive and Coconut Oil), Basic Natural Soap",
+        "Source URL: https://www.theprairiehomestead.com/2015/05/hot-process-soap-recipe.html",
+        "Ingredients:",
+        "10 oz olive oil",
+        "20 oz coconut oil",
+        "9 oz distilled water",
+        "4.78 oz 100% pure lye (sodium hydroxide)",
+        "Essential oils for scent (optional)"
+      ],
+      "instructions": "1. Measure out olive and coconut oil. Place coconut oil in the slow cooker and turn it on to melt.\n2. Measure out water and lye by weight.\n3. Once coconut oil is melted, add olive oil to the crockpot.\n4. In a well-ventilated area, slowly add lye to the water while stirring (NEVER water to lye).\n5. Once lye is completely dissolved, add the lye/water mixture to the melted oils in the crockpot, stirring slowly.\n6. Use a stick blender to mix until it comes to \"trace\" (pudding-like consistency).\n7. Place the lid on the crockpot and allow the mixture to cook on LOW for 50 minutes. Stir quickly if it tries to bubble over.\n8. Test the soap for remaining lye (the \"zap\" test). If it zaps, cook longer.\n9. Turn off the crockpot and allow to cool briefly before mixing in optional essential oils.\n10. Pour the soap mixture into the mold, press into corners, and smooth the top.\n11. Set aside for 12-24 hours to set completely.\n12. Remove from mold, cut into bars, and allow to dry for another day or so to harden.",
+      "source_url": "https://www.theprairiehomestead.com/2015/05/hot-process-soap-recipe.html",
+      "benefits": "Moisturizing (Olive and Coconut Oil), Basic Natural Soap",
+      "structured_ingredients": [
+        {
+          "original": "Moisturizing (Olive and Coconut Oil), Basic Natural Soap"
+        },
+        {
+          "original": "Source URL: https://www.theprairiehomestead.com/2015/05/hot-process-soap-recipe.html"
+        },
+        {
+          "original": "Ingredients:"
+        },
+        {
+          "amount": 10.0,
+          "unit": "oz",
+          "name": "olive oil",
+          "original": "10 oz olive oil"
+        },
+        {
+          "amount": 20.0,
+          "unit": "oz",
+          "name": "coconut oil",
+          "original": "20 oz coconut oil"
+        },
+        {
+          "amount": 9.0,
+          "unit": "oz",
+          "name": "distilled water",
+          "original": "9 oz distilled water"
+        },
+        {
+          "amount": 4.78,
+          "unit": "oz",
+          "name": "100% pure lye (sodium hydroxide)",
+          "original": "4.78 oz 100% pure lye (sodium hydroxide)"
+        },
+        {
+          "original": "Essential oils for scent (optional)"
+        }
+      ]
+    },
+    {
+      "name": "Homemade Aloe Vera Soap Using the Hot Process Method",
+      "type": "Hot Process",
+      "ingredients": [
+        "Aloe Vera (moisturizing, soothing), Tea Tree, Eucalyptus, French Green Clay. Perfect for beginners.",
+        "Ingredients List:",
+        "Oils (750g total):",
+        "75g cocoa butter",
+        "300g olive oil",
+        "225g rice bran oil (can sub with more olive oil)",
+        "150g coconut oil",
+        "Lye Solution:",
+        "200g filtered tap water (or 150g for a harder soap)",
+        "100g sodium hydroxide/caustic soda",
+        ""
+      ],
+      "instructions": "1. Melt the oils: Add cocoa butter, olive oil, rice bran oil, and coconut oil to a crock pot (HIGH for 5-10 mins) or heavy saucepan (VERY low heat, max 80\u00b0C/180\u00b0F).\n2. Prepare Lye and Aloe: Prepare the lye solution (water + sodium hydroxide, with safety precautions). Prepare 50g of completely blended fresh aloe vera gel.\n3. Mix: Blend the clay into the melted oils. Add the lye solution to the oils and stick blend until the batter starts to emulsify.\n4. Add Aloe: Add the aloe vera gel and continue to blend until the mixture reaches a very thick consistency (trace).\n5. Cook: Cover and cook on low-very low heat for 15-20 minutes until the soap darkens and appears vaseline-ey (gel phase). Test for full saponification with pH strips.\n6. Add Essential Oils: Remove from heat, cool for 5-10 minutes (no hotter than 80\u00b0C/180\u00b0F), and stir in essential oils.\n7. Mold and Cure: Spoon the soap into the mould, banging down regularly. Allow to cool and harden for 1-3 days. Remove, cut into bars, and cure/dry for 4 weeks before using.",
+      "source_url": "https://www.ellyseveryday.com/ellys-everyday-blog/homemade-aloe-vera-soap-hot-process-method",
+      "benefits": "Aloe Vera (moisturizing, soothing), Tea Tree, Eucalyptus, French Green Clay. Perfect for beginners.\nIngredients List:\n- Oils (750g total):\n    - 75g cocoa butter\n    - 300g olive oil\n    - 225g rice bran oil (can sub with more olive oil)\n    - 150g coconut oil\n- Lye Solution:\n    - 200g filtered tap water (or 150g for a harder soap)\n    - 100g sodium hydroxide/caustic soda\n- Additives (Optional):\n    - 50g aloe vera gel\n    - 20g tea tree essential oil\n    - 10g eucalyptus essential oil\n    - 3 tsp French green clay\nInstructions:\n1. Melt the oils: Add cocoa butter, olive oil, rice bran oil, and coconut oil to a crock pot (HIGH for 5-10 mins) or heavy saucepan (VERY low heat, max 80\u00b0C/180\u00b0F).\n2. Prepare Lye and Aloe: Prepare the lye solution (water + sodium hydroxide, with safety precautions). Prepare 50g of completely blended fresh aloe vera gel.\n3. Mix: Blend the clay into the melted oils. Add the lye solution to the oils and stick blend until the batter starts to emulsify.\n4. Add Aloe: Add the aloe vera gel and continue to blend until the mixture reaches a very thick consistency (trace).\n5. Cook: Cover and cook on low-very low heat for 15-20 minutes until the soap darkens and appears vaseline-ey (gel phase). Test for full saponification with pH strips.\n6. Add Essential Oils: Remove from heat, cool for 5-10 minutes (no hotter than 80\u00b0C/180\u00b0F), and stir in essential oils.\n7. Mold and Cure: Spoon the soap into the mould, banging down regularly. Allow to cool and harden for 1-3 days. Remove, cut into bars, and cure/dry for 4 weeks before using.",
+      "structured_ingredients": [
+        {
+          "original": "Aloe Vera (moisturizing, soothing), Tea Tree, Eucalyptus, French Green Clay. Perfect for beginners."
+        },
+        {
+          "original": "Ingredients List:"
+        },
+        {
+          "original": "Oils (750g total):"
+        },
+        {
+          "amount": 75.0,
+          "unit": "g",
+          "name": "cocoa butter",
+          "original": "75g cocoa butter"
+        },
+        {
+          "amount": 300.0,
+          "unit": "g",
+          "name": "olive oil",
+          "original": "300g olive oil"
+        },
+        {
+          "amount": 225.0,
+          "unit": "g",
+          "name": "rice bran oil (can sub with more olive oil)",
+          "original": "225g rice bran oil (can sub with more olive oil)"
+        },
+        {
+          "amount": 150.0,
+          "unit": "g",
+          "name": "coconut oil",
+          "original": "150g coconut oil"
+        },
+        {
+          "original": "Lye Solution:"
+        },
+        {
+          "amount": 200.0,
+          "unit": "g",
+          "name": "filtered tap water (or 150g for a harder soap)",
+          "original": "200g filtered tap water (or 150g for a harder soap)"
+        },
+        {
+          "amount": 100.0,
+          "unit": "g",
+          "name": "sodium hydroxide/caustic soda",
+          "original": "100g sodium hydroxide/caustic soda"
+        },
+        {
+          "original": ""
+        }
+      ]
+    },
+    {
+      "name": "Basic Hot Process Soap Recipe",
+      "type": "Hot Process",
+      "ingredients": [
+        "9.6 oz coconut oil",
+        "9.6 oz olive oil",
+        "9.6 oz palm oil",
+        "1.6 oz mango butter",
+        "0.96 oz castor oil",
+        "0.64 oz beeswax",
+        "12.16 oz purified water",
+        "4.57 oz lye (Sodium Hydroxide)"
+      ],
+      "instructions": "1. Weigh out your oils, butters, and waxes. Pour them into the crockpot to melt.\n2. When the oils have melted, put on your safety gear. Measure out your water and lye in glass measuring cups. Pour the lye into the water slowly to avoid splashes, and mix with a silicone spatula. (Do this step in the sink.)\n3. When the lye is dissolved, pour the lye water into the crockpot with the oils.\n4. Use your stick blender to mix the oils and lye water until you reach trace (looks like pudding).\n5. Put the lid on the crockpot. Your soap will cook on low for about 50 minutes. Don\u2019t leave the pot unattended. To prevent an overflow, remove the lid and stir. Otherwise, no stirring is required.\n6. After 50 minutes, remove the lid, stir, and check the ph. If you are at a 7, your soap is good to go.\n7. Set aside for 24 hours.\n8. Unmold, cut into bars, and it\u2019s ready to use!",
+      "source_url": "https://www.wherethedogwoodblooms.com/basic-hot-process-soap-recipe/",
+      "benefits": "Natural oils (coconut, olive, palm, castor), mango butter (moisturizing), beeswax (harder bar). Optional additions for scent (essential oil), lather (sugar), and creaminess (yogurt) are also mentioned.",
+      "structured_ingredients": [
+        {
+          "amount": 9.6,
+          "unit": "oz",
+          "name": "coconut oil",
+          "original": "9.6 oz coconut oil"
+        },
+        {
+          "amount": 9.6,
+          "unit": "oz",
+          "name": "olive oil",
+          "original": "9.6 oz olive oil"
+        },
+        {
+          "amount": 9.6,
+          "unit": "oz",
+          "name": "palm oil",
+          "original": "9.6 oz palm oil"
+        },
+        {
+          "amount": 1.6,
+          "unit": "oz",
+          "name": "mango butter",
+          "original": "1.6 oz mango butter"
+        },
+        {
+          "amount": 0.96,
+          "unit": "oz",
+          "name": "castor oil",
+          "original": "0.96 oz castor oil"
+        },
+        {
+          "amount": 0.64,
+          "unit": "oz",
+          "name": "beeswax",
+          "original": "0.64 oz beeswax"
+        },
+        {
+          "amount": 12.16,
+          "unit": "oz",
+          "name": "purified water",
+          "original": "12.16 oz purified water"
+        },
+        {
+          "amount": 4.57,
+          "unit": "oz",
+          "name": "lye (Sodium Hydroxide)",
+          "original": "4.57 oz lye (Sodium Hydroxide)"
+        }
+      ]
+    },
+    {
+      "name": "Basic Slow Cooker Soap Recipe",
+      "type": "Hot Process",
+      "ingredients": [
+        "Simple, moisturizing, coconut oil, olive oil, essential oils (lavender and orange mentioned as examples).",
+        "Ingredients:",
+        "16 oz coconut oil",
+        "16 oz olive oil",
+        "4.844 oz lye",
+        "12.16 oz water",
+        "1 oz essential oils (optional)"
+      ],
+      "instructions": "1. Weigh and combine olive oil and melted coconut oil in a slow cooker. Heat on high, then reduce to low.\n2. Measure lye and water separately.\n3. In a well-ventilated area, slowly add lye to water (NEVER water to lye). Stir and let cool for approximately 10 minutes until clear.\n4. When oils are 120-130\u00b0F, slowly stir in the lye/water mixture.\n5. Use a stick blender to blend until opaque and starting to thicken (trace).\n6. Cover and keep on low heat, checking every 15 minutes. It will be ready when the entire surface is bubbly and the sides have collapsed in (35-55 minutes).\n7. Turn off heat, remove the inner bowl, and stir in essential oils if desired.\n8. Spoon into prepared molds.\n9. Pop out of molds after 24 hours. Can be used immediately, but setting for a few more days is preferred for longevity.",
+      "source_url": "https://wellnessmama.com/natural-home/slow-cooker-soap/",
+      "benefits": "Simple, moisturizing, coconut oil, olive oil, essential oils (lavender and orange mentioned as examples).\n\nIngredients:\n- 16 oz coconut oil\n- 16 oz olive oil\n- 4.844 oz lye\n- 12.16 oz water\n- 1 oz essential oils (optional)\n\nInstructions:\n1. Weigh and combine olive oil and melted coconut oil in a slow cooker. Heat on high, then reduce to low.\n2. Measure lye and water separately.\n3. In a well-ventilated area, slowly add lye to water (NEVER water to lye). Stir and let cool for approximately 10 minutes until clear.\n4. When oils are 120-130\u00b0F, slowly stir in the lye/water mixture.\n5. Use a stick blender to blend until opaque and starting to thicken (trace).\n6. Cover and keep on low heat, checking every 15 minutes. It will be ready when the entire surface is bubbly and the sides have collapsed in (35-55 minutes).\n7. Turn off heat, remove the inner bowl, and stir in essential oils if desired.\n8. Spoon into prepared molds.\n9. Pop out of molds after 24 hours. Can be used immediately, but setting for a few more days is preferred for longevity.",
+      "structured_ingredients": [
+        {
+          "original": "Simple, moisturizing, coconut oil, olive oil, essential oils (lavender and orange mentioned as examples)."
+        },
+        {
+          "original": "Ingredients:"
+        },
+        {
+          "amount": 16.0,
+          "unit": "oz",
+          "name": "coconut oil",
+          "original": "16 oz coconut oil"
+        },
+        {
+          "amount": 16.0,
+          "unit": "oz",
+          "name": "olive oil",
+          "original": "16 oz olive oil"
+        },
+        {
+          "amount": 4.844,
+          "unit": "oz",
+          "name": "lye",
+          "original": "4.844 oz lye"
+        },
+        {
+          "amount": 12.16,
+          "unit": "oz",
+          "name": "water",
+          "original": "12.16 oz water"
+        },
+        {
+          "amount": 1.0,
+          "unit": "oz",
+          "name": "essential oils (optional)",
+          "original": "1 oz essential oils (optional)"
+        }
+      ]
+    },
+    {
+      "name": "Almond Meal Soap",
+      "type": "Hot Process",
+      "ingredients": [
+        "11 oz distilled water",
+        "4.9 oz lye (sodium hydroxide)",
+        "18 oz olive oil",
+        "8 oz coconut oil",
+        "6 oz palm oil",
+        "2 oz shea butter",
+        "1 oz castor oil",
+        "1 tbl intense almond fragrance oil (Note: Synthetic additive)",
+        "5-6 tbls of almond meal"
+      ],
+      "instructions": "1. Put on protective gear (goggles and gloves).\n2. Weigh liquid oils (18oz olive oil, 1 oz castor oil) into the slow cooker.\n3. Weigh lye (4.9 oz) and water (11 oz, with some ice cubes recommended).\n4. Pour lye into water slowly and stir to dissolve. Set aside to cool.\n5. Weigh and melt solid fats (8 oz coconut oil, 6 oz palm oil, 2 oz shea butter).\n6. Pour melted solid fats into the liquid oils in the slow cooker and mix.\n7. Pour lye water slowly and carefully into the oil while stirring.\n8. Use a stick blender to stir until it reaches a thin pudding/gravy consistency (\"trace\").\n9. Set the slow cooker to \"low,\" put the lid on. Check after 15 minutes for separation and mix if needed.\n10. Check again in 20-30 minutes. The mixture will start to turn translucent from the edges inward.\n11. Stir the translucent mixture every 20-30 minutes. It will look like apple sauce. Mix in the floating glycerin layer.\n12. After 1.5 - 2 hours of cooking and stirring, the mixture will have a Vaseline-like consistency and is neutral. Turn off the slow cooker.\n13. Add 5-6 tbls of almond meal and 1 tbl of intense almond fragrance oil. Mix well.\n14. Scoop the soap into the mold, banging the mold to remove air pockets. Work quickly.\n15. Once cool and firm, remove from the mold and cut. The soap can be used immediately.",
+      "source_url": "https://www.orthogonalthought.com/blog/index.php/2008/06/handmade-soap-using-a-slow-cooker-hot-process/",
+      "benefits": "Almond meal (exfoliating), Olive oil, Coconut oil, Palm oil, Shea butter, Castor oil (moisturizing/conditioning oils). Note: Contains \"intense almond fragrance oil\" which is a synthetic additive.",
+      "structured_ingredients": [
+        {
+          "amount": 11.0,
+          "unit": "oz",
+          "name": "distilled water",
+          "original": "11 oz distilled water"
+        },
+        {
+          "amount": 4.9,
+          "unit": "oz",
+          "name": "lye (sodium hydroxide)",
+          "original": "4.9 oz lye (sodium hydroxide)"
+        },
+        {
+          "amount": 18.0,
+          "unit": "oz",
+          "name": "olive oil",
+          "original": "18 oz olive oil"
+        },
+        {
+          "amount": 8.0,
+          "unit": "oz",
+          "name": "coconut oil",
+          "original": "8 oz coconut oil"
+        },
+        {
+          "amount": 6.0,
+          "unit": "oz",
+          "name": "palm oil",
+          "original": "6 oz palm oil"
+        },
+        {
+          "amount": 2.0,
+          "unit": "oz",
+          "name": "shea butter",
+          "original": "2 oz shea butter"
+        },
+        {
+          "amount": 1.0,
+          "unit": "oz",
+          "name": "castor oil",
+          "original": "1 oz castor oil"
+        },
+        {
+          "original": "1 tbl intense almond fragrance oil (Note: Synthetic additive)"
+        },
+        {
+          "original": "5-6 tbls of almond meal"
+        }
+      ]
+    }
+  ],
+  "cold_process": [
+    {
+      "name": "---",
+      "type": "Cold Process",
+      "ingredients": [],
+      "instructions": "",
+      "source_url": "https://www.theprairiehomestead.com/2015/05/hot-process-soap-recipe.html",
+      "benefits": "",
+      "structured_ingredients": []
+    },
+    {
+      "name": "Cold Process Soap - A Basic Recipe",
+      "type": "Cold Process",
+      "ingredients": [
+        "450g coconut oil",
+        "450g olive oil",
+        "133g of lye (Sodium Hydroxide)",
+        "297g water",
+        "Up to 10g of essential oils of choice (optional)"
+      ],
+      "instructions": "1. Start by melting your coconut oil. You can do this in the microwave or in a pan.\n2. Carefully measure the lye and water separately.\n3. Pour the water into a bowl or large glass jar. With gloves and eye protection, slowly add the lye to the water. NEVER ADD THE WATER TO THE LYE (this is really important). Stir carefully with a spoon, making sure not to let the liquid come in contact with your body directly.\n4. As you stir, this will create a cloudy white mixture that gets really hot. Let this mixture set for about 10 minutes to cool. It should become clear and not cloudy when it has cooled.\n5. When you have your melted coconut oil, pour it into a bowl and add the olive oil.\n6. Slowly pour in the water and lye mixture and stir.\n7. Quickly rinse the container used for the water and lye mixture out in the sink. I rinse well and then re-rinse with white vinegar to make sure all Lye has been neutralized.\n8. Use the metal or wooden spoon to stir the lye/water mixture into the oil mixture in.\n9. Once it is evenly mixed, use the immersion blender to blend for about 4-5 minutes or until it is opaque and starting to thicken.\n10. If you are going to use essential oils for scent, add them now.\n11. Quickly and carefully spoon into moulds. Any container will work, but I like loaf tins lined with parchment paper. I have included instructions for making one out of a box lined with parchment paper.\n12. Cover the moulds with parchment paper and set in a cool, dry place, away from kids and pets.\n13. After 24 hours, using gloves remove the soap from the moulds and cut into bars.\n14. Leave the bars somewhere to cure for about 4 weeks. You can test if they are done by sticking your tongue on them (yes this is really what you do) to see if the lye is still active. It will zing you like a battery if they aren\u2019t ready.",
+      "source_url": "https://garturstitchfarm.com/blog/cold-process-soap-a-basic-recipe",
+      "benefits": "Cleaning (Coconut Oil), Moisturising (Olive Oil)",
+      "structured_ingredients": [
+        {
+          "amount": 450.0,
+          "unit": "g",
+          "name": "coconut oil",
+          "original": "450g coconut oil"
+        },
+        {
+          "amount": 450.0,
+          "unit": "g",
+          "name": "olive oil",
+          "original": "450g olive oil"
+        },
+        {
+          "amount": 133.0,
+          "unit": "g",
+          "name": "of lye (Sodium Hydroxide)",
+          "original": "133g of lye (Sodium Hydroxide)"
+        },
+        {
+          "amount": 297.0,
+          "unit": "g",
+          "name": "water",
+          "original": "297g water"
+        },
+        {
+          "original": "Up to 10g of essential oils of choice (optional)"
+        }
+      ]
+    },
+    {
+      "name": "---",
+      "type": "Cold Process",
+      "ingredients": [],
+      "instructions": "",
+      "source_url": "https://garturstitchfarm.com/blog/cold-process-soap-a-basic-recipe",
+      "benefits": "",
+      "structured_ingredients": []
+    },
+    {
+      "name": "Recipe Name:** Free Cold Process Soap Recipe",
+      "type": "Cold Process",
+      "ingredients": [
+        "",
+        "Avocado oil \u2013 4.8 oz",
+        "Coconut oil \u2013 6.4 oz",
+        "Castor oil \u2013 1.6 oz",
+        "Grapeseed oil \u2013 4.8 oz",
+        "Olive oil \u2013 7.4 oz",
+        "Shea butter \u2013 3.9 oz",
+        "Mango seed butter \u2013 3.2 oz",
+        "Water \u2013 12.2 oz",
+        "Sodium Hydroxide \u2013 4.25 oz",
+        "Instructions/"
+      ],
+      "instructions": "**\n1.  Weigh out all ingredients.\n2.  Make the lye solution (always pour lye into water, never the reverse).\n3.  Soap between 80 to 90 degrees Fahrenheit.\n4.  This recipe is designed for 7% superfat (lye discount) and 38% water as a percentage of oil weight. Be sure to run it through your favorite soap calculator (e.g., soapcalc.net) to verify.\n**",
+      "source_url": "https://eccentricitiesbyjvg.com/joy-handmade-soap-making-free-cold-process-recipe/",
+      "benefits": "** Balanced recipe with skin-loving ingredients (Avocado oil, Coconut oil, Castor oil, Grapeseed oil, Olive oil, Shea butter, Mango seed butter), produces a great, silky soap.\n**",
+      "structured_ingredients": [
+        {
+          "original": ""
+        },
+        {
+          "original": "Avocado oil \u2013 4.8 oz"
+        },
+        {
+          "original": "Coconut oil \u2013 6.4 oz"
+        },
+        {
+          "original": "Castor oil \u2013 1.6 oz"
+        },
+        {
+          "original": "Grapeseed oil \u2013 4.8 oz"
+        },
+        {
+          "original": "Olive oil \u2013 7.4 oz"
+        },
+        {
+          "original": "Shea butter \u2013 3.9 oz"
+        },
+        {
+          "original": "Mango seed butter \u2013 3.2 oz"
+        },
+        {
+          "original": "Water \u2013 12.2 oz"
+        },
+        {
+          "original": "Sodium Hydroxide \u2013 4.25 oz"
+        },
+        {
+          "original": "Instructions/"
+        }
+      ]
+    },
+    {
+      "name": "---",
+      "type": "Cold Process",
+      "ingredients": [],
+      "instructions": "",
+      "source_url": "https://eccentricitiesbyjvg.com/joy-handmade-soap-making-free-cold-process-recipe/",
+      "benefits": "",
+      "structured_ingredients": []
+    },
+    {
+      "name": "Recipe Name:** Very Basic Cold Process Soap Recipe",
+      "type": "Cold Process",
+      "ingredients": [
+        "",
+        "Olive Oil - 65%",
+        "Coconut Oil - 30%",
+        "Castor Oil - 5%",
+        "Lye and Water (to be calculated based on batch size)",
+        "Instructions/"
+      ],
+      "instructions": "**\n1.  Enter the oil percentages into a lye calculator (e.g., soapcalc.net) to determine the required lye (Sodium Hydroxide) and water amounts for your desired batch size.\n2.  Set the superfat at 8 to 10% because of the high amount of coconut oil.\n**",
+      "source_url": "https://eccentricitiesbyjvg.com/joy-handmade-soap-making-free-cold-process-recipe/",
+      "benefits": "** Simple and basic recipe, good for beginners.\n**",
+      "structured_ingredients": [
+        {
+          "original": ""
+        },
+        {
+          "original": "Olive Oil - 65%"
+        },
+        {
+          "original": "Coconut Oil - 30%"
+        },
+        {
+          "original": "Castor Oil - 5%"
+        },
+        {
+          "original": "Lye and Water (to be calculated based on batch size)"
+        },
+        {
+          "original": "Instructions/"
+        }
+      ]
+    },
+    {
+      "name": "Simple Natural Homemade Soap",
+      "type": "Cold Process",
+      "ingredients": [
+        "Gentle, skin-conditioning (olive oil), adds hardness and bubbles (coconut oil), promotes better lather (castor oil), suitable for sensitive skin.",
+        "Ingredients:",
+        "Olive Oil: 12 oz (340 g) (75%)",
+        "Coconut Oil (or Babassu Oil): 2.5 oz (71 g) (15.6%)",
+        "Castor Oil: 1.5 oz (43 g) (9.4%)",
+        "Food Grade Lye (6% superfat): 2.14 oz (60 g)",
+        "Distilled Water: 4.5 oz (128 g)"
+      ],
+      "instructions": "1. Make the Lye Solution: Weigh water and lye separately. Sprinkle lye into water (never reverse) and stir until dissolved. Work in a well-ventilated area. Set aside to cool to around 90-100\u00b0F (32-38\u00b0C).\n2. Weigh and Heat the Oils: Weigh coconut oil and melt it. Weigh olive and castor oils into a separate pot. Pour melted coconut oil into the other oils to bring the temperature to around 90-100\u00b0F.\n3. Combine and Mix Until Trace: Pour the lye solution into the warm oils. Use a stick blender to mix in alternating short bursts until \"trace\" is reached (when the batter is thick enough to leave an imprint). Add essential oils (optional) at this stage.\n4. Pour Into Mold: Pour the batter into the mold. Cover gently with freezer paper, then a blanket/towel to hold heat. After 24 hours, remove the cover. Unmold after 2-3 days or when firm.\n5. Cure and Enjoy!: Slice into bars and cure in open air for at least 4 to 6 weeks.",
+      "source_url": "https://thenerdyfarmwife.com/how-to-make-a-simple-natural-homemade-soap/",
+      "benefits": "Gentle, skin-conditioning (olive oil), adds hardness and bubbles (coconut oil), promotes better lather (castor oil), suitable for sensitive skin.\nIngredients:\n- Olive Oil: 12 oz (340 g) (75%)\n- Coconut Oil (or Babassu Oil): 2.5 oz (71 g) (15.6%)\n- Castor Oil: 1.5 oz (43 g) (9.4%)\n- Food Grade Lye (6% superfat): 2.14 oz (60 g)\n- Distilled Water: 4.5 oz (128 g)\nInstructions:\n1. Make the Lye Solution: Weigh water and lye separately. Sprinkle lye into water (never reverse) and stir until dissolved. Work in a well-ventilated area. Set aside to cool to around 90-100\u00b0F (32-38\u00b0C).\n2. Weigh and Heat the Oils: Weigh coconut oil and melt it. Weigh olive and castor oils into a separate pot. Pour melted coconut oil into the other oils to bring the temperature to around 90-100\u00b0F.\n3. Combine and Mix Until Trace: Pour the lye solution into the warm oils. Use a stick blender to mix in alternating short bursts until \"trace\" is reached (when the batter is thick enough to leave an imprint). Add essential oils (optional) at this stage.\n4. Pour Into Mold: Pour the batter into the mold. Cover gently with freezer paper, then a blanket/towel to hold heat. After 24 hours, remove the cover. Unmold after 2-3 days or when firm.\n5. Cure and Enjoy!: Slice into bars and cure in open air for at least 4 to 6 weeks.",
+      "structured_ingredients": [
+        {
+          "original": "Gentle, skin-conditioning (olive oil), adds hardness and bubbles (coconut oil), promotes better lather (castor oil), suitable for sensitive skin."
+        },
+        {
+          "original": "Ingredients:"
+        },
+        {
+          "original": "Olive Oil: 12 oz (340 g) (75%)"
+        },
+        {
+          "original": "Coconut Oil (or Babassu Oil): 2.5 oz (71 g) (15.6%)"
+        },
+        {
+          "original": "Castor Oil: 1.5 oz (43 g) (9.4%)"
+        },
+        {
+          "original": "Food Grade Lye (6% superfat): 2.14 oz (60 g)"
+        },
+        {
+          "original": "Distilled Water: 4.5 oz (128 g)"
+        }
+      ]
+    },
+    {
+      "name": "--- Recipe 1: Old Faithful ---",
+      "type": "Cold Process",
+      "ingredients": [],
+      "instructions": "",
+      "source_url": "https://www.brambleberry.com/cold-process/formulating-cold-process-soap-recipes.html",
+      "benefits": "",
+      "structured_ingredients": []
+    },
+    {
+      "name": "Old Faithful",
+      "type": "Cold Process",
+      "ingredients": [
+        "32% Coconut Oil",
+        "32% Palm Oil",
+        "32% Olive Oil",
+        "4% Castor Oil"
+      ],
+      "instructions": "This article provides the oil blend percentages for the recipe, which is superfatted at 5%. Full cold process soap making instructions, including the required amounts of lye (sodium hydroxide) and water, must be calculated using a lye calculator based on the total batch size.",
+      "source_url": "https://www.brambleberry.com/cold-process/formulating-cold-process-soap-recipes.html",
+      "benefits": "Simple, reliable, great for beginners. Castor oil provides a luscious lather.",
+      "structured_ingredients": [
+        {
+          "percentage": 32.0,
+          "name": "Coconut Oil",
+          "original": "32% Coconut Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 32.0,
+          "name": "Palm Oil",
+          "original": "32% Palm Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 32.0,
+          "name": "Olive Oil",
+          "original": "32% Olive Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 4.0,
+          "name": "Castor Oil",
+          "original": "4% Castor Oil",
+          "is_percentage": true
+        }
+      ]
+    },
+    {
+      "name": "--- Recipe 2: Old Faithful with a Twist ---",
+      "type": "Cold Process",
+      "ingredients": [],
+      "instructions": "",
+      "source_url": "https://www.brambleberry.com/cold-process/formulating-cold-process-soap-recipes.html",
+      "benefits": "",
+      "structured_ingredients": []
+    },
+    {
+      "name": "Old Faithful with a Twist",
+      "type": "Cold Process",
+      "ingredients": [
+        "25% Coconut Oil",
+        "25% Palm Oil",
+        "30% Olive Oil",
+        "15% Sweet Almond Oil",
+        "5% Mango Butter"
+      ],
+      "instructions": "This article provides the oil blend percentages for the recipe, which is superfatted at 5%. Full cold process soap making instructions, including the required amounts of lye (sodium hydroxide) and water, must be calculated using a lye calculator based on the total batch size.",
+      "source_url": "https://www.brambleberry.com/cold-process/formulating-cold-process-soap-recipes.html",
+      "benefits": "Fairly standard recipe with moisturizing extras like Sweet Almond Oil and Mango Butter (or Shea Butter).",
+      "structured_ingredients": [
+        {
+          "percentage": 25.0,
+          "name": "Coconut Oil",
+          "original": "25% Coconut Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 25.0,
+          "name": "Palm Oil",
+          "original": "25% Palm Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 30.0,
+          "name": "Olive Oil",
+          "original": "30% Olive Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 15.0,
+          "name": "Sweet Almond Oil",
+          "original": "15% Sweet Almond Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 5.0,
+          "name": "Mango Butter",
+          "original": "5% Mango Butter",
+          "is_percentage": true
+        }
+      ]
+    },
+    {
+      "name": "--- Recipe 3: Perfectly Palm Free ---",
+      "type": "Cold Process",
+      "ingredients": [],
+      "instructions": "",
+      "source_url": "https://www.brambleberry.com/cold-process/formulating-cold-process-soap-recipes.html",
+      "benefits": "",
+      "structured_ingredients": []
+    },
+    {
+      "name": "Perfectly Palm Free",
+      "type": "Cold Process",
+      "ingredients": [
+        "15% Coconut Oil",
+        "30% Canola Oil",
+        "25% Rice Bran Oil",
+        "15% Shea Butter",
+        "10% Avocado Oil",
+        "5% Chia Seed Oil"
+      ],
+      "instructions": "This article provides the oil blend percentages for the recipe, which is superfatted at 5%. Full cold process soap making instructions, including the required amounts of lye (sodium hydroxide) and water, must be calculated using a lye calculator based on the total batch size.",
+      "source_url": "https://www.brambleberry.com/cold-process/formulating-cold-process-soap-recipes.html",
+      "benefits": "Palm-free. A slow-moving recipe, great for intricate designs.",
+      "structured_ingredients": [
+        {
+          "percentage": 15.0,
+          "name": "Coconut Oil",
+          "original": "15% Coconut Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 30.0,
+          "name": "Canola Oil",
+          "original": "30% Canola Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 25.0,
+          "name": "Rice Bran Oil",
+          "original": "25% Rice Bran Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 15.0,
+          "name": "Shea Butter",
+          "original": "15% Shea Butter",
+          "is_percentage": true
+        },
+        {
+          "percentage": 10.0,
+          "name": "Avocado Oil",
+          "original": "10% Avocado Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 5.0,
+          "name": "Chia Seed Oil",
+          "original": "5% Chia Seed Oil",
+          "is_percentage": true
+        }
+      ]
+    },
+    {
+      "name": "--- Recipe 4: Beautiful Swirls ---",
+      "type": "Cold Process",
+      "ingredients": [],
+      "instructions": "",
+      "source_url": "https://www.brambleberry.com/cold-process/formulating-cold-process-soap-recipes.html",
+      "benefits": "",
+      "structured_ingredients": []
+    },
+    {
+      "name": "Beautiful Swirls",
+      "type": "Cold Process",
+      "ingredients": [
+        "20% Coconut Oil",
+        "30% Palm Oil",
+        "20% Canola Oil",
+        "4% Castor Oil",
+        "6% Sweet Almond Oil",
+        "10% Rice Bran Oil",
+        "10% Sunflower Oil"
+      ],
+      "instructions": "This article provides the oil blend percentages for the recipe, which is superfatted at 5%. Full cold process soap making instructions, including the required amounts of lye (sodium hydroxide) and water, must be calculated using a lye calculator based on the total batch size.",
+      "source_url": "https://www.brambleberry.com/cold-process/formulating-cold-process-soap-recipes.html",
+      "benefits": "Excellent for intricate designs such as swirls, layers, and embeds.",
+      "structured_ingredients": [
+        {
+          "percentage": 20.0,
+          "name": "Coconut Oil",
+          "original": "20% Coconut Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 30.0,
+          "name": "Palm Oil",
+          "original": "30% Palm Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 20.0,
+          "name": "Canola Oil",
+          "original": "20% Canola Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 4.0,
+          "name": "Castor Oil",
+          "original": "4% Castor Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 6.0,
+          "name": "Sweet Almond Oil",
+          "original": "6% Sweet Almond Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 10.0,
+          "name": "Rice Bran Oil",
+          "original": "10% Rice Bran Oil",
+          "is_percentage": true
+        },
+        {
+          "percentage": 10.0,
+          "name": "Sunflower Oil",
+          "original": "10% Sunflower Oil",
+          "is_percentage": true
+        }
+      ]
+    },
+    {
+      "name": "---",
+      "type": "Cold Process",
+      "ingredients": [],
+      "instructions": "",
+      "source_url": "https://www.wherethedogwoodblooms.com/basic-hot-process-soap-recipe/",
+      "benefits": "",
+      "structured_ingredients": []
+    }
+  ]
+}
