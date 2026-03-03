@@ -1,23 +1,12 @@
 import { RecipeCard } from "@/components/RecipeCard";
 import { RecipeDetail } from "@/components/RecipeDetail";
-import { Button } from "@/components/ui/button";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import recipesData from "@/data/recipes.json";
-import { ArrowRight, Droplets, Flame, Snowflake, Sun, Sparkles, Beaker, Heart, Scissors, Calculator } from "lucide-react";
 import SoapCalcReplica from "@/components/SoapCalcReplica";
 import { Badge } from "@/components/ui/badge";
-import { useState } from "react";
-
-interface Recipe {
-  name: string;
-  type: string;
-  ingredients: string[] | string;
-  instructions: string;
-  source_url: string;
-  benefits?: string;
-  structured_ingredients?: { amount: number; unit: string; name: string }[];
-}
+import { useState, useMemo } from "react";
+import type { Recipe } from "@/types/recipe";
 
 // Combine recipes into a single list with type property
 const allRecipes: Recipe[] = [
@@ -89,6 +78,12 @@ export default function Home() {
 
   const currentRecipe = allRecipes.find(r => r.name === selectedRecipe);
 
+  // Memoize sorted recipes to avoid mutating allRecipes on every render
+  const sortedRecipes = useMemo(
+    () => [...allRecipes].sort((a, b) => a.name.localeCompare(b.name)),
+    []
+  );
+
   // Handle recipe selection from dropdown
   const handleRecipeSelect = (value: string) => {
     if (value && value !== "none") {
@@ -128,8 +123,8 @@ export default function Home() {
                 <SelectValue placeholder="Jump directly to a recipe..." />
               </SelectTrigger>
               <SelectContent className="max-h-[300px]">
-                {allRecipes.sort((a, b) => a.name.localeCompare(b.name)).map((recipe, idx) => (
-                  <SelectItem key={idx} value={recipe.name} className="cursor-pointer">
+                {sortedRecipes.map((recipe) => (
+                  <SelectItem key={recipe.name} value={recipe.name} className="cursor-pointer">
                     {recipe.name}
                   </SelectItem>
                 ))}
@@ -183,9 +178,9 @@ export default function Home() {
                 </div>
               ) : (
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
-                  {filteredRecipes.map((recipe, idx) => (
-                    <div 
-                      key={idx} 
+                  {filteredRecipes.map((recipe) => (
+                    <div
+                      key={recipe.name}
                       onClick={() => setSelectedRecipe(recipe.name)}
                       className="cursor-pointer h-full"
                     >

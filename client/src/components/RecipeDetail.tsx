@@ -1,12 +1,11 @@
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
 import { Separator } from "@/components/ui/separator";
 import { Slider } from "@/components/ui/slider";
-import { ArrowLeft, Calculator, ExternalLink, Leaf, Scale, Sun, Thermometer } from "lucide-react";
+import { ArrowLeft, Calculator, ExternalLink, Scale, Sun, Thermometer } from "lucide-react";
 import { useState } from "react";
+import type { Recipe, StructuredIngredient } from "@/types/recipe";
 
 // Helper to map instruction text to images
 const getInstructionImage = (text: string) => {
@@ -18,25 +17,6 @@ const getInstructionImage = (text: string) => {
   if (lower.includes("lye") || lower.includes("sodium hydroxide") || lower.includes("safety")) return "/images/step-measuring-lye.jpg";
   return null;
 };
-
-interface Ingredient {
-  amount?: number;
-  unit?: string;
-  name?: string;
-  original?: string;
-  percentage?: number;
-  is_percentage?: boolean;
-}
-
-interface Recipe {
-  name: string;
-  type: string;
-  ingredients: string[] | string;
-  structured_ingredients?: Ingredient[];
-  instructions: string;
-  source_url: string;
-  benefits?: string;
-}
 
 interface RecipeDetailProps {
   recipe: Recipe;
@@ -61,7 +41,7 @@ export function RecipeDetail({ recipe, onBack }: RecipeDetailProps) {
   const recipeImage = getRecipeImage(recipe.name);
 
   // Helper to format amount based on scale
-  const formatAmount = (ing: Ingredient) => {
+  const formatAmount = (ing: StructuredIngredient) => {
     if (ing.is_percentage) {
       return `${ing.percentage}%`;
     }

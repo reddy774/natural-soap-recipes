@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from "react";
+import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -13,7 +13,7 @@ import {
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
-import { Trash2, Plus, Calculator, Printer, RefreshCw } from "lucide-react";
+import { Trash2, Plus, Calculator } from "lucide-react";
 import soapCalcOilsData from "../data/soapcalc_oils.json";
 
 // Types matching the extracted data structure
@@ -293,7 +293,7 @@ const SoapCalcReplica = () => {
             <CardTitle className="text-lg font-serif text-emerald-900">1. Type of Lye</CardTitle>
           </CardHeader>
           <CardContent>
-            <RadioGroup value={lyeType} onValueChange={(v: any) => setLyeType(v)} className="flex flex-col gap-2">
+            <RadioGroup value={lyeType} onValueChange={(v) => setLyeType(v as "NaOH" | "KOH" | "KOH90")} className="flex flex-col gap-2">
               <div className="flex items-center space-x-2">
                 <RadioGroupItem value="NaOH" id="naoh" />
                 <Label htmlFor="naoh">NaOH</Label>
@@ -316,7 +316,7 @@ const SoapCalcReplica = () => {
             <CardTitle className="text-lg font-serif text-emerald-900">2. Oil Weight</CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
-            <RadioGroup value={weightUnit} onValueChange={(v: any) => setWeightUnit(v)} className="flex gap-4">
+            <RadioGroup value={weightUnit} onValueChange={(v) => setWeightUnit(v as "lb" | "oz" | "g")} className="flex gap-4">
               <div className="flex items-center space-x-2">
                 <RadioGroupItem value="lb" id="lb" />
                 <Label htmlFor="lb">Pounds</Label>
@@ -335,7 +335,7 @@ const SoapCalcReplica = () => {
               <Input 
                 type="number" 
                 value={totalOilWeight} 
-                onChange={(e) => setTotalOilWeight(parseFloat(e.target.value))}
+                onChange={(e) => setTotalOilWeight(parseFloat(e.target.value) || 0)}
                 className="w-24"
               />
               <span className="text-sm text-muted-foreground">{weightUnit}</span>
@@ -362,7 +362,7 @@ const SoapCalcReplica = () => {
               <Input 
                 type="number" 
                 value={waterPercentOfOils} 
-                onChange={(e) => setWaterPercentOfOils(parseFloat(e.target.value))}
+                onChange={(e) => setWaterPercentOfOils(parseFloat(e.target.value) || 0)}
                 disabled={waterCalculationMethod !== "percentOfOils"}
                 className="w-20 h-8"
               />
@@ -380,7 +380,7 @@ const SoapCalcReplica = () => {
               <Input 
                 type="number" 
                 value={lyeConcentration} 
-                onChange={(e) => setLyeConcentration(parseFloat(e.target.value))}
+                onChange={(e) => setLyeConcentration(parseFloat(e.target.value) || 0)}
                 disabled={waterCalculationMethod !== "lyeConcentration"}
                 className="w-20 h-8"
               />
@@ -399,7 +399,7 @@ const SoapCalcReplica = () => {
                 <Input 
                   type="number" 
                   value={waterLyeRatio} 
-                  onChange={(e) => setWaterLyeRatio(parseFloat(e.target.value))}
+                  onChange={(e) => setWaterLyeRatio(parseFloat(e.target.value) || 0)}
                   disabled={waterCalculationMethod !== "waterLyeRatio"}
                   className="w-16 h-8"
                 />
@@ -420,7 +420,7 @@ const SoapCalcReplica = () => {
               <Input 
                 type="number" 
                 value={superfat} 
-                onChange={(e) => setSuperfat(parseFloat(e.target.value))}
+                onChange={(e) => setSuperfat(parseFloat(e.target.value) || 0)}
                 className="w-20 h-8"
               />
             </div>
@@ -429,7 +429,7 @@ const SoapCalcReplica = () => {
               <Input 
                 type="number" 
                 value={fragranceRatio} 
-                onChange={(e) => setFragranceRatio(parseFloat(e.target.value))}
+                onChange={(e) => setFragranceRatio(parseFloat(e.target.value) || 0)}
                 className="w-20 h-8"
               />
             </div>
@@ -483,7 +483,7 @@ const SoapCalcReplica = () => {
                           <Input 
                             type="number" 
                             value={oil.percentage} 
-                            onChange={(e) => updateOilAmount(index, parseFloat(e.target.value), "percent")}
+                            onChange={(e) => updateOilAmount(index, parseFloat(e.target.value) || 0, "percent")}
                             className="h-7 text-xs px-1"
                           />
                         </TableCell>
@@ -491,7 +491,7 @@ const SoapCalcReplica = () => {
                           <Input 
                             type="number" 
                             value={oil.amount.toFixed(2)} 
-                            onChange={(e) => updateOilAmount(index, parseFloat(e.target.value), "weight")}
+                            onChange={(e) => updateOilAmount(index, parseFloat(e.target.value) || 0, "weight")}
                             className="h-7 text-xs px-1"
                           />
                         </TableCell>

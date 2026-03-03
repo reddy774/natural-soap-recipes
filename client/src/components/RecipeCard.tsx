@@ -1,17 +1,9 @@
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
-import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
 import { ExternalLink, Thermometer, Sun } from "lucide-react";
-
-interface Recipe {
-  name: string;
-  type: string;
-  ingredients: string[] | string;
-  instructions: string;
-  source_url: string;
-}
+import type { Recipe } from "@/types/recipe";
 
 interface RecipeCardProps {
   recipe: Recipe;
