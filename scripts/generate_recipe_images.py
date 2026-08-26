@@ -1,12 +1,11 @@
-"""Generate recipe photos with the Gemini API from scripts/research/image-prompts.json.
+"""Generate recipe photos (fal.ai FLUX or Gemini) from scripts/research/image-prompts.json.
 
-Key discovery (first match wins):
-  1. GEMINI_API_KEY environment variable
-  2. %USERPROFILE%\\.gemini\\api_key.txt  (paste the key on the first line)
+Provider/key discovery (first match wins; override with --provider):
+  1. FAL_KEY env var, else %USERPROFILE%\\.fal\\api_key.txt      -> fal.ai (FLUX dev)
+  2. GEMINI_API_KEY env var, else %USERPROFILE%\\.gemini\\api_key.txt -> Gemini
 
-For each recipe slug the script calls Gemini image generation
-(gemini-2.5-flash-image), optimizes the result to an 800px-wide JPEG at
-client/public/images/recipes/<slug>.jpg, and rewrites
+For each recipe slug the script generates an image, optimizes it to an
+800px-wide JPEG at client/public/images/recipes/<slug>.jpg, and rewrites
 client/src/data/recipe_photos.json to list every slug that has a photo on
 disk. Resumable: existing photos are skipped unless --force.
 
@@ -14,10 +13,10 @@ Usage (from repo root):
     python scripts/generate_recipe_images.py --limit 3      # pilot batch
     python scripts/generate_recipe_images.py                # everything missing
     python scripts/generate_recipe_images.py --only <slug>  # one recipe
-    python scripts/generate_recipe_images.py --delay 5      # slower (free tier)
+    python scripts/generate_recipe_images.py --delay 5      # slower
 
-Cost note: roughly $0.04/image on the paid tier (~$25 for all 627). The free
-tier rate-limits hard; use --delay 10 or run in small batches there.
+Cost note: fal.ai FLUX dev ~ $0.02/image (~$13 for all 627); Gemini
+~ $0.04/image on the paid tier.
 """
 
 import argparse
@@ -38,52 +37,50 @@ PROMPTS = REPO / "scripts" / "research" / "image-prompts.json"
 OUT_DIR = REPO / "client" / "public" / "images" / "recipes"
 MANIFEST = REPO / "client" / "src" / "data" / "recipe_photos.json"
 
-MODEL = "gemini-2.5-flash-image"
-ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+GEMINI_MODEL = "gemini-2.5-flash-image"
+GEMINI_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+FAL_MODEL = "fal-ai/flux/dev"
+FAL_ENDPOINT = f"https://fal.run/{FAL_MODEL}"
 MAX_RETRIES = 5
 
 
-def find_api_key() -> str:
-    key = os.environ.get("GEMINI_API_KEY", "").strip()
-    if key:
-        return key
-    key_file = Path.home() / ".gemini" / "api_key.txt"
-    if key_file.exists():
-        key = key_file.read_text(encoding="utf-8").strip().splitlines()[0].strip()
-        if key:
-            return key
+def read_key_file(path: Path) -> str:
+    if not path.exists():
+        return ""
+    content = path.read_text(encoding="utf-8").strip()
+    return content.splitlines()[0].strip() if content else ""
+
+
+def find_provider(preferred: str | None) -> tuple[str, str]:
+    """Return (provider, key). Provider preference: fal, then gemini."""
+    fal_key = os.environ.get("FAL_KEY", "").strip() or read_key_file(Path.home() / ".fal" / "api_key.txt")
+    gemini_key = os.environ.get("GEMINI_API_KEY", "").strip() or read_key_file(
+        Path.home() / ".gemini" / "api_key.txt"
+    )
+    candidates = {"fal": fal_key, "gemini": gemini_key}
+    if preferred:
+        if candidates.get(preferred):
+            return preferred, candidates[preferred]
+        sys.exit(f"--provider {preferred} requested but no key found for it")
+    for provider in ("fal", "gemini"):
+        if candidates[provider]:
+            return provider, candidates[provider]
     sys.exit(
-        "No Gemini API key found.\n"
-        "Either set the environment variable:  setx GEMINI_API_KEY \"<your key>\"\n"
-        f"or paste the key into:               {key_file}\n"
-        "Get a key at https://aistudio.google.com/apikey"
+        "No image API key found. Provide one of:\n"
+        "  fal.ai:  setx FAL_KEY \"<key>\"        or paste into %USERPROFILE%\\.fal\\api_key.txt\n"
+        "  Gemini:  setx GEMINI_API_KEY \"<key>\" or paste into %USERPROFILE%\\.gemini\\api_key.txt"
     )
 
 
-def generate_image(api_key: str, prompt: str, aspect_ratio: str) -> bytes:
-    body = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "responseModalities": ["IMAGE"],
-            "imageConfig": {"aspectRatio": aspect_ratio},
-        },
-    }).encode("utf-8")
-    request = urllib.request.Request(
-        ENDPOINT,
-        data=body,
-        headers={"Content-Type": "application/json", "x-goog-api-key": api_key},
-        method="POST",
-    )
+def post_json_with_retry(url: str, headers: dict, body: dict) -> dict:
+    data = json.dumps(body).encode("utf-8")
     for attempt in range(MAX_RETRIES):
+        request = urllib.request.Request(
+            url, data=data, headers={"Content-Type": "application/json", **headers}, method="POST"
+        )
         try:
-            with urllib.request.urlopen(request, timeout=120) as response:
-                payload = json.loads(response.read().decode("utf-8"))
-            parts = payload["candidates"][0]["content"]["parts"]
-            for part in parts:
-                data = part.get("inlineData") or part.get("inline_data")
-                if data and data.get("data"):
-                    return base64.b64decode(data["data"])
-            raise RuntimeError(f"no image in response: {json.dumps(payload)[:300]}")
+            with urllib.request.urlopen(request, timeout=180) as response:
+                return json.loads(response.read().decode("utf-8"))
         except urllib.error.HTTPError as error:
             detail = error.read().decode("utf-8", errors="replace")[:200]
             if error.code in (429, 500, 503) and attempt < MAX_RETRIES - 1:
@@ -92,7 +89,55 @@ def generate_image(api_key: str, prompt: str, aspect_ratio: str) -> bytes:
                 time.sleep(wait)
                 continue
             raise RuntimeError(f"HTTP {error.code}: {detail}") from error
-    raise RuntimeError("retries exhausted")
+    raise RuntimeError("retries exhausted")  # only reachable on repeated retryable errors
+
+
+def generate_gemini(api_key: str, prompt: str, aspect_ratio: str) -> bytes:
+    payload = post_json_with_retry(
+        GEMINI_ENDPOINT,
+        {"x-goog-api-key": api_key},
+        {
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "responseModalities": ["IMAGE"],
+                "imageConfig": {"aspectRatio": aspect_ratio},
+            },
+        },
+    )
+    parts = payload["candidates"][0]["content"]["parts"]
+    for part in parts:
+        data = part.get("inlineData") or part.get("inline_data")
+        if data and data.get("data"):
+            return base64.b64decode(data["data"])
+    raise RuntimeError(f"no image in response: {json.dumps(payload)[:300]}")
+
+
+FAL_SIZES = {"4:3": "landscape_4_3", "3:4": "portrait_4_3", "16:9": "landscape_16_9", "1:1": "square"}
+
+
+def generate_fal(api_key: str, prompt: str, aspect_ratio: str) -> bytes:
+    payload = post_json_with_retry(
+        FAL_ENDPOINT,
+        {"Authorization": f"Key {api_key}"},
+        {
+            "prompt": prompt,
+            "image_size": FAL_SIZES.get(aspect_ratio, "landscape_4_3"),
+            "num_images": 1,
+            "output_format": "jpeg",
+            "enable_safety_checker": True,
+        },
+    )
+    images = payload.get("images") or []
+    if not images or not images[0].get("url"):
+        raise RuntimeError(f"no image in response: {json.dumps(payload)[:300]}")
+    with urllib.request.urlopen(images[0]["url"], timeout=120) as response:
+        return response.read()
+
+
+def generate_image(provider: str, api_key: str, prompt: str, aspect_ratio: str) -> bytes:
+    if provider == "fal":
+        return generate_fal(api_key, prompt, aspect_ratio)
+    return generate_gemini(api_key, prompt, aspect_ratio)
 
 
 def optimize_and_save(raw: bytes, out_path: Path) -> None:
@@ -116,9 +161,11 @@ def main() -> None:
     parser.add_argument("--only", help="generate a single slug")
     parser.add_argument("--force", action="store_true", help="regenerate even if the photo exists")
     parser.add_argument("--delay", type=float, default=2.0, help="seconds between requests")
+    parser.add_argument("--provider", choices=["fal", "gemini"], help="force a provider")
     args = parser.parse_args()
 
-    api_key = find_api_key()
+    provider, api_key = find_provider(args.provider)
+    print(f"provider: {provider}")
     prompts: dict = json.loads(PROMPTS.read_text(encoding="utf-8"))
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -138,7 +185,7 @@ def main() -> None:
     for index, (slug, spec, out_path) in enumerate(todo, 1):
         print(f"[{index}/{len(todo)}] {slug}")
         try:
-            raw = generate_image(api_key, spec["prompt"], spec.get("aspect_ratio", "4:3"))
+            raw = generate_image(provider, api_key, spec["prompt"], spec.get("aspect_ratio", "4:3"))
             optimize_and_save(raw, out_path)
             generated += 1
         except Exception as error:  # keep going; report at the end

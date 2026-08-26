@@ -82,18 +82,20 @@ def main() -> None:
                 continue
             tips = list(guide.get("tips") or [])
             sources = list(guide.get("sources") or [])
+            family_changed = False
             for tip in family.get("tips", []):
                 if tip not in tips and len(tips) < MAX_TIPS:
                     tips.append(tip)
-                    changed = True
+                    family_changed = True
             for src in family.get("sources", []):
                 if src not in sources and len(sources) < MAX_SOURCES:
                     sources.append(src)
-                    changed = True
-            if changed:
+                    family_changed = True
+            if family_changed:
                 guide["tips"] = tips
                 guide["sources"] = sources
                 touched_per_family[family["family"]] += 1
+                changed = True
         if changed:
             guides_touched += 1
 
