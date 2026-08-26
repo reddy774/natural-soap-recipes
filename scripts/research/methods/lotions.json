@@ -1,0 +1,105 @@
+{
+  "equipment": [
+    "Digital scale accurate to at least 0.1 g (0.01 g ideal for preservatives)",
+    "Digital thermometer (instant-read or infrared)",
+    "Immersion (stick) blender - a whisk alone cannot form a stable emulsion",
+    "Two heat-proof glass beakers or funnel pitchers (one for the water phase, one for the oil phase)",
+    "Large pot or skillet with 2-3 cm of water plus a wire rack or canning ring, to act as a double boiler / water bath",
+    "Spray bottle of 70% isopropyl alcohol for sanitizing",
+    "Flexible spatulas and pipettes for cool-down ingredients",
+    "Disposable piping bag or zip-top bag for filling bottles cleanly",
+    "Final packaging: pump, disc-cap, or flip-top bottles preferred over open jars",
+    "Stovetop or portable burner, timer, and paper towels"
+  ],
+  "safety": [
+    "This is the golden rule from every authority (Soap Queen, Humblebee & Me, School of Natural Skincare, Wholesale Supplies Plus): ANY product containing water - lotion, cream, anything with hydrosols, aloe, or milks - MUST contain a broad-spectrum preservative. Unpreserved lotion can grow mold and bacteria within days to weeks, sometimes invisibly.",
+    "Anhydrous whipped body butters and balms (100% oils, butters, waxes) do not support microbial growth and do not require a preservative - but add an antioxidant like vitamin E to delay rancidity, and add a preservative anyway if the product will be scooped with wet fingers or stored in a steamy bathroom.",
+    "Sanitize the workspace, every tool, and every container with 70% isopropyl alcohol before starting; work with gloves and tied-back hair.",
+    "Use distilled or deionized water only - never tap water, which carries minerals and microbes.",
+    "Heat-and-hold both phases at 158°F (70°C) for 20 minutes to kill microbes in the raw ingredients and ensure full emulsifier melt.",
+    "Respect preservative parameters: Liquid Germall Plus at 0.5% (max - more is not better), Germaben II at 1%, Optiphen at 1.5%, all added in cool-down below about 104-115°F; check each preservative's pH range and incompatibilities (e.g., Optiphen ND conflicts with BTMS-50).",
+    "Hot oil and water phases scald - use pot holders, keep beaker handles inward, and never blend hot liquid in an overfilled container.",
+    "Label with an ingredient declaration and follow FDA cosmetic labeling rules if the product leaves your house."
+  ],
+  "phases": [
+    {
+      "title": "Phase 1 - Sanitize and weigh the phases",
+      "steps": [
+        "Spray your counter, beakers, spatulas, immersion blender head, and bottles with 70% isopropyl alcohol and let them air-dry.",
+        "Write your formula in percentages totaling 100, then convert to grams for your batch size. A proven beginner structure (cross-referencing Wholesale Supplies Plus and Soap Queen): water phase 70-80% (distilled water, plus 2-5% humectant such as glycerin or sodium lactate); oil phase 15-25% (oils and butters 10-20%, emulsifying wax 3-6%, optional stearic acid 2% as thickener); cool-down 2-3% (preservative about 1% and fragrance up to 2%).",
+        "A concrete example - WSP's Basic Body Lotion: 64% distilled water, 3% glycerin, 2% sodium lactate, 16% avocado oil, 5% shea butter, 5% emulsifying wax, 2% stearic acid, 2% fragrance, 1% Germaben II. Humblebee & Me's beginner version: 74% distilled water, 5% sodium lactate, 5% Ritamulse SCG, 15% MCT oil, 1% preservative.",
+        "Weigh the water phase ingredients into one heat-proof beaker and the oil phase ingredients (including the emulsifying wax - it always goes in the oil phase) into the other.",
+        "Weigh out the cool-down ingredients into small cups and set them aside where they will not be knocked over."
+      ]
+    },
+    {
+      "title": "Phase 2 - Heat and hold both phases (158°F / 70°C for 20 minutes)",
+      "steps": [
+        "Bring 2-3 cm (about 1 inch) of water to a bare simmer in the pot and place both beakers in this water bath on the wire rack.",
+        "Heat both phases to 158°F (70°C), checking with the thermometer, and hold them there for a full 20 minutes - this pasteurizes the ingredients and guarantees the emulsifying wax and butters are completely melted.",
+        "Stir each phase occasionally with its own clean spatula; the oil phase is ready only when it is fully transparent liquid with no waxy flecks.",
+        "Top up the water phase with a splash of extra distilled water if noticeable evaporation occurs during the hold (some makers pre-weigh about 10% extra water to compensate).",
+        "Make sure both phases are at the same temperature (within a few degrees of each other, around 158°F) before combining - combining phases at mismatched temperatures is a classic cause of failed, separated emulsions."
+      ]
+    },
+    {
+      "title": "Phase 3 - Combine and emulsify",
+      "steps": [
+        "Remove both beakers from the water bath and slowly pour the water phase into the oil phase (or oil into water - consistency matters less than temperature) while stirring.",
+        "Immediately blend with the immersion blender in short bursts, keeping the head fully submerged to avoid whipping in air; the mixture will quickly turn opaque, milky white - that color change is the emulsion forming.",
+        "Blend for 1-2 minutes, rest, then blend again in short bursts every few minutes as the lotion cools; it will visibly thicken as the temperature drops.",
+        "Be patient: lotion reaches most of its thickness as it cools, and full final viscosity only after about 24 hours - do not add more emulsifier just because the warm mixture looks thin."
+      ]
+    },
+    {
+      "title": "Phase 4 - Cool-down additions (below 104-115°F / 40-45°C)",
+      "steps": [
+        "Let the emulsion cool, stirring occasionally, until it is below about 104°F / 40°C (Humblebee & Me's threshold; WSP uses below 115°F / 45°C) - if you have no thermometer, the beaker should feel only slightly warm, like bath water.",
+        "Add the preservative at its correct rate (e.g., Liquid Germall Plus 0.5%, Germaben II 1%, or Optiphen 1.5%) and stir or briefly blend until fully incorporated - adding it hotter than its tolerance degrades it and silently leaves the lotion unprotected.",
+        "Add fragrance or essential oil (typically up to 1-2% for body products) and any other heat-sensitive extracts or actives.",
+        "Keep the entire cool-down phase to 10% or less of the formula - per Humblebee & Me, dumping too much into an already-formed emulsion can destabilize it.",
+        "Give one final short blend so everything is uniform."
+      ]
+    },
+    {
+      "title": "Phase 5 - Bottle, cure, and label",
+      "steps": [
+        "Spoon or pipe the finished lotion into sanitized bottles using a piping bag or zip-top bag with a corner snipped off, filling from the bottom up to avoid air pockets.",
+        "Cap immediately; pump, disc-cap, and flip-top bottles are strongly preferred over open jars because every open-jar scoop introduces air and skin flora (if you must use a jar, use the preservative at its maximum recommended rate).",
+        "Wipe bottles clean, then let the lotion sit 24 hours to reach final thickness before judging or adjusting the formula.",
+        "Label with product identity, net weight in ounces and grams, business name and address, and the full INCI ingredient list in descending order of predominance.",
+        "Date each batch and keep a batch log (formula, lot numbers, date) so any problem can be traced."
+      ]
+    }
+  ],
+  "finishing": [
+    "Store finished lotion in a cool, dark place away from direct sunlight and heat; heat stresses both the emulsion and the preservative.",
+    "A properly preserved lotion in clean packaging is typically good for about 1 year, but never longer than the earliest expiry/rancidity date of the oils used in it.",
+    "Watch for spoilage signs at every use: separation, off or sour smell, color change, or any fuzzy growth means discard the whole container immediately - and remember contamination is often invisible.",
+    "For anhydrous whipped butters: store below about 75°F so they do not melt and lose their whip, no preservative needed if kept dry, and expect roughly a 6-12 month life driven by the oils' freshness (add 0.5% vitamin E to extend it).",
+    "If selling, consider basic challenge/microbial testing (home microbial test kits exist, e.g., from Lotion Crafter) before scaling up a new formula."
+  ],
+  "tips": [
+    "Formulate in percentages and weigh everything - it makes batches reproducible, scalable, and lets you dose the preservative correctly every time.",
+    "More water = thinner lotion; more oils/butters/e-wax = thicker cream. Adjust texture by moving 2-5% between the water and oil phases rather than rewriting the whole formula.",
+    "Match the emulsifier to its documented usage rate: Polawax/e-wax NF at 3-6% of total weight (a common rule of thumb is about 25% of the oil phase), BTMS-50 at 1-15% for a conditioning powder-soft feel, Ritamulse SCG at about 1% per 4-5% of oil (max ~25% oil phase) for a natural-certified option.",
+    "Fix a separated batch by reheating both it and a little extra emulsifier gently to about 130°F and re-blending - hotter than that risks degrading the preservative already in it.",
+    "Germall Plus is the closest thing to a foolproof beginner preservative: broad pH range, water-soluble, hard to deactivate, used at just 0.5%."
+  ],
+  "mistakes": [
+    "Skipping the preservative or substituting a non-preservative (vitamin E, grapefruit seed extract, 'natural antibacterials') in a water-containing product - antioxidants slow rancidity but do nothing against bacteria and mold, and unpreserved lotion can be growing pathogens within weeks even while it still looks fine.",
+    "Skipping heat-and-hold or combining phases at very different temperatures, which produces an emulsion that splits hours or days later.",
+    "Adding preservative or fragrance while the emulsion is still hot (above roughly 104-115°F), which degrades them - the lotion smells weak and, worse, is no longer reliably preserved.",
+    "Using tap water, unsanitized tools, or double-dipped fingers, seeding the product with microbes the preservative then has to fight from day one.",
+    "Judging thickness too early and over-correcting with extra emulsifying wax - lotion thickens dramatically as it cools over 24 hours, and overloaded e-wax gives a heavy, soapy, draggy skin feel."
+  ],
+  "sources": [
+    "https://www.humblebeeandme.com/easy-natural-lotion-for-beginners/",
+    "https://soapqueen.com/bath-and-body-tutorials/lotion/how-to-create-homemade-lotion-recipes/",
+    "https://www.wholesalesuppliesplus.com/blogs/help-how-tos/basic-body-lotion-recipe",
+    "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/perfectly-preserved/",
+    "https://www.humblebeeandme.com/faq/preservatives/",
+    "https://www.schoolofnaturalskincare.com/do-you-need-to-use-preservatives-homemade-natural-skincare-products/",
+    "https://www.mariegale.com/simple-labeling-checklist/"
+  ]
+}

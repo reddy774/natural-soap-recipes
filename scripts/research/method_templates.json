@@ -1,980 +1,1185 @@
 {
-  "cold_process": {
-    "equipment": [
-      "Digital kitchen scale accurate to 1 g (all soap ingredients are measured by weight, never volume)",
-      "Immersion (stick) blender with a stainless steel shaft",
-      "Heat-proof lye-mixing pitcher (heavy-duty polypropylene plastic or stainless steel; never aluminum or tin, which react dangerously with lye)",
-      "Large stainless steel pot or bowl for melting and mixing oils",
-      "2 accurate thermometers (infrared or candy-style) so you can read lye solution and oils separately",
-      "Silicone loaf mold or individual cavity molds (or a wooden mold lined with freezer paper)",
-      "Silicone spatulas and stainless steel spoons dedicated to soapmaking",
-      "Safety goggles, chemical-resistant gloves (nitrile, latex, or rubber dish gloves that reach toward the elbow), apron, long sleeves, closed-toe shoes",
-      "Spray bottle of 91-99% isopropyl alcohol (to help prevent soda ash on the poured soap)",
-      "Old towel or blanket for insulating the mold, plus cling film or cardboard to cover the soap surface",
-      "Stainless steel knife, wire cutter, or soap cutter for slicing the loaf",
-      "White vinegar kept nearby for neutralizing lye spills on surfaces (not on skin - flush skin with copious running water)"
-    ],
-    "safety": [
-      "Sodium hydroxide (lye) is caustic. Suit up before you touch it: goggles, gloves, long sleeves, apron, and closed-toe shoes every time.",
-      "Always pour the lye INTO the liquid, never the liquid into the lye - the reverse can cause a violent, volcano-like eruption.",
-      "Use room-temperature or chilled distilled water. Warm liquid can make the lye solution bubble furiously up and out of the container.",
-      "Mix the lye solution in a well-ventilated area - outdoors or next to an open window - and turn your face away; do not breathe the strong fumes given off in the first moments. The solution self-heats to around 200°F (93°C).",
-      "Work with no children or pets in the room and no distractions until every trace of raw soap batter is cleaned up. Raw batter is still caustic for the first 48 hours.",
-      "Label your lye container clearly and store it sealed and out of reach; never leave a lye solution unattended where it could be mistaken for water.",
-      "Only use lye-safe materials: stainless steel, heavy-duty plastic (HDPE/PP), silicone, or tempered glass. Never aluminum, tin, or flimsy plastic.",
-      "Run every recipe - even a published one - through a lye calculator (e.g., a soap calculator with a 5% superfat default) before you begin."
-    ],
-    "phases": [
-      {
-        "title": "Prepare Your Workspace and Ingredients",
-        "steps": [
-          "Put on your full safety gear and clear a distraction-free workspace with good ventilation.",
-          "Weigh the distilled water into your lye-safe pitcher, then separately weigh the dry lye. Weigh every oil in the recipe on the scale - soap only works when ingredients are measured by weight.",
-          "Prepare your mold: silicone molds need nothing, wooden or cardboard molds need a freezer-paper lining.",
-          "Pre-measure any additives (essential oils, colorants, clays) into small cups so they are ready at trace."
-        ]
-      },
-      {
-        "title": "Prepare the Lye Solution",
-        "steps": [
-          "In a ventilated spot, slowly pour the lye granules into the water (never water into lye), stirring immediately and gently with a stainless steel or silicone utensil until fully dissolved.",
-          "Avert your face from the fumes for the first 30-60 seconds; the solution will turn cloudy and heat to roughly 200°F (93°C).",
-          "Set the solution somewhere safe to cool for about 30-40 minutes, until it drops to roughly 100-110°F (38-43°C)."
-        ]
-      },
-      {
-        "title": "Melt and Temper the Oils",
-        "steps": [
-          "While the lye cools, melt the solid oils and butters (coconut oil, shea butter, etc.) over very low heat, then stir in the liquid oils - adding liquid oils after melting helps keep the overall temperature lower.",
-          "Bring the combined oils to about 90-110°F (32-43°C). A common beginner target is to have both lye solution and oils near 100°F (38°C) and within about 10 degrees of each other.",
-          "Cold process soap is generally made anywhere between 90-120°F; cooler temperatures give you more working time, warmer speeds saponification."
-        ]
-      },
-      {
-        "title": "Combine and Bring to Trace",
-        "steps": [
-          "Pour the cooled lye solution slowly into the oils - pouring it down the shaft of the resting stick blender reduces splashing.",
-          "Alternate short pulses of the stick blender with hand-stirring, keeping the blender bell fully submerged to avoid whipping in air bubbles.",
-          "Watch for thin (light) trace: the batter emulsifies, turns opaque and creamy like thin cake batter or warm custard, and drips from the blender leave faint trails that sit briefly on the surface. This takes roughly 2-10 minutes depending on the recipe.",
-          "For simple recipes you can continue to medium trace, which is thicker, like pudding, and holds its form - but work quickly, because the batter keeps thickening.",
-          "At light-to-medium trace, stir in essential oils/fragrance, colorants, and additives by hand or with brief pulses."
-        ]
-      },
-      {
-        "title": "Mold, Insulate, and Gel Phase",
-        "steps": [
-          "Pour the batter into the mold, tap the mold firmly on the counter to release air pockets, and texture or flatten the top as desired.",
-          "Spray the surface lightly with 91-99% isopropyl alcohol to help prevent soda ash (a harmless white film).",
-          "Decide on gel phase: to force a full gel (brighter colors, faster unmolding), cover the surface with cling film or cardboard and wrap the mold in a towel or blanket for 12-24 hours - during gel phase the soap can reach about 180°F (82°C) and looks gelatinous and shiny. To avoid gel entirely (a more matte, pastel look), refrigerate the mold instead. Gel phase is a cosmetic preference, not a quality requirement.",
-          "Recipes with milk, honey, or high sugar content overheat easily - keep those cool rather than insulating them."
-        ]
-      },
-      {
-        "title": "Unmold, Cut, and Cure",
-        "steps": [
-          "Leave the soap in the mold for 1-2 days (about 48 hours is the safe default) so saponification is largely complete and the soap is firm enough to release cleanly.",
-          "Wearing gloves (fresh soap can still be slightly caustic), unmold and cut loaf soap into bars with a stainless knife, wire, or soap cutter.",
-          "Stand the bars an inch apart on a rack or parchment in a cool, dry, airy spot out of direct sun and cure for 4-6 weeks, turning them occasionally so all sides are exposed to air.",
-          "Curing lets excess water evaporate and the crystal structure finish forming, producing a harder, milder, longer-lasting bar. Test pH or zap-test only after cure if you suspect a problem."
-        ]
-      }
-    ],
-    "finishing": [
-      "After the 4-6 week cure, bevel edges if desired and wrap or band the bars breathably - cold process soap should not be shrink-wrapped airtight while still curing.",
-      "Store finished bars in a cool, dry, dark place with airflow; well-stored bars keep 1 year or more, though scents fade over time.",
-      "Between uses, keep bars on a draining soap dish so they dry out fully - constant moisture is the fastest way to kill a handmade bar."
-    ],
-    "tips": [
-      "Add 1 teaspoon of sodium lactate per pound of oils to the cooled lye solution for a harder bar that unmolds sooner.",
-      "Soap at the cool end (90-100°F) when using fragrance oils known to accelerate trace, and have your mold ready before you blend.",
-      "Master one basic, reliable recipe (e.g., olive/coconut/palm-or-butter with 5% superfat) before attempting swirls and multi-color designs.",
-      "A partial gel shows as a darker circle in the center of the bar - either insulate fully or chill fully, not halfway.",
-      "Keep a soaping notebook: exact weights, temperatures, times, and observations make failures diagnosable and successes repeatable."
-    ],
-    "mistakes": [
-      "Measuring ingredients by volume instead of weight - the number one cause of lye-heavy or oily failed batches.",
-      "Pouring water into lye, or mixing lye into warm liquid, causing boil-overs and dangerous splatter.",
-      "Using aluminum bowls or utensils, which react with lye and ruin the batch.",
-      "Blending past thick trace before the batter is in the mold, leaving a lumpy 'soap on a stick' texture.",
-      "Unmolding after only a few hours: soft, sticky soap tears and dents. Wait 1-2 days.",
-      "Skipping the cure and using bars at 1-2 weeks - they are technically safe once saponified but soft, harsher, and dissolve quickly."
-    ],
-    "sources": [
-      "https://lovelygreens.com/natural-soapmaking-for-beginners-make/",
-      "https://soapqueen.com/bath-and-body-tutorials/cold-process-soap/free-beginners-guide-to-soapmaking-cold-process/",
-      "https://www.brambleberry.com/beginner/beginners-guide-to-cold-process.html",
-      "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/back-to-basics-how-temperature-affects-cold-process-soap/"
+ "cold_process": {
+  "equipment": [
+   "Accurate digital scale (0.1 oz / 1 g precision) — all ingredients including lye, water, and oils must be weighed, never measured by volume",
+   "Stick blender (immersion blender) dedicated to soap making",
+   "Heat-safe, non-aluminum lye-mixing pitcher (heavy-duty polypropylene plastic or stainless steel — lye reacts dangerously with aluminum)",
+   "Large stainless steel or heat-safe plastic mixing bowl/pot for oils (never aluminum, tin, or non-stick coatings)",
+   "Instant-read or infrared thermometer (two thermometers make tracking lye and oil temps easier)",
+   "Silicone spatulas and a heavy-duty plastic or silicone spoon for stirring lye",
+   "Soap mold: silicone loaf mold, wood mold lined with freezer paper, or individual cavity molds",
+   "Safety gear: chemical-splash goggles, nitrile or rubber gloves, long sleeves, apron, closed-toe shoes",
+   "Small containers for pre-weighing lye, fragrance, and colorants",
+   "Fine-mesh sieve (for straining lye solution or dispersing additives)",
+   "Spray bottle of 99% isopropyl alcohol (optional, to prevent soda ash on the poured soap)",
+   "Wire soap cutter or sharp non-serrated knife for cutting bars",
+   "Towels or a blanket for insulating the mold, and wax/parchment paper for curing racks"
+  ],
+  "safety": [
+   "Lye (sodium hydroxide) is highly corrosive. Wear splash goggles, gloves, long sleeves, and closed-toe shoes the entire session, and work with no children, pets, or distractions in the room.",
+   "ALWAYS add lye to water — never pour water onto lye. Remember it as 'snow falling on a lake.' Reversing the order can cause a violent, volcano-like eruption of caustic solution.",
+   "Only add lye to cool or room-temperature liquid. The solution self-heats to over 200°F within seconds; adding lye to hot liquid makes it boil over.",
+   "Mix the lye solution in a well-ventilated spot (open window, outdoors, or a sink you can rinse). Turn your face away and avoid breathing the strong fumes released in the first minute; wear a mask if ventilation is poor.",
+   "If lye or raw soap batter touches skin, immediately flush with copious amounts of cool running water. Seek medical attention for eye contact or burns.",
+   "Never use aluminum bowls, pots, or utensils — lye reacts with aluminum and releases flammable hydrogen gas. Use stainless steel, heavy-duty plastic, or silicone only.",
+   "Label your lye container and lye solution clearly, and set the cooling solution in a safe place out of reach of children and pets — it looks exactly like plain water.",
+   "Discard lye that is clumpy or hard: lumps mean moisture contamination, and it will neither weigh nor perform correctly.",
+   "Raw soap batter is still caustic for 24-48 hours; wear gloves when pouring, cleaning up, and unmolding fresh soap.",
+   "Weigh everything with a digital scale — volume measurements (cups/spoons) are not accurate enough and can leave a bar with dangerous excess lye."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 — Choose the Recipe and Prepare the Workspace",
+    "steps": [
+     "Run every recipe (even a published one) through a lye calculator before you start, to confirm the sodium hydroxide and water amounts are correct for your exact oils; a 5% superfat is the standard beginner setting.",
+     "If formulating your own first recipe, a classic beginner ratio is 34% olive oil, 33% coconut oil, and 33% palm oil.",
+     "Clear the kitchen of children, pets, and distractions; open a window for ventilation and set out all equipment so you never leave mid-process.",
+     "Put on goggles, gloves, long sleeves, apron, and closed-toe shoes before touching the lye container.",
+     "Line a wood mold with freezer paper (silicone molds need no lining) and set it where the filled mold can rest undisturbed for 24-48 hours."
     ]
-  },
-  "hot_process": {
-    "equipment": [
-      "Slow cooker / crock pot (a 4-quart model suits a 2-3 lb batch) - dedicated to soapmaking or thoroughly cleaned after",
-      "Digital scale (all ingredients by weight)",
-      "Heat-proof lye-mixing container (heavy plastic, glass, or stainless steel - never aluminum or tin)",
-      "Stick blender with stainless shaft",
-      "Thermometer (infrared thermometers are ideal for checking soap temperature through plastic wrap)",
-      "Plastic wrap or a tight lid to seal the crock pot and retain moisture during the cook",
-      "Silicone or wooden spatulas and a sturdy spoon for mashing and molding",
-      "Loaf mold (silicone, or a bread pan lined with parchment/freezer paper)",
-      "Safety goggles, gloves, apron, well-ventilated workspace",
-      "Optional: pH strips or phenolphthalein drops to confirm the cook is complete"
-    ],
-    "safety": [
-      "All cold-process lye safety rules apply: full protective gear, add lye to liquid (never the reverse), ventilate, and keep kids and pets away.",
-      "NEVER leave hot process soap unattended while it cooks. Unattended soap can expand rapidly into a 'soap volcano' that overflows the pot - stay in the room for the whole cook.",
-      "The soap is near boiling temperatures during the cook; hot soap batter sticks to skin and burns. Handle molds and the crock insert with care (secure floppy molds with rubber bands before rapping them on the counter).",
-      "Add sugary additives (honey, milk, yogurt) and fragrance only after the cooked soap has cooled somewhat - hot sugars scorch and fragrances flash off.",
-      "Confirm the soap is fully saponified (translucent throughout, passes a zap test or pH check) before skin use."
-    ],
-    "phases": [
-      {
-        "title": "Measure and Prepare",
-        "steps": [
-          "Measure every oil, the lye, the water, and any additives by weight before you start, and prepare/line your mold - hot process moves fast at the end.",
-          "Set the crock pot to LOW and add the solid oils to melt. If your crock pot heats slowly, preheat it.",
-          "Note: hot process recipes typically use full water amounts (do not discount water) - e.g., a 2 lb 10 oz oatmeal-honey recipe uses 10 oz water to 3.9 oz lye."
-        ]
-      },
-      {
-        "title": "Mix the Lye Solution",
-        "steps": [
-          "With goggles and gloves on, sprinkle the lye into the water while stirring, in a ventilated spot, and avoid the brief strong fumes.",
-          "Let the solution cool for only about 15-20 minutes - hot process tolerates a hotter lye solution than cold process.",
-          "Meanwhile confirm the melted oils are around 120-130°F (49-54°C)."
-        ]
-      },
-      {
-        "title": "Blend to Trace",
-        "steps": [
-          "Rest the stick blender against the side of the crock and pour the lye solution slowly down its shaft to prevent splashing.",
-          "Alternate pulsing and stirring with the stick blender for about 10-15 minutes, keeping the bell submerged, until the batter reaches trace (it holds a visible trail on the surface)."
-        ]
-      },
-      {
-        "title": "Cook to Gel - Watch the Stages",
-        "steps": [
-          "Cover the crock tightly - stretching plastic wrap over the top (under or instead of the lid) seals in moisture so you can watch the cook without lifting the lid. Retained water is what keeps hot process soap fluid enough to pour.",
-          "Cook on LOW for about 1 hour, checking through the lid every 15 minutes. Total time varies with the crock pot and batch size.",
-          "Watch the saponification stages: the opaque, butter-colored batter first darkens and may separate, then the edges begin to gel and turn translucent (like jelly or petroleum jelly) because the sides are hottest.",
-          "The soap may rise, curl, and fold in on itself like a wave ('applesauce' then 'mashed potato' textures are normal along the way). Stir it down only if it threatens to overflow.",
-          "The cook is done when the entire mass is uniformly translucent, glossy, and vaseline-like with no opaque streaks. Verify with a zap test (a tiny dab briefly touched to the tongue gives no electric 'zap'), phenolphthalein, or pH strips."
-        ]
-      },
-      {
-        "title": "Cool Slightly, Add Extras, and Mold",
-        "steps": [
-          "Turn off the heat and let the soap cool below about 180°F (82°C) before stirring in fragrance or essential oils - added hotter (200°F+), the scent simply vaporizes. Cover it again while it cools so it stays fluid.",
-          "Add heat-sensitive extras now: superfatting oil (e.g., 0.5 oz tamanu in a 2.6 lb batch), honey diluted 1:1 with water, ground oatmeal, yogurt or goat milk. Adding a spoonful of yogurt or milk after the cook is a classic 'fluid HP' trick for a smoother, more pourable batter.",
-          "Working quickly, spoon or pour the thick batter into the prepared mold in stages, firmly rapping the mold on the counter between scoops to knock out air pockets (pinch and rubber-band flexible molds first so hot soap cannot squirt out).",
-          "Smooth or texture the top with the back of a spoon."
-        ]
-      },
-      {
-        "title": "Unmold, Cut, and Short Cure",
-        "steps": [
-          "Let the soap sit in the mold for about 24 hours, then unmold and slice.",
-          "Hot process soap is fully saponified and technically usable the next day, but let bars cure/harden 1-3 weeks (many makers do 2-3 weeks) for a harder, longer-lasting, milder bar.",
-          "Clean-up bonus: fill the crock with warm water and let it soak - the residue is already soap and rinses out."
-        ]
-      }
-    ],
-    "finishing": [
-      "Cure bars on a rack with airflow for 1-3 weeks even though they are safe to use sooner - evaporation still hardens them significantly.",
-      "Expect a rustic, textured look compared to cold process; embrace it or press the tops with parchment for a smoother finish.",
-      "Store like any handmade soap: cool, dry, dark, with air circulation, on a draining dish between uses."
-    ],
-    "tips": [
-      "Seal the crock with plastic wrap so you can watch the stages and check temperature with an infrared thermometer without releasing steam - moisture retention is the whole secret to fluid hot process.",
-      "There is no single 'right' cook method (crock pot, stove top, oven all work) - learn to recognize the visual stages instead of watching the clock.",
-      "Since fragrance is added after the cook, hot process is ideal for delicate essential oils and for additives lye would destroy.",
-      "Fragrance 'flashpoint' does not dictate when to add scent - temperature-driven evaporation does; below 180°F is the practical rule.",
-      "If the batter stiffens before you finish molding, press it in firmly layer by layer and rap the mold hard - air pockets are the enemy."
-    ],
-    "mistakes": [
-      "Walking away during the cook and coming back to a soap volcano overflowing the crock.",
-      "Stirring frequently with the lid off, losing water and ending up with a stiff, crumbly, hard-to-mold batter.",
-      "Adding honey, milk, or fragrance to near-boiling soap - scorched sugars turn the batch brown and scents burn off.",
-      "Declaring the cook done while opaque streaks remain (lye pockets) - always confirm full gel plus a zap/pH test.",
-      "Skipping the counter-rap and cutting bars full of air tunnels.",
-      "Using the full cold-process 4-6 week cure expectation as an excuse to skip curing entirely - even HP bars improve markedly with 1-3 weeks of drying."
-    ],
-    "sources": [
-      "https://www.modernsoapmaking.com/blog/hot-process-soap-in-a-crockpot-tutorial",
-      "https://thenerdyfarmwife.com/hot-process-oatmeal-honey-soap-crock-pot-method/",
-      "https://www.soapguild.org/tools-and-resources/resource-center/71/hot-process-soap-beginners/"
+   },
+   {
+    "title": "Phase 2 — Mix the Lye Solution",
+    "steps": [
+     "Weigh the distilled water into a heat-safe, non-aluminum pitcher and set it in the sink to catch any splashes.",
+     "Weigh the sodium hydroxide (lye) into a separate dry container on the digital scale.",
+     "Slowly sprinkle the lye into the cool water while stirring with a heavy-duty plastic or silicone spoon; never dump it in all at once and never add the water to the lye.",
+     "Keep your face turned away — the solution shoots above 200°F and gives off strong fumes for a minute or so; stir until every granule is dissolved and the cloudy liquid turns clear.",
+     "Set the labeled solution in a safe, ventilated spot away from children and pets and let it cool to roughly 90-115°F, which typically takes 30-40 minutes (a few ice cubes counted as part of the water weight can speed this up)."
     ]
-  },
-  "melt_and_pour": {
-    "equipment": [
-      "Melt and pour soap base (clear, white/shea, goat milk, etc.) from a reputable supplier",
-      "Digital scale",
-      "Large glass measuring cup or microwave-safe pitcher (or a double boiler for stovetop melting)",
-      "Dedicated cutting board and sharp knife for cubing the base",
-      "Funnel pitcher for controlled pouring",
-      "Silicone mold(s) - e.g., a 4-cavity square mold holding about 21 oz total",
-      "Spray bottle of 91-99% isopropyl rubbing alcohol with a fine-mist top",
-      "Thermometer (infrared or digital probe)",
-      "Spatulas, chopsticks/pipettes for colorant and fragrance",
-      "Wax paper or paper towels to protect the work surface",
-      "Plastic wrap or shrink-wrap bags for finishing"
-    ],
-    "safety": [
-      "No lye handling is required - the base is already saponified - which is why melt and pour is the recommended method for beginners and supervised kids.",
-      "Melted soap base is hot (typically 120-140°F, hotter if overheated) and can scald; use oven mitts on hot containers and keep pours controlled.",
-      "Never melt the base over direct high heat or to boiling - scorched base smells burnt, discolors, and becomes gloppy.",
-      "Use only skin-safe, cosmetic-grade fragrance and colorants at the supplier's recommended usage rate (run it through a fragrance calculator).",
-      "Supervise children at all times; an adult should always do the melting and the first pour."
-    ],
-    "phases": [
-      {
-        "title": "Prepare and Melt the Base",
-        "steps": [
-          "Weigh the amount of base your mold holds, then cut it into small, roughly half-inch (1-1.5 cm) cubes so it melts quickly and evenly.",
-          "Microwave method: heat the cubes in a microwave-safe container in 30-second bursts, stirring after each burst; as it nears fully melted, drop to 10-second bursts and stop as soon as it is just melted.",
-          "Double-boiler method: melt the cubes in a bowl over barely simmering water, stirring occasionally, with the same 'just melted' goal.",
-          "Target working temperature is roughly 120-140°F; never let the base boil."
-        ]
-      },
-      {
-        "title": "Add Fragrance and Color",
-        "steps": [
-          "Stir in fragrance or essential oil at the supplier's calculated rate for melt and pour, mixing gently to avoid bubbles.",
-          "Add colorant a little at a time - liquid colorants or pre-dispersed micas formulated for melt and pour behave best (water-based craft colorants can morph or bleed).",
-          "Stir slowly and thoroughly; if the base starts to skin over while you work, rewarm it in a short 10-second burst."
-        ]
-      },
-      {
-        "title": "Pour and De-bubble",
-        "steps": [
-          "Pour the soap slowly into the mold cavities. For a single-color bar, pour at about 120-135°F.",
-          "Immediately spritz the surface once or twice with 91-99% isopropyl alcohol to pop surface bubbles and leave a glassy finish."
-        ]
-      },
-      {
-        "title": "Layering (Optional Designs)",
-        "steps": [
-          "Pour the first layer and spritz with alcohol to pop bubbles. Let it set until it has formed a thick skin - test by gently blowing on the surface or tapping a silicone mold; if nothing ripples, it is ready.",
-          "Cool each subsequent layer to about 125-130°F before pouring; hotter pours will melt or break through the layer beneath.",
-          "Spritz the set layer again with rubbing alcohol RIGHT before pouring the next one - the alcohol slightly melts the surface so the layers fuse instead of separating later.",
-          "Pour the new layer gently - aim the stream onto a silicone spatula held just above the surface so the soap falls softly instead of punching through the skin.",
-          "To get even layers, weigh the total base and divide it equally per layer (e.g., a 44 oz loaf mold in 4 layers = 11 oz per layer). After embedding decorative details, wait 10-15 minutes for them to harden before the next pour.",
-          "Repeat spritz-cool-pour until the mold is full."
-        ]
-      },
-      {
-        "title": "Set, Unmold, and Wrap",
-        "steps": [
-          "Let the soap harden fully at room temperature - small bars set in about 1-2 hours, loaves several hours; you can speed this in the refrigerator once a skin has formed.",
-          "Flex the mold and press gently from the back to release the bars; slice loaves as desired.",
-          "There is NO cure time - melt and pour soap is ready to use as soon as it is hard.",
-          "Wrap each bar promptly and tightly in plastic wrap or shrink wrap. The glycerin in melt and pour bases attracts moisture from the air and forms 'glycerin dew' (sweating beads) on unwrapped bars, especially in humid climates."
-        ]
-      }
-    ],
-    "finishing": [
-      "Keep finished bars wrapped airtight until use; store in a cool, dry place away from direct sun.",
-      "Label with ingredients (base INCI plus additives) if gifting or selling.",
-      "Properly wrapped melt and pour soap keeps about 1 year - use it while the fragrance is fresh."
-    ],
-    "tips": [
-      "Buy a low-sweat base if you live somewhere humid, and wrap bars the same day you unmold them.",
-      "Keep your alcohol spray bottle within arm's reach for the entire session - you will use it constantly.",
-      "An infrared thermometer makes layering nearly foolproof; 5-10 degrees is the difference between fused layers and a melted mess.",
-      "Whittle scraps and failed bars into cubes and remelt them - melt and pour is wonderfully forgiving.",
-      "For clean embeds (soap shapes suspended in clear base), spritz the embed with alcohol and pour the surrounding soap at the low end (~120-125°F)."
-        ],
-    "mistakes": [
-      "Overheating or boiling the base, which scorches it, browns it, and wrecks the texture.",
-      "Pouring a second layer too hot (above ~130°F) and melting through the first layer.",
-      "Forgetting the alcohol spritz between layers, so the finished bar splits apart at the seams.",
-      "Adding more fragrance than the base can hold, causing beading, seizing, or skin irritation - always calculate the load.",
-      "Leaving bars unwrapped and finding them covered in glycerin dew the next morning.",
-      "Using non-cosmetic craft glitter or food coloring that bleeds and morphs."
-    ],
-    "sources": [
-      "https://www.wholesalesuppliesplus.com/blogs/help-how-tos/how-to-make-melt-and-pour-soap-2",
-      "https://www.wholesalesuppliesplus.com/blogs/help-how-tos/melt-and-pour-design-techniques-layering",
-      "https://www.wholesalesuppliesplus.com/blogs/help-how-tos/getting-started-creating-a-simple-bar-of-melt-and-pour-soap"
+   },
+   {
+    "title": "Phase 3 — Prepare the Oils",
+    "steps": [
+     "While the lye cools, weigh the solid oils and butters (coconut oil, palm oil, shea, etc.) and melt them gently on the stove or in short microwave bursts.",
+     "Weigh the liquid oils (olive, sweet almond, castor, etc.) and stir them into the melted hard oils — adding room-temperature liquid oils also helps bring the temperature down.",
+     "Bring the combined oils to roughly 90-110°F; most soapers combine when both lye solution and oils are between 90°F and 110-130°F.",
+     "Do not obsess over matching temperatures exactly — oils and lye can be 10-20°F apart with no problem; use an ice-water bath under the oil pot if it needs faster cooling.",
+     "Pre-measure your fragrance/essential oil and any colorants or additives now, so they are ready the moment the batter reaches trace."
     ]
-  },
-  "bath_bombs": {
-    "equipment": [
-      "Digital scale (weigh, don't scoop, for consistent fizz)",
-      "Two large mixing bowls (one dry, one wet) and a whisk",
-      "Fine-mesh sifter to de-clump baking soda and citric acid",
-      "Stainless steel two-piece sphere molds, or metal measuring cups / silicone molds for dome shapes",
-      "Small spray bottle of witch hazel (the kind blended WITH alcohol - water-based witch hazel sets off the fizz reaction prematurely)",
-      "Nitrile or latex gloves (citric acid is drying and strips nail polish; gloves also let you knead thoroughly)",
-      "Wax paper and a tray or rack for drying",
-      "Optional: dust mask when whisking large amounts of fine powders",
-      "Plastic wrap / shrink bags and airtight containers for storage"
-    ],
-    "safety": [
-      "Bath bomb powders (baking soda, citric acid) are food-grade but irritating to eyes and lungs in dust form - work in a ventilated space and consider a dust mask for big batches.",
-      "Wear gloves: citric acid can sting small cuts and dries skin on prolonged contact.",
-      "Keep essential oils conservative for a product a person soaks in: 0.5-1% of the batch, roughly 4-6 drops per bath bomb, pre-diluted in the recipe's carrier oil.",
-      "If adding oils, note the tub becomes slippery - polysorbate 80 (an emulsifier) helps oils disperse in the water instead of coating the tub and skin unevenly.",
-      "Store finished bombs away from children who might mistake the colorful spheres for candy."
-    ],
-    "phases": [
-      {
-        "title": "Combine the Dry Ingredients",
-        "steps": [
-          "Use a 2:1 ratio by weight of baking soda to citric acid as your base - for example 32 oz baking soda to 16 oz citric acid, plus optional 4 oz Epsom salt; or a small-batch version of 1.5 cups (429 g) baking soda, 3/4 cup (177 g) citric acid, and 1/2 cup (144 g) fine sea salt.",
-          "Sift or finger-crush every clump - clumps become weak spots and white specks in the finished bomb.",
-          "Whisk in any dry extras now: a pinch of kaolin clay (color and hardness), ground oatmeal, powdered flower petals."
-        ]
-      },
-      {
-        "title": "Mix the Wet Ingredients Separately",
-        "steps": [
-          "In a small container combine the recipe's oil (e.g., 2 oz of a light oil like sunflower or borage per 54 oz of dry mix, or 2 tbsp per ~3.5 cup batch), essential oil, optional polysorbate 80 (about 0.7 oz for a 54 oz batch), and liquid colorant formulated for bath bombs.",
-          "Stir the wet ingredients together thoroughly before they ever touch the dry mix - concentrated liquid hitting the powder in one spot triggers fizzing."
-        ]
-      },
-      {
-        "title": "Bring to 'Wet Sand' Consistency",
-        "steps": [
-          "Drizzle the wet mixture slowly into the dry ingredients while whisking or tossing with your gloved hands, then rub everything together until uniform with no streaks.",
-          "Squeeze a handful: the perfect consistency is damp sand that holds its shape when squeezed and breaks cleanly.",
-          "If it crumbles, spritz witch hazel 2-3 spritzes at a time - one hand spritzing while the other hand mixes fast so no spot stays wet long enough to fizz. Expect roughly 8-10 spritzes total, but let the squeeze test, not the count, decide; humid climates need less, dry climates need more.",
-          "Stop as soon as it packs - too much liquid starts the reaction now instead of in the tub."
-        ]
-      },
-      {
-        "title": "Mold and Pack",
-        "steps": [
-          "Optionally place a pinch of dried botanicals (lavender buds, rose petals - coarsely ground so they stick) in the bottom of one mold half.",
-          "Overfill both halves of the sphere mold loosely, then press them firmly together - a little loose mixture at the seam is what welds the halves; do not pre-compress each half hard.",
-          "Twist and lift one half of the mold gently away; either leave the bomb resting in the other half to dry for a few hours, or turn it out immediately onto wax paper.",
-          "For measuring-cup/dome bombs: pack the cup very firmly, then invert onto wax paper laid over a plate and slide it to the drying spot.",
-          "Work fast - the mixture dries and stops packing well within about 15-30 minutes. Re-spritz lightly if it dries out mid-batch."
-        ]
-      },
-      {
-        "title": "Dry and Store",
-        "steps": [
-          "Let bombs dry undisturbed in a warm, DRY room: at least 3-4 hours or overnight in/on the mold, and ideally a full 24-48 hours before wrapping - they should feel hard and dry all the way around.",
-          "Once fully dry, wrap each bomb tightly in plastic wrap or a shrink bag and store airtight with a desiccant if possible. Humidity is the enemy: exposed bombs absorb moisture, soften, expand, and lose their fizz.",
-          "Use within about 6 months for maximum fizz (citric acid slowly loses potency), though they remain safe longer."
-        ]
-      }
-    ],
-    "finishing": [
-      "A properly finished bath bomb is rock-hard, releases from the mold cleanly, and fizzes vigorously when dropped in warm water.",
-      "Package wrapped bombs in boxes or cellophane; label with ingredients, especially essential oils and nut-derived oils, for allergy awareness.",
-      "Do not make or dry bombs on a rainy or very humid day if you can avoid it - ambient humidity alone can trigger slow fizzing and cracking."
-    ],
-    "tips": [
-      "Test one bomb from each batch in a sink of warm water before making a big batch of the same formula.",
-      "Cracking after drying usually means the mix was too wet or the room too humid; crumbling means too dry or under-packed.",
-      "SLSA (sodium lauryl sulfoacetate) added to the dry phase creates foaming bubbles; cornstarch slows and lengthens the fizz.",
-      "La Bomb-style glycerin-based colorants avoid the bathtub ring that oil-locked pigments can leave.",
-      "In desperate humidity, dry bombs in an oven that has been warmed to its lowest setting and turned OFF, or run a dehumidifier in the drying room."
-    ],
-    "mistakes": [
-      "Using water (or water-based witch hazel) as the binding spritz and setting off the fizz in the bowl - use witch hazel blended with alcohol.",
-      "Dumping wet ingredients in all at once instead of drizzling and spritzing gradually.",
-      "Pressing each mold half firm and flat, then wondering why the halves will not stick together - leave loose mixture at the seam.",
-      "Unmolding too early (bomb slumps) or leaving mold halves on for days in humidity (bomb glues itself to the metal).",
-      "Storing unwrapped bombs in a bathroom - steam from showers ruins them within days.",
-      "Overdosing essential oil beyond ~1% for a product that surrounds the whole body in warm water."
-    ],
-    "sources": [
-      "https://soapqueen.com/bath-and-body-tutorials/relaxing-lavender-bath-bombs/",
-      "https://lovelygreens.com/how-to-make-bath-bombs/",
-      "https://soapqueen.com/bath-and-body-tutorials/karma-bath-bomb-tutorial/"
+   },
+   {
+    "title": "Phase 4 — Combine and Bring to Trace",
+    "steps": [
+     "With safety gear still on, rest the stick blender shaft against the side of the oil pot and pour the cooled lye solution slowly down the shaft to prevent splashing and air bubbles.",
+     "Tap the fully submerged stick blender bell on the bottom of the pot to release trapped air, then pulse in short bursts of a few seconds, hand-stirring with the motor off between bursts — running it continuously can burn out the motor and thicken the batter too fast.",
+     "Watch for thin (light) trace: the batter turns uniformly opaque with no oil streaks and thickens to a thin cake-batter or warm-custard consistency where drips briefly rest on the surface; this typically takes 2-10 minutes.",
+     "If left or blended longer the batter progresses to medium trace (pudding-like, holds soft trailings) and then thick trace (spoonable, holds peaks); pour simple recipes at thin-to-medium trace and work fast once medium trace appears.",
+     "Beware false trace: if you soaped cool with lots of hard oils, a thickening that melts back to liquid when warmed is solidifying fat, not true emulsion — keep blending until thickness holds."
     ]
-  },
-  "scrubs": {
-    "equipment": [
-      "Digital scale (0.1 g resolution helps for preservatives)",
-      "Mixing bowls and silicone spatulas",
-      "Small saucepan plus heat-proof glass measuring cup (a makeshift water bath) for emulsified scrubs",
-      "Immersion blender or electric hand mixer for whipped/emulsified versions",
-      "Sanitized jars - ideally small, shower-safe PET plastic jars rather than one big glass tub",
-      "70% isopropyl alcohol spray for sanitizing tools and jars",
-      "Pipettes for measuring preservative and fragrance",
-      "Labels for batch date and ingredients"
-    ],
-    "safety": [
-      "Water is the contamination risk: a scrub itself may be 100% oil-based (anhydrous), but it lives in the shower where wet hands and splashes introduce water and microbes.",
-      "If the scrub will be kept in the bath/shower, given as a gift, or sold, add an OIL-SOLUBLE broad-spectrum preservative: 1% Phenonip (works in 100% oil products) or Optiphen at 0.75-1.5%. Water-soluble preservatives like Liquid Germall Plus do NOT protect an anhydrous scrub.",
-          "If you skip preservative, decant a single-use portion into a small container for the shower and never dip wet hands into the master jar.",
-      "Salt scrubs sting on freshly shaved or broken skin - use sugar for sensitive areas and faces (finer, gentler grain).",
-      "Oily scrubs make tubs slippery; warn users, or formulate an emulsified scrub that rinses clean.",
-      "Sanitize every tool, bowl, and jar with 70% isopropyl alcohol before starting."
-    ],
-    "phases": [
-      {
-        "title": "Simple (Stir-Together) Sugar or Salt Scrub",
-        "steps": [
-          "Fill a sanitized 4 oz jar with white or brown sugar (or fine-to-medium salt), leaving a little headroom - measuring by 'fill the jar then add oil' is a reliable volume method for personal batches.",
-          "Slowly stir in a skin-loving liquid oil (meadowfoam, sweet almond, jojoba, fractionated coconut) a spoonful at a time until the texture is like wet sand that holds together but is not swimming in oil - typically roughly 2 parts exfoliant to 1 part oil by volume.",
-          "Stir in fragrance or essential oil at 1% or less of total weight, plus optional jojoba beads or colorant.",
-          "Add 1% oil-soluble preservative (e.g., Phenonip or Optiphen) if the jar will meet water, stirring very thoroughly to distribute it.",
-          "Cap, label with date, and store away from direct water."
-        ]
-      },
-      {
-        "title": "Emulsified Scrub - Melt the Emulsified Base",
-        "steps": [
-          "An emulsified scrub turns into a light lotion on contact with water, so it rinses off skin and tub cleanly instead of leaving an oil slick.",
-          "Prepare a water bath: bring about 1 inch (3 cm) of water to a bare simmer in a small saucepan over low heat.",
-          "Weigh the emulsifying wax (a true complete emulsifying wax - NOT beeswax, which cannot emulsify), stearic acid, butter (shea/mango), liquid oil, and vitamin E into a heat-proof measuring cup - e.g., 20 g e-wax, 8 g stearic acid, 15 g shea butter plus carrier oil for a ~150 g scrub.",
-          "Set the cup in the water bath and heat, stirring occasionally, until everything is fully melted and uniform."
-        ]
-      },
-      {
-        "title": "Emulsified Scrub - Cool and Add Exfoliants",
-        "steps": [
-          "Remove the melted base from the heat and let it cool until it just starts to thicken and turn opaque around the edges - if you add salt or sugar while it is hot and thin, the exfoliant sinks (and sugar can melt).",
-          "Stir in the exfoliants (e.g., a mix of fine sea salt with a smaller portion of coarse salt for texture, or plain granulated sugar) plus any powders like seaweed or clay.",
-          "Add essential oil (about 20 drops per 150 g batch, ~1%) and 1% Phenonip if preserving, stirring constantly as the mixture thickens.",
-          "Spoon into sanitized jars before it sets fully, tapping the jars to settle the scrub."
-        ]
-      },
-      {
-        "title": "Use and Care",
-        "steps": [
-          "Scoop out a portion with dry hands or a spoon, massage onto damp skin in circular motions, and rinse; avoid broken skin with salt versions.",
-          "Keep the master jar out of the shower and tightly capped between uses."
-        ]
-      }
-    ],
-    "finishing": [
-      "Kept strictly dry, an unpreserved anhydrous scrub lasts about 1 year (limited mainly by the oil's own rancidity date - use the shortest shelf life among your oils).",
-      "A properly preserved scrub also lasts about a year in shower conditions.",
-      "Label jars with the made-on date, full ingredients, and 'keep water out / use dry hands' guidance for gifts."
-    ],
-    "tips": [
-      "Brown sugar is softer than white; salt is sharper than both - match the exfoliant to the body part (sugar for face/sensitive skin, salt for feet and rough elbows).",
-      "Add 1-2% vitamin E (or a rosemary oleoresin antioxidant) to slow the carrier oil going rancid - note this is an antioxidant, not a preservative.",
-      "Emulsified scrubs are the professional-feeling upgrade: lotion-like rinse-off and no slippery tub.",
-      "If a scrub separates (oil floats on top), stir before use - or emulsify next time.",
-      "Foaming scrubs add a mild surfactant (e.g., ~4% SLSa) to a sugar scrub base for a lather-plus-polish product."
-    ],
-    "mistakes": [
-      "Storing an unpreserved scrub in the shower and dipping wet fingers in - mold and bacteria within weeks even though 'there is no water in the recipe'.",
-      "Using a water-soluble preservative (Liquid Germall Plus) in an all-oil scrub where it cannot dissolve or protect.",
-      "Adding fresh botanicals, fruit, coffee grounds with moisture, or milk - these rot quickly without full preservation.",
-      "Pouring hot melted base over sugar and melting the sugar into syrup.",
-      "Using beeswax as an 'emulsifier' - it is not one; the scrub will separate on skin and in the jar.",
-      "Making one giant jar instead of small batches, guaranteeing months of wet-hand contamination."
-    ],
-    "sources": [
-      "https://www.humblebeeandme.com/seaside-emulsified-salt-scrub/",
-      "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/throw-nail-polish-scrub-party/"
+   },
+   {
+    "title": "Phase 5 — Additives and Pour",
+    "steps": [
+     "At light trace, blend or stir in your fragrance or essential oil, colorants, and additives (clays, oatmeal, honey — dilute powders in a little oil or water first to avoid clumps).",
+     "Pour the batter into the prepared mold in one steady stream, scraping the pot with a spatula.",
+     "Firmly tap the mold on the counter several times to knock out air pockets, then texture or smooth the top with a spatula.",
+     "Optionally spritz the surface lightly with 99% isopropyl alcohol every few minutes for the first hour to help prevent soda ash (the harmless white film that can form on top)."
     ]
-  },
-  "lotions": {
-    "equipment": [
-      "Digital scale accurate to 0.1 g (formulas run on percentages)",
-      "Digital thermometer",
-      "Two heat-proof funnel pitchers or beakers (one per phase)",
-      "Large pot or skillet with a wire rack inside - a double-boiler / water-bath setup",
-      "Immersion blender (a mini blender works for sub-100 g batches)",
-      "Spray bottle of 70% isopropyl alcohol for sanitizing",
-      "Pipettes for preservative and fragrance",
-      "Disposable piping bag or zip-top bag for clean bottling",
-      "Lotion bottles with disc caps or pumps (harder to contaminate than open jars)",
-      "Spatulas, and paper towels for spills"
-    ],
-    "safety": [
-      "ANY product containing water (lotion, cream, emulsified body butter) MUST have a broad-spectrum preservative. Unpreserved lotion grows bacteria and mold within days to weeks, often invisibly.",
-      "Anhydrous products (100% oil/butter/wax: whipped body butter, balms, salves) do not require a preservative - microbes need water - but must be kept water-free and scooped with dry hands.",
-      "Sanitize the workspace, tools, containers, and your hands with 70% isopropyl alcohol before starting; preservatives fight incidental contamination, they do not sterilize a dirty batch.",
-      "Add preservatives in the phase and temperature range the manufacturer specifies - many (e.g., Germaben II) are heat-sensitive and go in below 104°F/40°C.",
-      "Match preservative chemistry to the formula: Optiphen ND does not pair with cationic emulsifiers like BTMS-50; anionic/cationic mismatches can kill preservative efficacy.",
-      "Heat-and-hold both phases at 158°F (70°C) for 20 minutes to reduce native microbial load and ensure full melt and emulsion stability."
-    ],
-    "phases": [
-      {
-        "title": "Formulate by Percentages",
-        "steps": [
-          "Build the formula in three phases totaling 100%. A proven beginner body-lotion split: heated oil phase - 16% avocado oil (or similar carrier), 5% shea butter, 5% emulsifying wax, 2% stearic acid; heated water phase - 64% distilled water, 3% glycerin, 2% sodium lactate; cool-down phase - 2% fragrance/essential oil, 1% broad-spectrum preservative (e.g., Germaben II).",
-          "Use a true complete emulsifying wax (Polawax, Emulsifying Wax NF, BTMS-50, Olivem 1000, Ritamulse SCG) - beeswax alone cannot hold water and oil together.",
-          "Keep the cool-down phase at 10% or less of the formula; adding more after the emulsion forms can destabilize it.",
-          "Always weigh in grams - drops and spoons are not accurate enough for preservatives."
-        ]
-      },
-      {
-        "title": "Sanitize and Weigh",
-        "steps": [
-          "Spray all equipment and containers with 70% isopropyl alcohol and let air-dry.",
-          "Weigh the heated oil phase ingredients into one heat-proof pitcher and the heated water phase into another.",
-          "Weigh a little extra distilled water (2-3%) into the water phase to compensate for evaporation during heating, or plan to top back up to weight after the hold."
-        ]
-      },
-      {
-        "title": "Heat and Hold Both Phases",
-        "steps": [
-          "Place both pitchers in the water bath (pot with ~1-2 inches of gently simmering water on a rack).",
-          "Heat both phases to 158°F (70°C) and HOLD them there for 20 minutes - this sanitizes the phases, fully melts the emulsifier into the oils, and puts both phases at the same temperature for a stable emulsion.",
-          "Stir each phase occasionally; confirm temperature with the thermometer, not by eye."
-        ]
-      },
-      {
-        "title": "Combine and Emulsify",
-        "steps": [
-          "Pour the water phase into the oil phase (steadily, while both are still at ~70°C).",
-          "Blend immediately with the immersion blender for 1-2 minutes - the mixture turns opaque, milky, and uniform as the emulsion forms.",
-          "Continue with alternating short blender bursts and hand-stirring as it cools; the lotion thickens noticeably as it drops toward room temperature."
-        ]
-      },
-      {
-        "title": "Cool Down and Preserve",
-        "steps": [
-          "When the emulsion cools below 104°F (40°C) - about hot-bath temperature, the container feels only slightly warm - stir in the cool-down phase: preservative first, then fragrance/essential oil and any heat-sensitive actives (panthenol, extracts, vitamin E).",
-          "Blend briefly to fully incorporate, scraping the sides.",
-          "If using Optiphen, add it at 113-131°F (45-55°C) and keep mixing while cooling - it can temporarily thin the emulsion, which re-thickens as it cools."
-        ]
-      },
-      {
-        "title": "Bottle, Label, and Test",
-        "steps": [
-          "Transfer the finished lotion to a piping bag, snip the tip, and pipe it into sanitized bottles without smearing it down the necks; cap with disc caps or pumps.",
-          "Label with the full ingredient list and made-on date.",
-          "Set a bottle aside as a stability tester: check it over 2-4 weeks for separation, color/odor change, or mold before trusting the batch as gifts.",
-          "Expect a shelf life of up to about 1 year for a properly preserved, cleanly made lotion; refrigerate and use unpreserved experiments within days (not recommended for sharing)."
-        ]
-      }
-    ],
-    "finishing": [
-      "Store lotion out of direct sun and heat; pumps and disc caps keep fingers (and microbes) out of the product.",
-      "Anhydrous whipped body butters need no preservative but benefit from 0.5-1% vitamin E against rancidity, and should be used with dry hands.",
-      "For jars (harder to keep clean), always use the preservative at its maximum recommended rate - e.g., Germaben II at 1%, Optiphen at 1.5%."
-    ],
-    "tips": [
-      "Preservative cheat sheet: Germaben II 0.5-1% (cool-down, water-based products, great for botanicals); Optiphen 0.75-1.5% (cool-down, paraben/formaldehyde-free); Optiphen Plus 0.75-1.5% (heated water phase, best below pH 6); Phenonip 0.5-1% (heated phase, also works in anhydrous products like scrubs).",
-      "More water = lighter lotion; more butters and fatty alcohols = richer cream. Adjust in 5% steps between the oil phase and water.",
-      "A 100 g test batch costs pennies and reveals texture problems before you scale up.",
-      "Emulsified body butters (water-in-oil-feel but preserved) hydrate better than anhydrous butters and never go grainy the way pure shea can.",
-      "If a batch separates within days, re-blend once while warm; if it separates again, the emulsifier percentage is too low - reformulate, don't re-whip."
-    ],
-    "mistakes": [
-      "Skipping preservative because the lotion is 'natural' - water-based products WILL grow microbes; vitamin E and grapefruit seed extract are not preservatives.",
-      "Adding a heat-sensitive preservative to 70°C lotion and deactivating it.",
-      "Using beeswax + borax or plain beeswax as the emulsifier and getting a weeping, separating cream.",
-      "Blending at full speed the whole cool-down and whipping in air (foamy lotion that collapses later).",
-      "Bottling into unsanitized, reused containers.",
-      "Guessing at preservative amounts by drops instead of weighing to 0.1 g."
-    ],
-    "sources": [
-      "https://www.humblebeeandme.com/easy-natural-lotion-for-beginners/",
-      "https://www.wholesalesuppliesplus.com/blogs/help-how-tos/basic-body-lotion-recipe",
-      "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/perfectly-preserved/"
+   },
+   {
+    "title": "Phase 6 — Insulate, Gel Phase, and Saponify",
+    "steps": [
+     "Cover the mold with cardboard or its lid and wrap with a towel or blanket if you want to force gel phase, during which the soap self-heats up to about 180°F and takes on a brighter, slightly translucent, shiny look.",
+     "Gel phase is purely aesthetic and optional: skip insulation (or refrigerate/freeze the mold for 24 hours) for a matte, pastel, ungelled bar — but avoid a partial gel ring by committing to one approach; milk and honey soaps should NOT be insulated because their sugars overheat.",
+     "Leave the mold undisturbed for 24-36 hours while saponification finishes; peek occasionally, and if a crack forms down the center the soap is overheating — uncover it and move it somewhere cooler.",
+     "Keep gloves on for any handling during this window; the soap is still mildly caustic until saponification completes."
     ]
-  },
-  "shampoo_bars_soap": {
-    "equipment": [
-      "Everything from the cold process equipment list: scale, stick blender, lye-safe pitcher, stainless pot, thermometers, molds, full safety gear",
-      "Optional 4-quart crock pot if using the hot process variation",
-      "Heat-proof jar for brewing and chilling herbal tea infusions (e.g., light rosemary or nettle tea) if replacing water",
-      "Spray bottle of isopropyl alcohol for the poured surface",
-      "Curing rack in a dry, airy space"
-    ],
-    "safety": [
-      "This is true lye soap - every cold/hot process lye precaution applies: goggles, gloves, lye-into-liquid only, ventilation, no kids or pets.",
-      "Herbal teas or milk used as the lye liquid must be fully chilled before adding lye, or the solution can overheat, scorch, and volcano.",
-      "Rosemary essential oil should be avoided or used only under medical guidance by people who are pregnant or have hypertension or epilepsy - swap it for lavender.",
-      "Soap-based shampoo bars are alkaline (pH ~9-10) while hair prefers ~4.5-5.5; warn users about the adjustment period and recommend an acidic rinse (see finishing) to smooth the cuticle.",
-      "They are not for everyone: color-treated hair, very dry/damaged hair, and hard-water households often do poorly with soap shampoo - be honest in your product descriptions."
-    ],
-    "phases": [
-      {
-        "title": "Formulate for Hair",
-        "steps": [
-          "Shampoo bar recipes look like soap recipes with extra lather and conditioning: a proven example is 10 oz (283 g) olive oil, 8 oz (227 g) coconut oil, 4 oz (113 g) castor oil, 4 oz (113 g) sunflower or sweet almond oil, 2 oz (57 g) jojoba oil, with 3.82 oz (108 g) lye and 9 oz (255 g) water for cold process (10 oz water for hot process).",
-          "The signature ingredient is a high castor oil percentage (~10-15%) for the big, conditioning lather hair needs.",
-          "Optional swaps: replace water with a chilled, LIGHT herbal tea (rosemary, nettle); strong dark teas discolor the bars. Run any change through a lye calculator."
-        ]
-      },
-      {
-        "title": "Make the Lye Solution and Prepare Oils",
-        "steps": [
-          "Wearing gloves and goggles, weigh the distilled water (or chilled tea), then sprinkle the weighed lye into it while stirring; avoid the fumes.",
-          "For cold process, cool the solution 30-40 minutes to about 100-110°F (38-43°C). For the crock pot method, 15-20 minutes of cooling is enough.",
-          "Melt the coconut oil, combine with the liquid oils, and bring the oil blend to about 90-100°F (32-38°C) - Lovely Greens works both lye and oils in the 90-110°F window and mixes at ~100°F."
-        ]
-      },
-      {
-        "title": "Blend to Trace",
-        "steps": [
-          "Pour the lye solution into the oils and mix with alternating hand-stirring and stick-blender pulses until light trace - about 2-8 minutes.",
-          "At trace, stir in the essential oils (e.g., 15 g peppermint + 5 g rosemary for a ~2.5 lb batch, ~1.4% of oils)."
-        ]
-      },
-      {
-        "title": "Cold Process Route: Mold and Cure",
-        "steps": [
-          "Pour the batter into the mold, cover, and insulate with a towel or blanket.",
-          "Leave in the mold 1-2 days, then unmold and slice into bars.",
-          "Cure at least 4 weeks; because shampoo bars are high in liquid oils (castor, jojoba), many makers cure 6-8 weeks for a properly hard, mild bar."
-        ]
-      },
-      {
-        "title": "Hot Process Route: Cook, Mold, Short Cure",
-        "steps": [
-          "Pour the traced batter into a crock pot on LOW, cover, and cook 1 hour, checking/stirring every 15 minutes.",
-          "After the cook, cool a few minutes, stir in the essential oils, then spoon into the mold and rap out air pockets.",
-          "Unmold after 24 hours and cut. Hot process bars can be used right away but still improve with 2-3 weeks of cure."
-        ]
-      }
-    ],
-    "finishing": [
-      "Cure and store like cold process soap: airy rack, cool and dry, turned occasionally; band or breathable-wrap for gifting.",
-      "Teach the rinse: after washing, rinse hair with 1 teaspoon of apple cider vinegar diluted in 1 cup of water to bring hair pH back down, smooth the cuticle, and prevent the gummy, tangly feel; follow with conditioner if desired.",
-      "To use: wet hair, rub the bar between hands to build lather (or stroke gently over the scalp), massage through hair and scalp, rinse very thoroughly."
-    ],
-    "tips": [
-      "Expect a 1-2 week transition period as hair adjusts from commercial surfactants; results also vary hugely with water hardness.",
-      "If a shampoo bar recipe disappoints on hair, it is still an excellent hand and body bar - nothing is wasted.",
-      "Infused vinegars (lavender, rose petal) make the ACV rinse a pleasant, gift-able companion product.",
-      "Keep the superfat moderate (5-8%); very high superfat leaves hair greasy and coated.",
-      "Clearly distinguish these from syndet bars when selling: 'soap-based shampoo bar, use with an acid rinse' prevents disappointed customers."
-    ],
-    "mistakes": [
-      "Marketing or expecting a lye-soap bar to behave like a pH-balanced syndet bar - they are chemically different products.",
-      "Skipping the acidic rinse and blaming the bar for waxy, tangled hair (often actually soap scum from hard water).",
-      "Using a strong, dark herbal tea or unchilled liquid in the lye solution.",
-      "Cutting the cure short - high-liquid-oil bars stay soft and mushy in the shower without a full cure.",
-      "Using rosemary essential oil for users with contraindications (pregnancy, hypertension, epilepsy).",
-      "Adding conditioning agents like BTMS to a lye soap formula - cationic conditioners belong in syndet products, not saponified soap."
-    ],
-    "sources": [
-      "https://thenerdyfarmwife.com/shampoo-bars-crock-pot-method/",
-      "https://lovelygreens.com/herbal-shampoo-bar-recipe/"
+   },
+   {
+    "title": "Phase 7 — Unmold, Cut, and Cure",
+    "steps": [
+     "Unmold after 24-48 hours, when the soap is firm and pulls cleanly from the mold; high-coconut/palm recipes release faster, while high-olive (castile-style) recipes can need up to a week — refrigerating a stubborn silicone mold for a few hours helps.",
+     "Cut loaf soap into bars soon after unmolding while it is still easy to slice, using a wire cutter or sharp knife.",
+     "Stand the bars on wax or parchment paper, spaced apart for airflow, in a dry, dim, room-temperature spot out of direct sunlight.",
+     "Cure for a minimum of 4 weeks (4-6 weeks is standard), turning the bars occasionally so all sides dry evenly; curing lets excess water evaporate and the crystal structure develop, giving a harder, milder, longer-lasting bar with better lather.",
+     "After curing, store finished bars in a cool, dry place with airflow (e.g., an open basket or cardboard box); avoid sealed plastic for natural CP soap, and expect scent from essential oils to soften over many months."
     ]
-  },
-  "shampoo_bars_syndet": {
-    "equipment": [
-      "Digital scale accurate to 0.1 g (surfactant ratios matter)",
-      "Dust mask / respirator - NON-NEGOTIABLE when handling powdered surfactants like SCI and SCS, which are severe airborne irritants before they are wetted",
-      "Nitrile gloves and safety glasses",
-      "Small saucepan water bath (about 1 inch / 3 cm of barely simmering water)",
-      "Two heat-proof bowls or beakers (one for the surfactant paste, one for the melted oil phase)",
-      "Sturdy spatula and/or gloved hands for mashing the dough",
-      "Bar molds: silicone cavity molds, a shampoo-bar hand press, or simply hands for free-form pucks",
-      "Parchment paper rounds for lining press molds",
-      "Drying rack"
-    ],
-    "safety": [
-      "Wear a dust mask whenever powdered SCI/SCS/SLSa is out of its container - the fine particles are extremely irritating to lungs and eyes; wet surfactants stop being airborne hazards.",
-      "Work with good ventilation and wipe surfaces damp (not dry-dusting) after weighing powders.",
-      "Syndet bars are formulated to be pH-balanced for hair (~pH 5-6) - unlike soap they need no acid rinse, but they DO need a preservative (e.g., 0.5% Liquid Germall Plus) because they live wet in the shower.",
-      "These formulas are gentle but still surfactants - keep out of eyes, and patch test on sensitive scalps.",
-      "Heat the mixture only as much as needed; overheated surfactant paste scorches and smells sulfurous."
-    ],
-    "phases": [
-      {
-        "title": "Understand the Formula Structure",
-        "steps": [
-          "A syndet (synthetic detergent) shampoo bar is mostly solid surfactants bound with conditioning and hardening ingredients - no lye, no saponification, no long cure.",
-          "Benchmark formula (Humblebee & Me 'Snowflake', ~100 g batch): 25 g Sodium Coco Sulfate (SCS), 30 g Sodium Cocoyl Isethionate (SCI), 20 g Cocamidopropyl Betaine (liquid amphoteric surfactant), 10 g brittle butter (tucuma), 8 g BTMS-50 (cationic conditioning emulsifier), 2 g stearic acid, 3.5 g cetyl alcohol, 0.5 g Liquid Germall Plus preservative, plus fragrance.",
-          "Modern press-style variant: a dry phase that is roughly 49% SCI plus clay and powders, worked with a liquid wet phase (Cocamidopropyl Betaine or a non-ionic surfactant, oils, preservative) into a stiff dough.",
-          "BTMS-50 is preferred over BTMS-25 (more active conditioning content); you can substitute equal parts BTMS-25 plus Incroquat CR for BTMS-50."
-        ]
-      },
-      {
-        "title": "Melt the Oil/Conditioner Phase",
-        "steps": [
-          "Put on your dust mask before opening any powdered surfactant.",
-          "Weigh the butter, BTMS-50, stearic acid, and cetyl alcohol into a heat-proof dish and melt in the water bath, stirring until uniform."
-        ]
-      },
-      {
-        "title": "Warm the Surfactant Phase",
-        "steps": [
-          "In a second dish, combine the SCI (and SCS if used) with the Cocamidopropyl Betaine to wet the powders.",
-          "Warm this dish in the same water bath, mashing occasionally, until it softens into a thick, cohesive paste - SCI melts poorly on its own; the betaine is what lets it soften. Do not boil."
-        ]
-      },
-      {
-        "title": "Combine, Mash, and Mold",
-        "steps": [
-          "Scrape the melted oil phase into the surfactant paste and mash/knead (spatula first, then gloved hands as it cools) until completely uniform - it should look like stiff cookie dough.",
-          "When the mass is below 104°F (40°C), knead in the preservative (0.5% Liquid Germall Plus) and fragrance, distributing thoroughly.",
-          "If the dough is too sticky, work in more clay or powdered surfactant; if too dry and crumbly, add distilled water or betaine a few drops at a time.",
-          "Firmly pack the dough into cavity molds, hand-shape it into pucks, or press it in a lined shampoo-bar press (dust the mold faces with mica for decoration, then press)."
-        ]
-      },
-      {
-        "title": "Dry",
-        "steps": [
-          "Unmold carefully and set the bars on a rack in a dry room.",
-          "Let bars dry and harden for AT LEAST 3-4 days before first use - freshly made bars are soft and will dissolve fast; 1-2 weeks makes them harder still.",
-          "This is drying, not saponification - there is no 4-6 week chemical cure like soap."
-        ]
-      }
-    ],
-    "finishing": [
-      "Store finished bars somewhere dry; between showers keep the bar on a well-draining soap dish - standing water is what kills syndet bar lifespan.",
-      "To use: swipe the wet bar directly over wet scalp 3-4 times or lather in hands, massage, rinse; follow with a conditioner bar on lengths and ends.",
-      "A 100 g bar typically replaces 2-3 bottles of liquid shampoo; label ingredients INCI-style if selling (these are cosmetics)."
-    ],
-    "tips": [
-      "SCI is the gentle workhorse ('baby foam'); pairing it with an amphoteric like Cocamidopropyl Betaine boosts mildness and lather quality.",
-      "Keep total surfactants around 60-80% of the bar for real cleansing power; the butter/fatty alcohol fraction controls hardness and conditioning.",
-      "A hand press produces dense, professional, slow-wearing bars; cavity-mold bars are softer - compensate with a longer dry.",
-      "Test the finished bar's pH with a strip on a wetted bar (aim ~5-6); adjust future batches with a pinch of citric acid if high.",
-      "Sourcing note: SCI granules or powder incorporate much more easily than SCI noodles."
-    ],
-    "mistakes": [
-      "Weighing powdered surfactants without a dust mask - a genuinely painful lesson in airborne irritants.",
-      "Trying to melt SCI alone (it never melts smoothly) instead of pasting it with the liquid surfactant.",
-      "Skipping the preservative because 'the bar is solid' - it is repeatedly soaked in the shower.",
-      "Using the bar the same day: soft bars dissolve to mush; give them 3-4 days minimum.",
-      "Swapping BTMS-50 for a non-cationic wax and losing all conditioning slip.",
-      "Overheating the paste until it browns and smells sulfurous."
-    ],
-    "sources": [
-      "https://www.humblebeeandme.com/snowflake-shampoo-bar/",
-      "https://www.humblebeeandme.com/creamy-french-shampoo-bar/"
+   }
+  ],
+  "finishing": [
+   "Do not use the soap before the cure is complete — it is technically safe a few days after saponification, but a 4-6 week cure produces a noticeably milder, harder, better-lathering bar.",
+   "Planing or beveling cured bar edges and wiping any soda ash off with a damp cloth or steamer gives a professional finish.",
+   "Store cured bars with space between them in a dry, ventilated, dim location; in use, keep the bar on a draining soap dish so it lasts.",
+   "Label bars with the date made and full ingredient list; scent and color mellow over time, and gelled bars stay brighter than ungelled ones."
+  ],
+  "tips": [
+   "Always run any recipe through a lye calculator yourself — even printed books contain typos, and every oil swap changes the required lye amount.",
+   "Use the stick-blender-shaft pouring trick and short pulse bursts: it prevents lye splashes, minimizes air bubbles, and keeps the batter from racing past the trace stage you want.",
+   "Soap at moderate temperatures (roughly 90-110°F, with oils and lye within about 10-20°F of each other) for the most forgiving, slow-moving batter — great for beginners.",
+   "Master a plain, unscented, uncolored batch first; fragrance oils can accelerate trace dramatically, so learn how the base recipe behaves before adding variables.",
+   "To fight soda ash, spritz the poured surface with 99% isopropyl alcohol, use a modest water discount, or gel the soap — all three reduce the white film."
+  ],
+  "mistakes": [
+   "Measuring by volume instead of weight — cups and tablespoons are wildly inaccurate for soap and can produce a lye-heavy, skin-burning bar.",
+   "Pouring water into lye (instead of lye into water) or adding lye to warm liquid, causing a caustic boil-over 'volcano'.",
+   "Using aluminum bowls, pans, or whisks, which react with lye and release flammable hydrogen gas.",
+   "Running the stick blender continuously, which burns out the motor, whips in air bubbles, and rockets the batter to thick trace before you can pour.",
+   "Unmolding or cutting too early (crumbly, dented, still-soft soap) or skipping/shortcutting the 4-6 week cure, which leaves a soft, harsh, short-lived bar.",
+   "Insulating high-sugar batters (milk or honey soaps), which overheat, crack, or volcano in the mold."
+  ],
+  "sources": [
+   "https://thenerdyfarmwife.com/soap-making-101-making-cold-process-soap/",
+   "https://lovelygreens.com/natural-soapmaking-for-beginners-make/",
+   "https://lovelygreens.com/soap-making-for-beginners/",
+   "https://soapqueen.com/bath-and-body-tutorials/cold-process-soap/free-beginners-guide-to-soapmaking-cold-process/",
+   "https://www.soapguild.org/tools-and-resources/resource-center/42/make-cp-soap/",
+   "https://lovelygreens.com/how-to-cure-handmade-soap/"
+  ]
+ },
+ "hot_process": {
+  "equipment": [
+   "Crock pot / slow cooker dedicated to soap making, large enough that the raw soap fills it no more than HALF full (soap expands during the cook)",
+   "Accurate digital scale (0.1 oz / 1 g precision) — weigh everything, never use measuring cups",
+   "Stick blender (immersion blender) for bringing the batter to trace",
+   "Heat-safe, non-aluminum lye pitcher (heavy-duty plastic or stainless steel)",
+   "Instant-read or infrared thermometer for oils, lye solution, and the cooked batter",
+   "Heavy-duty silicone or plastic spatulas and a large spoon for folding and scooping the thick cooked soap",
+   "Plastic wrap (to seal under/over the crock pot lid and retain moisture during the cook) plus the pot's own lid",
+   "Large whisk for stirring down a rising 'soap volcano'",
+   "Heat-tolerant soap mold — silicone or a lined wood/loaf mold that can take soap going in at 160-180°F",
+   "Safety gear: chemical-splash goggles, nitrile or rubber gloves, long sleeves, apron, closed-toe shoes",
+   "pH strips or a zap-test routine to confirm the cook is complete",
+   "Small cups for pre-weighing fragrance, superfat oil, and additives",
+   "Wire cutter or sharp knife for slicing, and wax paper for the curing rack"
+  ],
+  "safety": [
+   "Lye (sodium hydroxide) is highly corrosive: goggles, gloves, and long sleeves are the non-negotiable uniform for the entire session, with kids and pets locked out of the workspace and good ventilation throughout.",
+   "ALWAYS pour lye into water, never water into lye — the reverse can react violently and erupt out of the container.",
+   "Add lye only to cool liquid (it self-heats past 200°F) and avoid breathing the temporary but strong fumes; mix at arm's length near an open window, in a sink, or outdoors.",
+   "Never fill the crock pot more than half full of raw soap, and NEVER leave hot process soap unattended while it cooks — unattended batches can expand into a caustic 'soap volcano' that overflows the pot. Stay in the room, especially the first 30 minutes, and stir a rising batch down with a long whisk.",
+   "Do not heat your oils above 180°F, and never add hot lye solution to very hot oils in an already-heated crock pot — the combination can create a scalding, caustic mess.",
+   "The cooked batter is 160-180°F when it comes out of the pot: it is a burn hazard even after the lye is neutralized, so never touch it bare-handed — use a spatula or plastic wrap as a barrier when pressing it into the mold.",
+   "Use only stainless steel, heavy-duty plastic, or silicone tools — no aluminum anywhere in the process.",
+   "If lye or raw batter contacts skin, flush immediately with plenty of cool running water; get medical help for eye exposure.",
+   "Keep the labeled cooling lye solution out of reach — it is clear and looks like water.",
+   "New to soap? Make a couple of cold process batches first so you can recognize trace and handle lye confidently before adding the cooking stage."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 — Prepare Recipe, Workspace, and Crock Pot",
+    "steps": [
+     "Run your recipe through a lye calculator (5% superfat is a good default) and confirm the total batch volume will fill the crock pot no more than half full.",
+     "Favor recipes with a good share of slow-moving liquid oils (olive, etc.); very high coconut/palm recipes trace and cook extremely fast and are harder to manage in hot process.",
+     "Full water (no water discount) is your friend in hot process — extra water keeps the cooked batter fluid enough to mold; many makers also reserve part of the liquid (or add yogurt/milk after the cook) for a smoother finish.",
+     "Suit up in goggles, gloves, and long sleeves; clear the room of children, pets, and distractions, and plan to stay with the pot for the entire cook.",
+     "Prepare your mold now (line wood molds with freezer paper) — once the cook ends you must work fast, and confirm the mold tolerates soap entering at 160-180°F."
     ]
-  },
-  "conditioner_bars": {
-    "equipment": [
-      "Digital scale (0.1 g resolution for preservative and panthenol)",
-      "Metal pan or double boiler and stovetop (or water-bath setup)",
-      "Heat-proof mixing pitcher and silicone spatula",
-      "Silicone cavity molds (4 bars from a ~14 oz batch is typical)",
-      "Pipettes for fragrance and preservative",
-      "Refrigerator space to speed setting (optional)",
-      "Paper towels and a rack for overnight hardening",
-      "Gloves and safety glasses (hot butters splash)"
-    ],
-    "safety": [
-      "Conditioner bars are used soaking wet in the shower, repeatedly - include a broad-spectrum preservative (e.g., a phenoxyethanol + caprylyl glycol blend such as Optiphen at ~0.75-1.5%, added off-heat) even though the bar itself is anhydrous.",
-      "The star ingredient BTMS-50 (Behentrimonium Methosulfate + Cetyl Alcohol + Butylene Glycol) is a cationic conditioning emulsifier - it is 'methosulfate', NOT a sulfate detergent; it is rinse-off conditioner chemistry, safe as used.",
-      "Melted butters and BTMS reach 160°F+; pour carefully and keep the pan handle turned in.",
-      "Add fragrance and preservative off the heat so neither degrades.",
-      "Patch test on skin-sensitive users; keep out of eyes."
-    ],
-    "phases": [
-      {
-        "title": "Formulate",
-        "steps": [
-          "Benchmark recipe (Wholesale Supplies Plus, makes 4 bars / ~13.6 oz): 3.82 oz BTMS-50, 2.55 oz cocoa butter, 2.55 oz coconut oil (76°), 2.55 oz shea butter, 1.27 oz cetyl alcohol, 0.38 oz argan oil, 0.38 oz avocado oil, 0.25 oz DL-panthenol, 0.25 oz fragrance oil, 0.15 oz preservative (phenoxyethanol + caprylyl glycol type). That is roughly 28% BTMS-50 and 9% cetyl alcohol - the conditioning/hardening backbone.",
-          "Simpler 6-ingredient style (Humblebee & Me): cocoa butter + virgin coconut oil (~47% combined) with BTMS-50 as the conditioning emulsifier, plus fragrance and preservative - melt, pour, chill, unmold.",
-          "Do not swap out the BTMS or the fatty alcohol (cetyl/cetearyl) - in tested formulas they are 60-77% of the bar and set its hardness, melting point, and conditioning; substitutions change everything."
-        ]
-      },
-      {
-        "title": "Melt",
-        "steps": [
-          "Add every ingredient EXCEPT fragrance and preservative (and other heat-sensitive extras like panthenol) to a metal pan or double boiler.",
-          "Heat over LOW, stirring or whisking occasionally, until fully melted and blended - the mixture looks milky, not clear; that is normal for BTMS blends.",
-          "Scrape the pan sides so no cetyl alcohol flakes remain, then remove from heat."
-        ]
-      },
-      {
-        "title": "Cool Slightly, Add Actives, and Pour",
-        "steps": [
-          "Off the heat, stir in the panthenol, fragrance, and preservative.",
-          "Pour immediately into silicone molds, filling cavities to the top.",
-          "Let the bars harden completely at room temperature, or place the mold in the refrigerator to speed setting (30-60 minutes for small bars)."
-        ]
-      },
-      {
-        "title": "Unmold and Harden",
-        "steps": [
-          "Once fully hard, unmold and set the bars on a paper towel.",
-          "Leave them out overnight to harden further before packaging - freshly unmolded bars are still soft at the core.",
-          "Package and label (ingredient list, 'rinse-off hair conditioner')."
-        ]
-      }
-    ],
-    "finishing": [
-      "To use: wet the bar and rub between hands or glide directly down soaking-wet hair, concentrating on mid-lengths and ends; for thick or long hair leave in a few minutes, then rinse. If hair feels greasy, use less product next time.",
-      "Store on a draining dish out of the shower stream; a well-drained 50 g bar can last a single user many months.",
-      "Chill bars briefly before gift-wrapping in warm weather - the butters soften in heat."
-    ],
-    "tips": [
-      "BTMS-50 beats BTMS-25 for conditioning power (50% active vs 25%); if using BTMS-25, expect a lighter bar or raise the percentage.",
-      "Panthenol (pro-vitamin B5) is the cheap upgrade that adds shine and moisture retention - keep it in the off-heat additions.",
-      "A swipe-count is the easiest usage instruction for customers: '3-4 swipes per section of wet hair'.",
-      "For fine, easily weighed-down hair, cut the butters and raise cetyl alcohol slightly; for coarse/curly hair add more butter and a touch of liquid oil.",
-      "Fridge-setting prevents graininess in high-shea formulas (rapid cooling stops large butter crystals forming)."
-    ],
-    "mistakes": [
-      "Leaving out the preservative on a bar that gets wet daily in the shower.",
-      "Swapping BTMS for emulsifying wax NF or beeswax - the bar loses all cationic conditioning and just coats hair in wax.",
-      "Adding fragrance/panthenol/preservative to the fully hot melt and cooking them off.",
-      "Unmolding too soon and denting soft bars (or skipping the overnight surface-hardening).",
-      "Using so much per wash that hair looks greasy, then blaming the formula - dosage instructions matter.",
-      "Storing the bar in a puddle in the shower where it softens and melts away."
-    ],
-    "sources": [
-      "https://www.wholesalesuppliesplus.com/blogs/recipes/solid-hair-conditioner-bar",
-      "https://www.humblebeeandme.com/cocoa-coconut-simple-conditioner-bars/"
+   },
+   {
+    "title": "Phase 2 — Mix the Lye Solution",
+    "steps": [
+     "Weigh the distilled water into a heat-safe, non-aluminum pitcher set in the sink.",
+     "Weigh the sodium hydroxide separately, then slowly sprinkle it into the cool water while stirring, keeping your face turned from the fumes.",
+     "Stir until fully dissolved and clear, then set the labeled solution aside to cool for about 15-20 minutes — hot process does not require the lye to cool as far as cold process, but cooler lye lowers the volcano risk."
     ]
-  },
-  "face_masks": {
-    "equipment": [
-      "Small non-metal mixing bowl (glass, ceramic, or plastic) - important with bentonite clay",
-      "Non-metal spoon or small silicone spatula (bentonite's negative charge can pick up metals, reducing efficacy; stainless is debated, so plastic/wood is the safe teaching default)",
-      "Measuring spoons",
-      "Clean mask brush or clean fingertips for application",
-      "Warm water, soft washcloth for removal",
-      "Airtight jar for storing the DRY clay blend only",
-      "Optional: mini whisk for lump-free paste"
-    ],
-    "safety": [
-      "Patch test first: apply a small amount of the mixed mask to the inner forearm, wait (ideally 24 hours for new ingredients), and check for redness, itching, or stinging before ever applying to the face.",
-      "Mix a fresh, single-use batch every time. A wet clay mask contains water and has NO preservative - it is not storable; discard any leftover paste immediately.",
-      "Store only the dry components: blended dry clays keep indefinitely in an airtight jar away from moisture; never dip wet fingers into the dry jar (use a dry spoon).",
-      "Avoid the immediate eye area and lips; clay is drying and lemon juice stings.",
-      "Lemon juice is acidic and can irritate or photosensitize - use the honey-and-water version for sensitive skin, and apply sunscreen after any acid-containing mask.",
-      "Remove the mask while it is still slightly damp/tacky - letting clay dry to full cracking over-dries and can irritate skin.",
-      "Limit clay masks to 1-2 times per week; clay is an oil absorber, not a daily treatment."
-    ],
-    "phases": [
-      {
-        "title": "Blend the Clay Base",
-        "steps": [
-          "Choose your clay for your skin: kaolin (white/China clay) is the gentlest - suitable for dry, sensitive, and mature skin; bentonite is the strong oil-absorber for oily/congested skin; rose kaolin and French green clay sit in between.",
-          "For a balanced single-use mask, use about 1 tablespoon of clay: either all kaolin, or a roughly 1:1 mix such as 3/4 tsp kaolin + 1/4-3/4 tsp bentonite for extra drawing power.",
-          "Pre-blending a jar of your dry clay mix (clays only, plus optional powdered botanicals like oat or chamomile) makes future masks a 30-second job."
-        ]
-      },
-      {
-        "title": "Mix Fresh, To a Paste",
-        "steps": [
-          "In a non-metal bowl, combine 1 tablespoon of the clay with about 1 tablespoon of liquid - distilled water, rose water/hydrosol, or (for the brightening version) 1 tsp water + 1/2 tsp lemon juice.",
-          "Optionally stir in 1/2 tsp aloe vera gel and/or 1/4-1/2 tsp raw honey for soothing and humectancy, and at most 1-2 drops of a skin-safe essential oil (about 1% - skip for sensitive skin).",
-          "Stir with a non-metal utensil until you have a smooth, creamy, spreadable paste - thick enough to cling, thin enough to brush on. Add liquid drop by drop to adjust; expect slight fizzing if acidic ingredients meet bentonite (normal).",
-          "Mix only what you will use right now."
-        ]
-      },
-      {
-        "title": "Apply",
-        "steps": [
-          "Start with a cleansed face. With clean fingers or a mask brush, spread a thin, even layer over the face, avoiding the eye area, brows, and lips.",
-          "Leave on 10-15 minutes for kaolin-based masks (sensitive skin: 5-10 minutes); stronger bentonite blends can go up to 15-20 minutes, but ALWAYS remove before the clay fully cracks and flakes.",
-          "You should feel mild tightening; burning or itching means rinse immediately."
-        ]
-      },
-      {
-        "title": "Remove and Aftercare",
-        "steps": [
-          "Soften the mask with a warm, wet washcloth, then rinse thoroughly with warm water using gentle circles - no scrubbing.",
-          "Pat dry and follow immediately with a moisturizer, since clay masks temporarily strip surface oils.",
-          "Discard any unused paste and wash the bowl and tools promptly; clay sets like cement in drains, so wipe the bulk into the trash first."
-        ]
-      }
-    ],
-    "finishing": [
-      "Sell or gift clay masks as DRY powder blends with mixing instructions ('mix 1 tbsp powder with 1 tbsp water') - a wet, preservative-free mask is not shelf-stable and should never be jarred.",
-      "Label dry blends with ingredients and a 'mix fresh, single use, patch test first' instruction.",
-      "Dry clay blends stored airtight and moisture-free keep a year or more."
-    ],
-    "tips": [
-      "Hydrosols (rose, witch hazel, chamomile) upgrade the liquid phase for almost no effort.",
-      "Honey makes the mask remove more easily and counteracts some of clay's dryness - great for combination skin.",
-      "For multi-person events (spa parties), give each person their own bowl, spoon, and powder portion - never share a communal wet mask.",
-      "Keep a printed skin-type chart: kaolin = dry/sensitive, French green/rose = normal/combination, bentonite = oily.",
-      "A tiny pinch of colloidal oatmeal soothes reactive skin and thickens a runny paste."
-    ],
-    "mistakes": [
-      "Mixing a big jar of wet mask 'for the week' - unpreserved water products spoil fast, sometimes visibly moldy in days.",
-      "Letting the mask dry to a cracked, flaking crust and wondering why skin is red and tight.",
-      "Using metal bowls/spoons with bentonite and blunting its charge-based drawing action.",
-      "Skipping the patch test, especially with lemon juice or essential oils.",
-      "Dipping wet fingers into the dry clay jar and introducing moisture and microbes.",
-      "Daily clay masking, which over-strips even oily skin and triggers rebound oiliness."
-    ],
-    "sources": [
-      "https://www.wholesalesuppliesplus.com/blogs/articles/kaolin-clay-mask-for-all-skin-types",
-      "https://www.humblebeeandme.com/brightening-kaolin-bentonite-face-mask/"
+   },
+   {
+    "title": "Phase 3 — Melt the Oils in the Crock Pot",
+    "steps": [
+     "Weigh the solid oils and butters directly into the crock pot and melt them on LOW, then stir in the weighed liquid oils.",
+     "Bring the oils to roughly 120-150°F — comfortably warm, and never above 180°F.",
+     "Cooking on the LOW setting (typical slow cookers run about 165°F on low and near 200°F on high) gives steady heat with far less volcano risk than high.",
+     "Pre-measure your fragrance/essential oil, superfat oil (if adding one after the cook), and any additives so they are ready the instant the cook finishes."
     ]
-  },
-  "remedies": {
-    "equipment": [
-      "Glass mason jars for infusing herbal oils, plus cheesecloth or fine strainer",
-      "Heat-proof glass measuring cup and saucepan (makeshift double boiler for salves)",
-      "Digital scale and/or measuring spoons; pipettes or drop-counting for essential oils",
-      "Small tins (1-2 oz), lip balm tubes, or glass jars for salves and balms",
-      "Amber or cobalt glass dropper bottles for diluted roller/massage oils",
-      "Ultrasonic or nebulizing diffuser for aromatherapy blends",
-      "Labels (contents, dilution %, date) - unlabeled oils are a safety hazard",
-      "Dedicated stirring utensils; beeswax is nearly impossible to fully wash off"
-    ],
-    "safety": [
-      "Dilute before skin contact: 2% is the standard adult dilution for body products (about 12 drops of essential oil per 1 oz / 30 ml of carrier); use 0.5-1% for facial skin, sensitive skin, elderly users, and children; 3-4% only for small-area, short-term uses like a headache salve. Most aromatherapy blends fall between 1% and 5% total.",
-      "Children: use 0.5% or less for ages 2-6, and keep products UNSCENTED for babies under 2. Never apply undiluted ('neat') essential oils to anyone's skin, and never treat essential oils as ingestible - NAHA does not support indiscriminate internal use.",
-      "Phototoxicity: expressed citrus oils (bergamot, lime, lemon, bitter orange) can cause burns and pigmentation on sun exposure - keep treated skin out of sun and tanning beds for at least 24 hours, or choose non-phototoxic versions (FCF bergamot, distilled lemon/lime, sweet orange).",
-      "Irritant-rich oils (high in aldehydes like citral, or phenols like eugenol - think lemongrass, cinnamon, clove) need extra-low dilutions and should be blended with milder oils.",
-      "Pets: cats and dogs cannot metabolize many essential oil constituents. Never apply concentrated oils to a pet unless a veterinarian directs it, never diffuse in a small closed room with a pet (especially cats and birds), and always give animals an open door to leave the room.",
-      "Diffusion: run intermittently in a ventilated room. Inhalation is low-risk overall, but an hour or more of heavy vapor exposure can cause headaches, vertigo, nausea, and lethargy - less is more.",
-      "Pregnancy, epilepsy, hypertension, and medications all change which oils are safe (e.g., rosemary and clary sage carry cautions) - check a reputable safety reference (Tisserand/NAHA) per oil.",
-      "Store oils in dark glass, tightly capped, away from heat, light, children, and pets; oxidized old oils (especially citrus and pine) become more sensitizing.",
-      "These are comfort/skin-care preparations, not medicine: do not make disease-treatment claims, and see a professional for wounds that are deep, infected, or not healing."
-    ],
-    "phases": [
-      {
-        "title": "Infuse an Herbal Oil (Salve Foundation)",
-        "steps": [
-          "Slow method (preferred): fill a mason jar 1/4 to 1/2 full with DRIED herbs (calendula, plantain, lavender - dried, because fresh plant water spoils oil), top up with olive, sweet almond, or sunflower oil, cap, shake, and steep in a cool dark place for 4-6 weeks before straining through cheesecloth.",
-          "Fast method: cover the dried herbs with oil in an uncapped jar, set the jar in a saucepan with a few inches of water, and warm on LOW for 2-3 hours - if it starts smelling like deep-fried herbs it overheated; discard and retry.",
-          "Strained infused oils keep about 1 year stored cool and dark. (Pre-infused calendula oil is a fine shortcut.)"
-        ]
-      },
-      {
-        "title": "Make the Salve or Balm",
-        "steps": [
-          "Use roughly 1/2 oz (14 g) of beeswax per 3.5-4 oz (100-115 g) of oil - e.g., 3.5 oz combined infused oils + 1 tbsp tamanu oil + 0.5 oz beeswax pastilles - for a classic soft-but-solid salve; more beeswax = firmer balm, less = softer.",
-          "Combine the oils and beeswax in a heat-proof measuring cup set in a saucepan with a few inches of water; bring the water to almost a simmer and heat gently until the beeswax fully melts, stirring once or twice.",
-          "Remove from heat and stir in cool-down additions: essential oils at 1-2% for a general-purpose salve (e.g., 15 drops tea tree + 20 drops lavender in a ~4 oz batch), and optional 1/8 tsp rosemary antioxidant extract to extend shelf life.",
-          "Pour promptly into small tins or jars, cap after the surface sets, and let cool completely undisturbed before moving.",
-          "Test the set: too soft, remelt with a little more beeswax; too hard, remelt with a splash more oil.",
-          "Label with ingredients, dilution, and date; anhydrous salves keep about 1 year."
-        ]
-      },
-      {
-        "title": "Blend a Topical Roller or Massage Oil",
-        "steps": [
-          "Pick the dilution for the person and purpose: 1% (6 drops per 30 ml) for daily body use, children 6+, elderly, or facial-adjacent areas; 2% (12 drops per 30 ml) standard adult body blend; 3-4% only for acute, small-area, short-term use.",
-          "Add the drops to the empty bottle first, top with carrier oil (jojoba, fractionated coconut, sweet almond), cap, and roll/invert to mix.",
-          "Apply to pulse points or the affected area; stop use if any redness or itching develops.",
-          "Skip phototoxic citrus in daytime leave-on blends."
-        ]
-      },
-      {
-        "title": "Build a Diffuser Blend",
-        "steps": [
-          "Use PURE essential oils only in the diffuser - carrier oils clog and damage ultrasonic units.",
-          "Add the drops your diffuser's manual specifies to the water reservoir (commonly 3-8 drops per 100 ml of water); a classic calm blend is 2 drops lavender + 2 drops sweet orange + 1 drop frankincense.",
-          "Diffuse intermittently (e.g., 30-60 minutes on, then a break, or a unit with a built-in interval mode) in a ventilated room rather than continuously.",
-          "Do not diffuse around infants, pets shut in the room, or people with asthma without checking oil-specific guidance; stop if anyone develops a headache or nausea.",
-          "Empty and dry the reservoir between different blends to keep scents true."
-        ]
-      }
-    ],
-    "finishing": [
-      "Store salves and balms in a cool, dark cupboard (they soften in heat) and use dry fingers - kept water-free, no preservative is needed and they last about a year.",
-      "Store dropper-bottle blends in dark glass; label every container with the exact oils, the dilution percentage, and the date made.",
-      "Keep all essential oils - concentrated and diluted - locked away from children; even small swallowed amounts of some oils are dangerous, so call poison control immediately if ingestion occurs."
-    ],
-    "tips": [
-      "Learn the drop math once: at ~20 drops per ml, 1% of a 30 ml (1 oz) blend is about 6 drops; 2% is about 12 drops - then a printed dilution chart does the rest.",
-      "Diluted essential oils are often MORE effective in practice than neat application: better spread, better absorption, no sensitization spiral.",
-      "Sensitization is cumulative and permanent - respecting maximum dilutions today is what lets you keep using lavender in ten years.",
-      "Choose boring, well-studied workhorses (lavender, tea tree at low %, chamomile, frankincense, sweet orange) before exotic oils with thin safety data.",
-      "For gift salves, include a card listing every oil and the dilution so recipients with allergies or pregnancies can make informed choices."
-    ],
-    "mistakes": [
-      "Applying undiluted essential oils to skin, or dosing children at adult dilutions.",
-      "Using fresh herbs in oil infusions - the water content breeds bacteria and can support botulism-friendly conditions; always use dried.",
-      "Running a diffuser for hours in a closed room (headache, nausea) or with a cat shut inside.",
-      "Ignoring phototoxic citrus warnings and getting a bergamot burn at the beach.",
-      "Adding essential oils to the salve while it is still on the heat, evaporating them.",
-      "Making medical claims ('cures eczema/infections') - both unsafe and, for sellers, a regulatory violation."
-    ],
-    "sources": [
-      "https://thenerdyfarmwife.com/eo-dilution-chart-skincare/",
-      "https://naha.org/explore-aromatherapy/safety/",
-      "https://thenerdyfarmwife.com/herbal-healing-salve-recipe/"
+   },
+   {
+    "title": "Phase 4 — Combine and Bring to Trace",
+    "steps": [
+     "Rest the stick blender shaft against the side of the crock pot and slowly pour the lye solution down the shaft into the oils to prevent splashing.",
+     "Stir with the blender off to incorporate, then pulse in short bursts, keeping the bell fully submerged and tapping it on the pot bottom occasionally to release air bubbles.",
+     "Alternate pulsing and hand-stirring until you reach a solid medium-to-thick trace — the batter should be thick like pudding and hold trailings on the surface (this can take from 2-3 minutes up to 10-15 depending on the recipe).",
+     "Scrape the thin film of batter off the pot sides down into the main batter with a spatula so it doesn't crust during the cook."
     ]
-  }
+   },
+   {
+    "title": "Phase 5 — The Cook",
+    "steps": [
+     "Put the lid on (many soapers stretch plastic wrap under or over the lid to lock in steam — moisture retention is vital) and cook on LOW; resist opening the lid, which lets water escape and stiffens the batter.",
+     "Expect the cook to take roughly 30-60 minutes total (about 45 minutes in a typical slow cooker; every model differs). Set a timer and check through the lid every 15 minutes.",
+     "Watch the stages of saponification: the cream-colored opaque batter first darkens and turns gelatinous/translucent at the hot edges, then the gel works inward; the batter may puff, rise, or fold over itself like waves — this is normal.",
+     "If the soap climbs toward the rim, stir it down with a long whisk — this is why you never walk away, especially in the first 30 minutes.",
+     "The batch is done when ALL of the soap — including the center — looks glossy and translucent like petroleum jelly (the 'vaseline stage') with a texture like thick mashed potatoes and no opaque cream-colored pockets remaining; if the middle still looks creamy, keep cooking in 15-minute increments."
+    ]
+   },
+   {
+    "title": "Phase 6 — Test Doneness, Cool Slightly, and Add Extras",
+    "steps": [
+     "Confirm saponification is complete: a pH strip pressed to a smear of cooled batter should read below about 10, or do a careful 'zap test' — touch a cooled crumb to your tongue; a battery-like zap means unreacted lye and more cook time, no zap means done.",
+     "Turn off the crock pot (lift the ceramic insert out onto a potholder) and let the batter cool 10-15 minutes with the lid off before adding anything delicate.",
+     "Stir in your superfat oil first if using one (e.g., reserved butter or a luxury oil), since the lye is now consumed it stays as free conditioning oil.",
+     "Add fragrance or essential oil once the batter is under about 180°F — added hotter, much of the scent simply vaporizes into the room; sugary additives like honey, milk, or yogurt also scorch and brown if the soap is too hot, so this brief cool-down protects them too.",
+     "Stir everything in quickly and thoroughly — the batter thickens fast as it cools, and a stiff batter is hard to mold."
+    ]
+   },
+   {
+    "title": "Phase 7 — Mold the Soap",
+    "steps": [
+     "Working quickly while the soap is still hot and pliable, spoon or 'plop' the thick batter into the prepared mold in stages.",
+     "After each few scoops, firmly tap or rap the mold on the counter to knock out the air pockets that the chunky texture traps (support flexible column/silicone molds with rubber bands or your hands so hot soap can't squeeze out).",
+     "Press the soap down and level the top using a spatula or a sheet of plastic wrap over your hand — never bare skin, the soap is around 160-180°F.",
+     "Texture the top rustically if you like; hot process is naturally rustic-looking and will not pour glass-smooth like cold process."
+    ]
+   },
+   {
+    "title": "Phase 8 — Unmold, Cut, and Cure",
+    "steps": [
+     "Let the soap sit in the mold about 24 hours (1-2 days for larger loaves) until fully cool and firm, then unmold.",
+     "Slice into bars with a knife or wire cutter soon after unmolding, while the loaf is easiest to cut.",
+     "Because saponification finished in the pot, the soap contains no active lye and can technically be used the next day — but it will be soft and short-lived if used immediately.",
+     "For best quality, cure the bars on wax paper with airflow for 4-6 weeks (a bare-minimum week for a 'quick' bar): water evaporates, the bar hardens, lather improves, and it lasts far longer in the shower.",
+     "Cleanup is easy — soak the crock pot in warm water and the now-saponified residue rinses out as soap."
+    ]
+   }
+  ],
+  "finishing": [
+   "Cure hot process bars just like cold process: spaced on wax paper in a dry, airy, dim spot, turned occasionally, for 4-6 weeks even though the soap is already lye-free.",
+   "Expect a rustic, slightly textured 'country' look; you can smooth the tops while molding or embrace the texture as the signature of hot process.",
+   "Store cured bars in a ventilated, dry place out of sunlight; like all handmade soap they do best on a draining dish in use.",
+   "If a finished batch turned out overcooked, dry, and crumbly, it can be rescued: chop it, add about 1 ounce of hot water per pound of soap (an ounce at a time), and reheat gently to rebatch."
+  ],
+  "tips": [
+   "The one unbreakable rule: never leave hot process soap cooking unattended — volcanoes happen fast, and every ruined-batch story starts with 'I just stepped out for a minute.'",
+   "Seal the crock pot with plastic wrap under a tight lid so you can watch the stages without lifting the lid; retained steam keeps the batter fluid and mold-able.",
+   "Cook on LOW: low-and-slow dramatically reduces volcano risk, and slow cookers already hold saponification-friendly temperatures (~165°F on low).",
+   "Add fragrance, honey, milk, or yogurt only after a 10-15 minute cool-down below ~180°F — heat is the enemy of scent retention and sugar-based additives.",
+   "Since the lye is consumed before extras go in, hot process is ideal for fragile additives and precise superfatting — you control exactly which oil remains unsaponified."
+  ],
+  "mistakes": [
+   "Overfilling the crock pot (more than half full) or walking away during the cook, ending in a caustic soap volcano over the counter.",
+   "Adding fragrance to soap hotter than ~180°F, so most of the scent evaporates into the room instead of staying in the bars.",
+   "Lifting the lid repeatedly or cooking uncovered, which evaporates water and leaves a stiff, dry, impossible-to-mold batter.",
+   "Molding too slowly — the batter sets as it cools, trapping large air pockets and leaving crumbly gaps in the finished bars (tap the mold firmly between scoops).",
+   "Skipping the doneness test (zap/pH) or the cure: undercooked soap still contains active lye, and uncured bars stay soft and dissolve quickly.",
+   "Using a mold that cannot handle 160-180°F soap, which warps thin plastic molds."
+  ],
+  "sources": [
+   "https://www.modernsoapmaking.com/blog/hot-process-soap-in-a-crockpot-tutorial",
+   "https://soapqueen.com/bath-and-body-tutorials/cold-process-soap/hot-process-series-crock-pot-camo/",
+   "https://lovelygreens.com/simple-moisturizing-hot-process-soap-recipe/",
+   "https://thenerdyfarmwife.com/hot-process-oatmeal-honey-soap-crock-pot-method/",
+   "https://www.soapguild.org/tools-and-resources/resource-center/71/hot-process-soap-beginners/",
+   "https://www.wholesalesuppliesplus.com/blogs/articles/hot-process-soap-making-faq"
+  ]
+ },
+ "melt_and_pour": {
+  "equipment": [
+   "Melt and pour soap base (start with a simple clear or white SFIC-style base; shea, goat milk, aloe, and honey bases come later)",
+   "Digital scale to weigh base, fragrance, and colorants",
+   "Large microwave-safe glass measuring cup / funnel pitcher with a pour spout, or a double boiler",
+   "Dedicated soap-making cutting board and a sharp, non-serrated knife for cubing the base",
+   "Heat-safe silicone spatula and a chopstick or spoon for stirring",
+   "Instant-read or infrared thermometer — essential for pour and layering temperatures",
+   "Spray bottle filled with 99% isopropyl (rubbing) alcohol",
+   "Silicone or sturdy plastic soap molds (individual cavities or a loaf mold)",
+   "Skin-safe colorants made for melt and pour (liquid dyes, micas, or color blocks) and skin-safe fragrance or essential oils",
+   "Pipettes or droppers for measuring fragrance accurately",
+   "Fine-mesh sieve for straining diluted powdered colorants",
+   "Plastic wrap (cling film) for airtight wrapping of finished bars",
+   "Wax paper and paper towels to protect the work surface"
+  ],
+  "safety": [
+   "No lye handling is required — the base has already been saponified in a factory — which makes melt and pour the safest method and the right one for making soap with kids (with an adult running the melting).",
+   "Melted soap base is HOT (120-140°F+) and behaves like hot syrup: it clings to skin, so handle the pitcher with dry hands or a towel and keep young children away from the melting and pouring steps.",
+   "Heat in short bursts and never let the base boil — overheated base can scorch, smell burnt, discolor, and become gloppy and unworkable; it can also burn you when stirred.",
+   "Use only skin-safe, cosmetic-grade colorants and fragrance/essential oils intended for soap — never candle fragrance, potpourri oil, or craft glitter that is not cosmetic grade.",
+   "Follow the supplier's fragrance calculator for your exact fragrance and base; typical melt and pour usage is well under 1 ounce per pound of base, and essential oils should be dosed by percentage (commonly around 0.5-1%).",
+   "Isopropyl alcohol is flammable — spray it away from open flames and stove burners.",
+   "Work on a protected surface; spilled base hardens quickly but stays slippery, so wipe drips while warm.",
+   "If using the microwave, use only microwave-safe glass or plastic and stir between every burst so heat cannot pocket and superheat."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 — Prepare the Workspace and Mold",
+    "steps": [
+     "Cover the work surface with wax paper, set out the mold on a flat tray or cutting board you can move without flexing it, and pre-measure your colorant and fragrance.",
+     "Weigh how much base your mold holds (fill a cavity with water and weigh it as an estimate, or use the mold's stated ounce capacity) so you cut only what you need.",
+     "For intricate or detailed molds, spritz the inside of the mold lightly with rubbing alcohol right before filling — the alcohol helps the soap settle into every nook for a crisp impression."
+    ]
+   },
+   {
+    "title": "Phase 2 — Cut and Melt the Base",
+    "steps": [
+     "Cut the weighed soap base into small, even cubes about 1/2 inch to 1 inch — small uniform pieces melt quickly and evenly without hot spots.",
+     "Microwave method: heat the cubes in a microwave-safe pitcher in 30-second bursts, stirring after every burst; as the base is nearly melted, drop to 10-15 second bursts and stop as soon as the last small chunks stir smooth.",
+     "Double-boiler method: melt the cubes in a heat-safe container over gently simmering water, stirring occasionally, for more even, scorch-proof heating on larger batches.",
+     "Remember the base begins to melt around 120-125°F — full melt only needs the 130-140°F range, so never let it simmer or boil; overheated base turns thick, cloudy, and can smell burnt.",
+     "Keep a lid, plate, or plastic wrap loosely over the pitcher between steps to slow evaporation and skin formation."
+    ]
+   },
+   {
+    "title": "Phase 3 — Color and Fragrance",
+    "steps": [
+     "Let the melted base cool slightly (toward 130-140°F) before adding extras — very hot base burns off fragrance and can distort some colorants.",
+     "Stir in colorant a little at a time: liquid dyes and color blocks stir straight in; for powdered micas or natural colorants, first disperse the powder in 2-3 times as much rubbing alcohol (or a splash of liquid glycerin), mix until smooth, strain through a fine sieve if lumpy, then add the slurry in small portions until you reach the shade you want.",
+     "Add your skin-safe fragrance or essential oil at the supplier's calculated rate (measure with a pipette on the scale — do not free-pour) and stir gently but thoroughly for 20-30 seconds, avoiding whipping in bubbles.",
+     "Work at a deliberate pace: melt and pour cools and skins over quickly, and a skin on the pouring pitcher means it is time for a brief 5-10 second reheat."
+    ]
+   },
+   {
+    "title": "Phase 4 — Pour and Set",
+    "steps": [
+     "Check the temperature and pour into the mold at roughly 120-130°F (at or below 140°F for a single-color pour) — hot enough to flow smoothly, cool enough not to warp thin plastic molds or sink embeds.",
+     "Pour slowly and close to the mold surface in a steady stream to minimize bubbles.",
+     "Immediately spritz the surface once or twice with 99% isopropyl alcohol to pop the surface bubbles for a glassy finish.",
+     "Leave the mold flat and undisturbed to harden — small cavity bars set in about 1-2 hours, while a full loaf can take 4-12 hours or overnight; moving or flexing the mold early causes cracks and dents (the refrigerator for 10-15 minutes can speed small molds, but never the freezer for long)."
+    ]
+   },
+   {
+    "title": "Phase 5 — Layering (Optional Design Work)",
+    "steps": [
+     "Pour the first layer at or below about 140°F and spritz it with alcohol to pop bubbles, then let it set until it forms a solid skin — test by blowing gently on the surface or tapping the mold side; nothing should ripple.",
+     "Keep the next color melted and monitor it with a thermometer: pour each subsequent layer at about 125-130°F — any hotter and it will melt through or break the layer underneath (the base itself starts melting at 120-125°F).",
+     "Right before pouring the new layer, spritz the set layer generously once with rubbing alcohol — the alcohol slightly dissolves the surface so the layers fuse and won't split apart when cut.",
+     "Pour the new layer slowly over the back of a silicone spatula held just above the surface, so the stream lands softly instead of punching through the skin.",
+     "Repeat spritz-set-pour for every layer; weigh the base into equal portions beforehand if you want perfectly even stripes, and be patient — cool-and-firm between layers is what gives razor-straight lines.",
+     "Do not overdo the alcohol between layers: a light, even spray bonds them, but soaking the surface can actually make layers separate after cutting."
+    ]
+   },
+   {
+    "title": "Phase 6 — Unmold, Wrap, and Store",
+    "steps": [
+     "Wait until the soap is completely cool and hard all the way through (several hours for loaves), then flex the mold gently and press from the back to release the bars, or cut a loaf into bars with a sharp knife.",
+     "There is NO cure time — melt and pour soap is ready to use as soon as it is cool and hard.",
+     "Wrap each bar tightly in plastic wrap (or shrink wrap) as soon as it is unmolded and cool: melt and pour bases are loaded with glycerin, which pulls moisture from the air and forms 'glycerin dew' — sticky beads of sweat — on unwrapped bars, especially in humid climates.",
+     "Buff away fingerprints or dust on the shiny surface with a light wipe of rubbing alcohol on a soft cloth before wrapping.",
+     "Store wrapped bars in a cool, dry, low-humidity place out of direct sunlight; save every scrap and off-cut in an airtight container — they remelt perfectly for embeds and future batches."
+    ]
+   }
+  ],
+  "finishing": [
+   "Wrap bars airtight in plastic wrap immediately after they cool to prevent glycerin dew; add a decorative band or label over the wrap for gifting or sale.",
+   "If dew has already formed, set the bars under a fan in a dry room to evaporate the droplets, wipe gently, and then wrap airtight.",
+   "Melt and pour bars are ready to use immediately — no cure — but they last longest kept wrapped until use and drained between uses.",
+   "Label with ingredients (base manufacturer's INCI list plus your additives), fragrance, and date; well-wrapped bars keep for a year or more."
+  ],
+  "tips": [
+   "Temperature is everything: an inexpensive infrared thermometer turns layering from guesswork into a repeatable 125-130°F process.",
+   "Spritz rubbing alcohol twice when layering — once right after each pour to pop bubbles, and once right before the next pour so the layers weld together.",
+   "Chop the base small and melt low-and-slow in 30-second then 10-second bursts; a base you never scorch stays crystal clear and easy to work.",
+   "Dilute powdered colorants in 2-3x their volume of rubbing alcohol and strain before adding, and leave the last speckle-laden dribble of soap in the pitcher for speck-free bars.",
+   "Save and remelt every scrap and 'failed' bar — chopped scraps become embeds, confetti soap, or get diluted into fresh base to lighten an over-colored batch."
+  ],
+  "mistakes": [
+   "Overheating or boiling the base, which scorches it — burnt smell, yellow cast, gloppy texture — and ruins clarity in clear bases.",
+   "Pouring a new layer too hot (above ~130°F) or onto a layer without a firm skin, so it melts through and the colors bleed into each other.",
+   "Skipping the alcohol spritz between layers (layers pop apart when the loaf is cut) — or soaking the surface with too much alcohol, which can also cause separation.",
+   "Adding fragrance or delicate colorants to base that is far too hot, weakening the scent and shifting the color.",
+   "Leaving finished bars unwrapped, so glycerin dew beads all over the surface in humid air.",
+   "Using non-cosmetic additives (candle fragrance, craft glitter, crayons) or guessing fragrance amounts instead of using a fragrance calculator."
+  ],
+  "sources": [
+   "https://soapqueen.com/bath-and-body-tutorials/melt-and-pour-soap/free-beginners-guide-to-soapmaking-melt-and-pour/",
+   "https://www.wholesalesuppliesplus.com/blogs/help-how-tos/how-to-make-melt-and-pour-soap-2",
+   "https://soapqueen.com/bath-and-body-tutorials/5-tips-layering-melt-pour/",
+   "https://www.wholesalesuppliesplus.com/blogs/help-how-tos/melt-and-pour-design-techniques-layering",
+   "https://thenerdyfarmwife.com/quick-tips-melt-pour-soap/",
+   "https://www.soapguild.org/tools-and-resources/resource-center/100/intro-to-melt-and-pour-soaps/"
+  ]
+ },
+ "bath_bombs": {
+  "equipment": [
+   "Digital kitchen scale (all ingredients measured by weight, not volume, for consistent results)",
+   "Two large non-reactive mixing bowls (stainless steel or glass) - one for dry ingredients, one for wet",
+   "Fine-mesh sifter or sieve for de-clumping baking soda and citric acid",
+   "Small spray bottle with a fine mist, filled with witch hazel",
+   "Two-piece bath bomb molds (stainless steel spheres) or silicone/plastic molds",
+   "Nitrile or latex gloves (citric acid irritates skin and strips nail polish)",
+   "Dust mask and safety glasses for handling powdered citric acid",
+   "Whisk and flexible spatula",
+   "Drying rack, tray, or folded towel lined with parchment or a soft surface",
+   "Shrink wrap bags or airtight containers for finished bombs"
+  ],
+  "safety": [
+   "Wear gloves for the entire mixing process - prolonged contact with citric acid can irritate skin, and per Bramble Berry it will even remove nail polish.",
+   "Wear a dust mask when pouring or sifting citric acid and baking soda; the fine powder is unpleasant and irritating to inhale.",
+   "Work in a well-ventilated, LOW-HUMIDITY room. Ambient moisture is the number one cause of failed batches - it prematurely activates the baking soda / citric acid reaction.",
+   "Keep all liquids (oils, fragrance, colorant, witch hazel) measured precisely; free water in the mix triggers fizzing before the bomb ever reaches the tub.",
+   "Use only skin-safe, bath-safe fragrance or essential oils at supplier-recommended usage rates (typically about 0.5-1% of total weight), and use bath-bomb-approved colorants such as water-soluble La Bomb colorants to avoid staining tubs and skin.",
+   "If you add carrier oils, consider adding polysorbate 80 so oil emulsifies into the bathwater instead of pooling and making the tub slippery - a genuine slip-and-fall hazard.",
+   "Never use food-grade tools that will return to kitchen duty; dedicate equipment to bath and body making.",
+   "Keep finished bombs and raw citric acid away from children and pets."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 - Measure and prepare the dry base",
+    "steps": [
+     "Weigh 2 parts baking soda to 1 part citric acid by weight - this 2:1 ratio is the industry-standard starting point (for example, Soap Queen's lavender bath bomb recipe uses 32 oz baking soda to 16 oz citric acid; The Nerdy Farm Wife uses 429 g baking soda to 177 g citric acid).",
+     "Optionally weigh out fillers and boosters: about 4 oz of extra-fine Epsom salt or fine sea salt per 48 oz of base powder adds minerals and boosts fizz, and cream of tartar at 5-10% of your citric acid weight makes a harder, more polished bomb.",
+     "Push the baking soda and citric acid through a sifter, or break up every clump with your gloved fingers - clumps become hard white spots and weak points in the finished bomb.",
+     "Whisk all dry ingredients together in the large bowl for a full minute so the citric acid is evenly distributed; uneven mixing gives uneven fizz."
+    ]
+   },
+   {
+    "title": "Phase 2 - Prepare and add the wet ingredients",
+    "steps": [
+     "In a small separate container, combine your liquid ingredients: about 2 oz of lightweight carrier oil (such as sweet almond, borage, or a melted butter like shea) per 48 oz of dry mix, your essential or fragrance oil (about 0.3 oz per 48 oz batch), and a few drops of bath-safe colorant.",
+     "If using a carrier oil, add polysorbate 80 at roughly one-third the oil weight (Soap Queen uses 0.7 oz polysorbate 80 with 2 oz borage oil) so the oil disperses in bathwater instead of floating.",
+     "Slowly drizzle the wet mixture into the dry ingredients while whisking constantly, then switch to gloved hands and rub the mixture between your fingers to break up any pockets of oil or color.",
+     "Mix until the color is uniform and no streaks remain - streaky color means streaky, unevenly fizzing bombs."
+    ]
+   },
+   {
+    "title": "Phase 3 - Spritz with witch hazel to reach wet-sand consistency",
+    "steps": [
+     "Do the squeeze test: grab a handful of mixture and squeeze hard. If it holds together like damp sand and keeps its shape, it is ready. If it crumbles apart, it needs moisture.",
+     "Hold the witch hazel spray bottle in one hand and spritz 2-3 pumps over the surface while mixing continuously with your other gloved hand - witch hazel is used instead of water because it wets the powder enough to bind, then evaporates cleanly, minimizing premature fizzing.",
+     "Repeat in rounds of 2-3 spritzes followed by thorough mixing and another squeeze test. Stop the moment the mixture just barely clumps when squeezed - err on the dry side.",
+     "Never dump liquid in all at once and never over-spritz: too much moisture starts the fizzing reaction in the bowl and causes bombs to crack, wart, or expand as they dry."
+    ]
+   },
+   {
+    "title": "Phase 4 - Pack the molds",
+    "steps": [
+     "Overfill BOTH halves of the two-piece mold with mixture, pressing lightly as you pack - firm enough to compact the bottom of each half, but leave the mixture at the top surface loose.",
+     "Press the two overfilled halves together firmly in one straight motion; the loose mixture at the seam is what fuses the halves into one solid sphere.",
+     "Do not twist or grind the halves against each other - twisting breaks the bond at the seam and the bomb will split along its equator later.",
+     "Wipe away the ring of excess mixture that squeezes out of the seam with your fingers.",
+     "Tap the closed mold gently on the work surface a few times, flip it, and tap again, then carefully pull the top half of the mold straight off (a slight gentle twist of the metal cap only, not the bomb, helps release it).",
+     "Leave the bomb resting in the bottom half of the mold for about 15 minutes before removing that side, as The Nerdy Farm Wife recommends - this prevents flat spots and crumbled bottoms.",
+     "If the halves refuse to stick together, scoop the mixture back into the bowl, add one or two more spritzes of witch hazel, remix, and try again; you may need a spritz or two between every bomb to keep the mixture workable."
+    ]
+   },
+   {
+    "title": "Phase 5 - Dry, cure, and package",
+    "steps": [
+     "Place unmolded bombs on a folded towel or parchment-lined tray where nothing will touch them, and let them air-dry for 24-48 hours in a dry, cool room away from bathrooms, kitchens, dishwashers, and direct fan airflow.",
+     "In a dry climate (or dry winter indoor heat), 24 hours of air drying is usually enough before packaging; check that the bomb feels rock-hard and sounds solid when tapped.",
+     "In a humid climate, follow The Nerdy Farm Wife's method: place the fresh bombs in the refrigerator for 30-60 minutes to firm them up, then package promptly - long open-air exposure in humidity makes them wart, expand, and soften.",
+     "Run a dehumidifier in the drying room if relative humidity is high; the first 24-48 hours are the critical window when ambient moisture can ruin the batch.",
+     "Once fully dry, immediately shrink-wrap each bomb or seal batches in airtight containers so they stop absorbing atmospheric moisture."
+    ]
+   }
+  ],
+  "finishing": [
+   "Shrink-wrap individual bombs or store them in airtight jars/bags with a desiccant pack; humidity exposure slowly kills fizz even in a finished bomb.",
+   "Store in a cool, dry, dark place - never in a bathroom cabinet.",
+   "Use within about 6 months for maximum fizz; bombs remain usable afterward but the reaction weakens as the powders slowly absorb ambient moisture.",
+   "For sale in the US, label each bomb or package with the product identity, net weight in both ounces and grams, business name and address, and a full ingredient declaration in descending order of predominance (per FDA cosmetic labeling rules as summarized by Marie Gale).",
+   "Add a usage note advising users to rinse the tub afterward if the recipe contains oils or botanicals."
+  ],
+  "tips": [
+   "Test one bomb from every batch in a bowl of warm water before gifting or selling - it should fizz vigorously and spin, not sink and dissolve quietly.",
+   "Work fast once the mixture is hydrated; it dries out in the bowl, so keep the witch hazel bottle in hand and re-spritz lightly between molding each bomb.",
+   "For harder, shinier bombs, add cream of tartar (5-10% of the citric acid weight) or a teaspoon of kaolin clay per pound of mix.",
+   "Embed dried botanicals (a pinch of lavender or petals) in one mold half BEFORE packing so they appear on the face of the bomb - but use sparingly, since petals must be fished out of the tub.",
+   "Make bath bombs on a dry day whenever possible; experienced makers check the weather forecast because a rainy, humid day measurably increases failure rates."
+  ],
+  "mistakes": [
+   "Using too much liquid (or plain water instead of witch hazel), which triggers the fizz reaction early - the bombs crack, grow warts, or expand out of shape while drying.",
+   "Skipping the sifting step, leaving citric acid or baking soda clumps that create weak crumbly spots and uneven fizzing.",
+   "Twisting the two mold halves together, which shears the bond at the seam so the bomb splits in half when unmolded or dried.",
+   "Drying bombs in a humid room or bathroom, or under a fan blowing directly on them - humidity softens and warts them, and direct airflow dries them unevenly and cracks them.",
+   "Packing too little mixture or pressing the halves only loosely, producing a soft, powdery bomb that crumbles - the mixture must be packed firmly with loose material only at the seam."
+  ],
+  "sources": [
+   "https://www.brambleberry.com/how-to/bath-bomb-essentials.html",
+   "https://www.brambleberry.com/ingredient-information/bath-bomb-qa.html",
+   "https://www.brambleberry.com/additives/all-about-witch-hazel.html",
+   "https://soapqueen.com/bath-and-body-tutorials/relaxing-lavender-bath-bombs/",
+   "https://thenerdyfarmwife.com/dandelion-bath-bombs-recipe/",
+   "https://lovelygreens.com/how-to-make-bath-bombs/",
+   "https://www.mariegale.com/simple-labeling-checklist/"
+  ]
+ },
+ "scrubs": {
+  "equipment": [
+   "Digital kitchen scale (formulate by weight so the preservative percentage is accurate)",
+   "Large glass or stainless mixing bowl and a sturdy spatula",
+   "Small container for pre-mixing liquid ingredients (oil, fragrance, preservative)",
+   "Spray bottle of 70% isopropyl alcohol for sanitizing tools, bowls, and jars",
+   "Nitrile gloves",
+   "Wide-mouth PET plastic jars with tight lids (plastic, not glass, for anything used near a shower or tub)",
+   "Pipettes or a 0.01 g scale for measuring preservative accurately",
+   "Labels listing ingredients and a use-by date",
+   "Optional: small scoop or spatula to include with each jar so users never dip wet fingers"
+  ],
+  "safety": [
+   "Sanitize every bowl, spatula, and jar with 70% isopropyl alcohol and let air-dry before starting; a scrub is only as clean as the dirtiest tool that touched it.",
+   "Even though a sugar or salt scrub contains no water, it lives in the shower and WILL get water splashed into it - per Soap Queen and the School of Natural Skincare, an anhydrous product that contacts water in use either needs a preservative or must be scrupulously kept dry, because introduced water lets bacteria and mold grow.",
+   "Choose the right preservative chemistry: an oil-soluble broad-spectrum preservative such as Phenonip (used in the heated/oil portion, effective pH 3-8) or Optiphen (about 1-1.5%) suits oil-based scrubs; water-soluble Liquid Germall Plus (0.5%) suits emulsified scrubs. Never exceed the supplier's maximum usage rate.",
+   "Salt scrubs sting and can burn on freshly shaved, broken, or irritated skin - label them for body use and warn against use on the face or damaged skin.",
+   "Oily scrubs make tub and shower floors dangerously slippery; add a slip-hazard warning to the label.",
+   "Keep fragrance/essential oils within dermal safety limits for wash-off body products (typically 1-3% total, checked against IFRA guidance for the specific oil).",
+   "Wear gloves while filling jars so skin flora never enters the product."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 - Choose your exfoliant: sugar vs salt",
+    "steps": [
+     "Pick sugar for a gentler all-purpose scrub: granulated sugar crystals are smaller and rounder, dissolve quickly in warm water, and per the HSCG formulating guidance shared on Soap Queen, sugar scrubs are noticeably more gentle on skin.",
+     "Pick salt for a more aggressive, mineral-rich scrub: salt is coarser and, as Marla Bosworth notes in the Soap Queen formulating post, particularly good for skin prone to ingrown hairs, and for rough spots like feet and elbows.",
+     "Match grain size to the body part: fine granulated sugar or fine sea salt for regular body use, brown sugar (the softest) for delicate areas, and coarse salts only for feet - avoid coarse Epsom or dead sea chunks on thin skin.",
+     "Never substitute salt into a recipe intended for the face, and remember salt partially dissolves into any liquid over time, so very fine salt scrubs can lose grit in storage."
+    ]
+   },
+   {
+    "title": "Phase 2 - Formulate the oil-to-exfoliant ratio",
+    "steps": [
+     "Start from a base of roughly 75-85% exfoliant and 15-25% oils by weight for a classic crumbly scrub - Soap Queen's Wildflower Honey Sugar Scrub uses 18 oz sugar with 1.5 oz jojoba oil plus 3 oz potassium cocoate, and you can add oil in small increments if you prefer a wetter, more emollient texture.",
+     "Choose mostly lightweight, easy-rinsing oils (jojoba, sweet almond, apricot kernel, fractionated coconut); the Soap Queen formulating guide warns that heavy oils and butters leave a greasy film, so blend any heavy oil (coconut, olive) with lighter ones.",
+     "Optionally add a foaming or self-emulsifying agent - potassium cocoate (liquid soap paste) or a solid emulsifier - so the scrub rinses clean instead of leaving an oil slick; this also reduces the tub-slip hazard.",
+     "Weigh everything and write the batch formula down as percentages, so the preservative can be dosed correctly and the batch can be reproduced."
+    ]
+   },
+   {
+    "title": "Phase 3 - Mix the liquid portion",
+    "steps": [
+     "In the small sanitized container, combine the carrier oil(s) and any potassium cocoate or emulsifier, stirring until uniform (the mix may turn cloudy and thicken - that is normal).",
+     "Add the fragrance or essential oil (about 0.2 oz per 22 oz batch in the Soap Queen honey scrub, i.e. roughly 1%).",
+     "Add the preservative to the liquid portion at its recommended rate (for example Optiphen at 1-1.5%, or Phenonip at up to 1% dissolved into slightly warmed oil) and stir thoroughly - the preservative must be fully dispersed in the liquid before it meets the sugar or salt.",
+     "If any ingredient was warmed to melt (butters, Phenonip), let the liquid portion cool to lukewarm before combining, so the sugar does not begin dissolving on contact."
+    ]
+   },
+   {
+    "title": "Phase 4 - Combine, texture-check, and jar",
+    "steps": [
+     "Pour the sugar or salt into the large sanitized bowl and break up any clumps.",
+     "Add the liquid ingredients to the exfoliant and fold with a spatula or gloved hands until every crystal is evenly coated - the finished texture should resemble wet sand that holds together loosely when squeezed.",
+     "Adjust texture: add more exfoliant a spoonful at a time if the scrub looks oily and soupy, or drizzle in a little more oil if it is dusty and will not hold together.",
+     "Spoon the scrub into sanitized jars, pressing gently to remove air pockets, wipe the rims, and seal immediately.",
+     "Label each jar with the full ingredient list in descending order, the net weight in ounces and grams, and a use-by date."
+    ]
+   }
+  ],
+  "finishing": [
+   "Store jars sealed in a cool, dark, dry place; heat and steam accelerate both microbial growth and oil rancidity, so a shower shelf is the worst long-term home for a scrub.",
+   "Advise users (on the label or an insert) to scoop with a dry spoon or spatula - or decant a single use into a small dish before showering - and to keep shower water from spraying into the open jar.",
+   "Shelf life: an unpreserved scrub kept perfectly dry should carry a conservative 3-month use-by date; a properly preserved scrub is typically good for 6-12 months.",
+   "The real expiry is also limited by the shortest-dated oil in the recipe - a scrub can never outlive the rancidity date of its oldest oil, so note your oils' best-by dates when labeling.",
+   "Discard immediately at any sign of off smell (rancid crayon odor), color change, visible mold, or pooled water in the jar."
+  ],
+  "tips": [
+   "Formulate and dose by weight, not cups - preservatives only work at the correct percentage of total batch weight (Humblebee & Me's preservative guidance and calculator are built entirely around weight).",
+   "Even 'optional' preservation is cheap insurance: Soap Queen adds Optiphen to sugar scrubs precisely because the first shower use splashes water and germs into the jar.",
+   "Add vitamin E (about 0.5%) as an antioxidant to slow oil rancidity - remembering that an antioxidant extends oil life but is NOT a preservative and does nothing against bacteria or mold.",
+   "Brown sugar makes the gentlest scrub, white granulated is the workhorse, and turbinado or coarse salt is for feet only - offer a texture range rather than one grit for everything.",
+   "Small jars beat big jars: a 4 oz jar gets used up before contamination or rancidity can win, while a 16 oz jar sits in the shower for months collecting water."
+  ],
+  "mistakes": [
+   "Skipping the preservative because 'there's no water in it' - the product is used with wet hands in a shower, and introduced water plus sugar is a perfect microbial growth medium (this is the single most repeated warning from Soap Queen, Humblebee & Me, and the School of Natural Skincare).",
+   "Letting water pool in the jar (wet fingers, shower spray, steamy bathroom storage), which can turn an unpreserved scrub moldy within days.",
+   "Using only heavy oils or butters, which leaves a greasy, hard-to-rinse film on skin and a slippery, dangerous tub.",
+   "Adding fragrance or preservative to a hot oil mixture (degrading them) or pouring hot liquid over sugar so it melts into syrup - always combine lukewarm.",
+   "Measuring by volume and guessing the preservative amount, which almost always under- or over-doses it; both failure modes are unsafe."
+  ],
+  "sources": [
+   "https://soapqueen.com/bath-and-body-tutorials/wildflower-honey-sugar-scrub-diy/",
+   "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/guest-post-formulating-scrubs-body-butters/",
+   "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/throw-nail-polish-scrub-party/",
+   "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/perfectly-preserved/",
+   "https://www.humblebeeandme.com/faq/preservatives/",
+   "https://www.schoolofnaturalskincare.com/do-you-need-to-use-preservatives-homemade-natural-skincare-products/",
+   "https://www.mariegale.com/simple-labeling-checklist/"
+  ]
+ },
+ "lotions": {
+  "equipment": [
+   "Digital scale accurate to at least 0.1 g (0.01 g ideal for preservatives)",
+   "Digital thermometer (instant-read or infrared)",
+   "Immersion (stick) blender - a whisk alone cannot form a stable emulsion",
+   "Two heat-proof glass beakers or funnel pitchers (one for the water phase, one for the oil phase)",
+   "Large pot or skillet with 2-3 cm of water plus a wire rack or canning ring, to act as a double boiler / water bath",
+   "Spray bottle of 70% isopropyl alcohol for sanitizing",
+   "Flexible spatulas and pipettes for cool-down ingredients",
+   "Disposable piping bag or zip-top bag for filling bottles cleanly",
+   "Final packaging: pump, disc-cap, or flip-top bottles preferred over open jars",
+   "Stovetop or portable burner, timer, and paper towels"
+  ],
+  "safety": [
+   "This is the golden rule from every authority (Soap Queen, Humblebee & Me, School of Natural Skincare, Wholesale Supplies Plus): ANY product containing water - lotion, cream, anything with hydrosols, aloe, or milks - MUST contain a broad-spectrum preservative. Unpreserved lotion can grow mold and bacteria within days to weeks, sometimes invisibly.",
+   "Anhydrous whipped body butters and balms (100% oils, butters, waxes) do not support microbial growth and do not require a preservative - but add an antioxidant like vitamin E to delay rancidity, and add a preservative anyway if the product will be scooped with wet fingers or stored in a steamy bathroom.",
+   "Sanitize the workspace, every tool, and every container with 70% isopropyl alcohol before starting; work with gloves and tied-back hair.",
+   "Use distilled or deionized water only - never tap water, which carries minerals and microbes.",
+   "Heat-and-hold both phases at 158°F (70°C) for 20 minutes to kill microbes in the raw ingredients and ensure full emulsifier melt.",
+   "Respect preservative parameters: Liquid Germall Plus at 0.5% (max - more is not better), Germaben II at 1%, Optiphen at 1.5%, all added in cool-down below about 104-115°F; check each preservative's pH range and incompatibilities (e.g., Optiphen ND conflicts with BTMS-50).",
+   "Hot oil and water phases scald - use pot holders, keep beaker handles inward, and never blend hot liquid in an overfilled container.",
+   "Label with an ingredient declaration and follow FDA cosmetic labeling rules if the product leaves your house."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 - Sanitize and weigh the phases",
+    "steps": [
+     "Spray your counter, beakers, spatulas, immersion blender head, and bottles with 70% isopropyl alcohol and let them air-dry.",
+     "Write your formula in percentages totaling 100, then convert to grams for your batch size. A proven beginner structure (cross-referencing Wholesale Supplies Plus and Soap Queen): water phase 70-80% (distilled water, plus 2-5% humectant such as glycerin or sodium lactate); oil phase 15-25% (oils and butters 10-20%, emulsifying wax 3-6%, optional stearic acid 2% as thickener); cool-down 2-3% (preservative about 1% and fragrance up to 2%).",
+     "A concrete example - WSP's Basic Body Lotion: 64% distilled water, 3% glycerin, 2% sodium lactate, 16% avocado oil, 5% shea butter, 5% emulsifying wax, 2% stearic acid, 2% fragrance, 1% Germaben II. Humblebee & Me's beginner version: 74% distilled water, 5% sodium lactate, 5% Ritamulse SCG, 15% MCT oil, 1% preservative.",
+     "Weigh the water phase ingredients into one heat-proof beaker and the oil phase ingredients (including the emulsifying wax - it always goes in the oil phase) into the other.",
+     "Weigh out the cool-down ingredients into small cups and set them aside where they will not be knocked over."
+    ]
+   },
+   {
+    "title": "Phase 2 - Heat and hold both phases (158°F / 70°C for 20 minutes)",
+    "steps": [
+     "Bring 2-3 cm (about 1 inch) of water to a bare simmer in the pot and place both beakers in this water bath on the wire rack.",
+     "Heat both phases to 158°F (70°C), checking with the thermometer, and hold them there for a full 20 minutes - this pasteurizes the ingredients and guarantees the emulsifying wax and butters are completely melted.",
+     "Stir each phase occasionally with its own clean spatula; the oil phase is ready only when it is fully transparent liquid with no waxy flecks.",
+     "Top up the water phase with a splash of extra distilled water if noticeable evaporation occurs during the hold (some makers pre-weigh about 10% extra water to compensate).",
+     "Make sure both phases are at the same temperature (within a few degrees of each other, around 158°F) before combining - combining phases at mismatched temperatures is a classic cause of failed, separated emulsions."
+    ]
+   },
+   {
+    "title": "Phase 3 - Combine and emulsify",
+    "steps": [
+     "Remove both beakers from the water bath and slowly pour the water phase into the oil phase (or oil into water - consistency matters less than temperature) while stirring.",
+     "Immediately blend with the immersion blender in short bursts, keeping the head fully submerged to avoid whipping in air; the mixture will quickly turn opaque, milky white - that color change is the emulsion forming.",
+     "Blend for 1-2 minutes, rest, then blend again in short bursts every few minutes as the lotion cools; it will visibly thicken as the temperature drops.",
+     "Be patient: lotion reaches most of its thickness as it cools, and full final viscosity only after about 24 hours - do not add more emulsifier just because the warm mixture looks thin."
+    ]
+   },
+   {
+    "title": "Phase 4 - Cool-down additions (below 104-115°F / 40-45°C)",
+    "steps": [
+     "Let the emulsion cool, stirring occasionally, until it is below about 104°F / 40°C (Humblebee & Me's threshold; WSP uses below 115°F / 45°C) - if you have no thermometer, the beaker should feel only slightly warm, like bath water.",
+     "Add the preservative at its correct rate (e.g., Liquid Germall Plus 0.5%, Germaben II 1%, or Optiphen 1.5%) and stir or briefly blend until fully incorporated - adding it hotter than its tolerance degrades it and silently leaves the lotion unprotected.",
+     "Add fragrance or essential oil (typically up to 1-2% for body products) and any other heat-sensitive extracts or actives.",
+     "Keep the entire cool-down phase to 10% or less of the formula - per Humblebee & Me, dumping too much into an already-formed emulsion can destabilize it.",
+     "Give one final short blend so everything is uniform."
+    ]
+   },
+   {
+    "title": "Phase 5 - Bottle, cure, and label",
+    "steps": [
+     "Spoon or pipe the finished lotion into sanitized bottles using a piping bag or zip-top bag with a corner snipped off, filling from the bottom up to avoid air pockets.",
+     "Cap immediately; pump, disc-cap, and flip-top bottles are strongly preferred over open jars because every open-jar scoop introduces air and skin flora (if you must use a jar, use the preservative at its maximum recommended rate).",
+     "Wipe bottles clean, then let the lotion sit 24 hours to reach final thickness before judging or adjusting the formula.",
+     "Label with product identity, net weight in ounces and grams, business name and address, and the full INCI ingredient list in descending order of predominance.",
+     "Date each batch and keep a batch log (formula, lot numbers, date) so any problem can be traced."
+    ]
+   }
+  ],
+  "finishing": [
+   "Store finished lotion in a cool, dark place away from direct sunlight and heat; heat stresses both the emulsion and the preservative.",
+   "A properly preserved lotion in clean packaging is typically good for about 1 year, but never longer than the earliest expiry/rancidity date of the oils used in it.",
+   "Watch for spoilage signs at every use: separation, off or sour smell, color change, or any fuzzy growth means discard the whole container immediately - and remember contamination is often invisible.",
+   "For anhydrous whipped butters: store below about 75°F so they do not melt and lose their whip, no preservative needed if kept dry, and expect roughly a 6-12 month life driven by the oils' freshness (add 0.5% vitamin E to extend it).",
+   "If selling, consider basic challenge/microbial testing (home microbial test kits exist, e.g., from Lotion Crafter) before scaling up a new formula."
+  ],
+  "tips": [
+   "Formulate in percentages and weigh everything - it makes batches reproducible, scalable, and lets you dose the preservative correctly every time.",
+   "More water = thinner lotion; more oils/butters/e-wax = thicker cream. Adjust texture by moving 2-5% between the water and oil phases rather than rewriting the whole formula.",
+   "Match the emulsifier to its documented usage rate: Polawax/e-wax NF at 3-6% of total weight (a common rule of thumb is about 25% of the oil phase), BTMS-50 at 1-15% for a conditioning powder-soft feel, Ritamulse SCG at about 1% per 4-5% of oil (max ~25% oil phase) for a natural-certified option.",
+   "Fix a separated batch by reheating both it and a little extra emulsifier gently to about 130°F and re-blending - hotter than that risks degrading the preservative already in it.",
+   "Germall Plus is the closest thing to a foolproof beginner preservative: broad pH range, water-soluble, hard to deactivate, used at just 0.5%."
+  ],
+  "mistakes": [
+   "Skipping the preservative or substituting a non-preservative (vitamin E, grapefruit seed extract, 'natural antibacterials') in a water-containing product - antioxidants slow rancidity but do nothing against bacteria and mold, and unpreserved lotion can be growing pathogens within weeks even while it still looks fine.",
+   "Skipping heat-and-hold or combining phases at very different temperatures, which produces an emulsion that splits hours or days later.",
+   "Adding preservative or fragrance while the emulsion is still hot (above roughly 104-115°F), which degrades them - the lotion smells weak and, worse, is no longer reliably preserved.",
+   "Using tap water, unsanitized tools, or double-dipped fingers, seeding the product with microbes the preservative then has to fight from day one.",
+   "Judging thickness too early and over-correcting with extra emulsifying wax - lotion thickens dramatically as it cools over 24 hours, and overloaded e-wax gives a heavy, soapy, draggy skin feel."
+  ],
+  "sources": [
+   "https://www.humblebeeandme.com/easy-natural-lotion-for-beginners/",
+   "https://soapqueen.com/bath-and-body-tutorials/lotion/how-to-create-homemade-lotion-recipes/",
+   "https://www.wholesalesuppliesplus.com/blogs/help-how-tos/basic-body-lotion-recipe",
+   "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/perfectly-preserved/",
+   "https://www.humblebeeandme.com/faq/preservatives/",
+   "https://www.schoolofnaturalskincare.com/do-you-need-to-use-preservatives-homemade-natural-skincare-products/",
+   "https://www.mariegale.com/simple-labeling-checklist/"
+  ]
+ },
+ "shampoo_bars_soap": {
+  "equipment": [
+   "Accurate digital kitchen scale that weighs in grams (all soap ingredients must be weighed, never measured by volume)",
+   "Heatproof, lye-safe pitcher for the lye solution (sturdy polypropylene/HDPE plastic or stainless steel; never aluminum, which reacts violently with lye)",
+   "Large stainless steel or heatproof plastic mixing bowl or pot for the oils",
+   "Stick (immersion) blender reserved for soapmaking only",
+   "Digital or infrared thermometer for checking lye-solution and oil temperatures",
+   "Silicone loaf mold or individual cavity molds (or a wooden mold lined with freezer paper)",
+   "Chemical-splash safety goggles and long chemical-resistant gloves",
+   "Long-sleeved clothing, closed shoes, and an apron",
+   "Silicone spatulas and stainless spoons dedicated to soapmaking",
+   "4-quart crock pot (slow cooker) if using the hot-process option",
+   "Old towel or blanket for insulating cold-process soap in the mold"
+  ],
+  "safety": [
+   "Sodium hydroxide (lye) is caustic and can cause severe chemical burns: always wear goggles, gloves, and long sleeves from the moment you open the lye container until cleanup is finished.",
+   "Always sprinkle the lye INTO the water while stirring, never pour water into dry lye, which can cause a violent, eruptive reaction.",
+   "Do not breathe the strong fumes released for the first minute or so after lye meets water; mix in a well-ventilated area or near an open window and turn your face away.",
+   "Keep children, pets, and any distractions completely out of the workspace while lye or raw soap batter is out (Soap Queen's rule: kids, pets, and tripping hazards out of the soaping space).",
+   "Raw soap batter is still caustic until saponification completes; treat splashes on skin by rinsing with copious cool running water.",
+   "Any herbal tea used in place of distilled water must be fully chilled before adding lye, or the solution can overheat and volcano.",
+   "Rosemary essential oil should be avoided or used only under professional guidance if you are pregnant or have hypertension or epilepsy; substitute lavender.",
+   "Keep total essential-oil usage around 2-3% of the oil weight (about 20 g of essential oil per 770 g of base oils in The Nerdy Farm Wife's recipe), and never use undiluted essential oils on skin.",
+   "Label the lye container clearly and store it sealed, dry, and out of reach of children."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 - Set up the workspace and a benchmark recipe",
+    "steps": [
+     "Suit up in goggles, gloves, long sleeves, and closed shoes before touching any ingredient.",
+     "Clear a ventilated work area, cover surfaces, and confirm children and pets are out of the room.",
+     "Use a proven, lye-calculated shampoo-bar recipe; The Nerdy Farm Wife's benchmark is 283 g olive oil, 227 g coconut oil, 113 g castor oil, 113 g sunflower or sweet almond oil, 57 g jojoba oil, 108 g sodium hydroxide, and 283 g distilled water for hot process (reduce to 255 g water for cold process), scented with 15 g peppermint and 5 g rosemary essential oil.",
+     "Note that shampoo bars differ from body soap mainly through a high castor-oil percentage for a dense, bubbly lather, and generous superfat; Lovely Greens' Herbal Academy recipe runs a 16% superfat with a 25% lye-solution concentration.",
+     "If you have never made soap, read a full cold-process primer (for example The Nerdy Farm Wife's Soap Making 101) before you begin, and run every recipe change through a lye calculator."
+    ]
+   },
+   {
+    "title": "Phase 2 - Make the lye solution",
+    "steps": [
+     "Weigh the distilled water (or fully chilled herbal tea) into your heatproof lye-safe pitcher.",
+     "Weigh the sodium hydroxide separately, then slowly sprinkle and stir the lye into the water - never the reverse.",
+     "Stir gently until the solution turns clear, keeping your face away from the temporary fumes.",
+     "Set the solution somewhere safe to cool: about 30-40 minutes for cold process so it drops to 100-110 F (38-43 C), or only 15-20 minutes if you are making hot-process soap in a crock pot."
+    ]
+   },
+   {
+    "title": "Phase 3 - Prepare the oils",
+    "steps": [
+     "Weigh the solid oils (coconut oil, and palm if your recipe uses it) and melt them gently on the stove or in short microwave bursts.",
+     "Weigh and stir in the liquid oils (olive, castor, sunflower or almond, jojoba).",
+     "Warm the combined oils, if needed, to roughly 90-100 F (32-38 C); Soap Queen aims to have oils and lye each around 100 F when combined."
+    ]
+   },
+   {
+    "title": "Phase 4 - Combine and bring to trace",
+    "steps": [
+     "Pour the cooled lye solution slowly into the oils, pouring down the shaft of the stick blender to minimize splashes.",
+     "Alternate short bursts of the stick blender with hand stirring; trace usually takes two to eight minutes.",
+     "Stop when the batter reaches 'trace' - it is uniformly emulsified and a drizzle from the spatula leaves a faint trail on the surface.",
+     "If your recipe adds a citric-acid/panthenol solution to lower the final pH (Soap Queen dissolves 0.5 oz citric acid and 0.3 oz DL-panthenol in 4 tablespoons distilled water), blend it in at light trace."
+    ]
+   },
+   {
+    "title": "Phase 5 - Cold-process option: mold and insulate",
+    "steps": [
+     "Stir the essential oils into the batter at trace.",
+     "Pour the batter into the prepared mold, tap the mold to release air bubbles, then cover and insulate it with a towel or blanket.",
+     "Leave the soap in the mold for 1 to 2 days until firm enough to release cleanly.",
+     "Unmold and slice into bars with a sharp knife or soap cutter while still slightly soft."
+    ]
+   },
+   {
+    "title": "Phase 6 - Hot-process option: crock pot cook",
+    "steps": [
+     "Transfer the traced batter to a crock pot set to low and cover it.",
+     "Cook for 1 hour, stirring every 15 minutes, as the soap moves through gel phase to a mashed-potato/applesauce texture.",
+     "Let the cooked soap cool a few minutes, stir in the essential oils, then quickly spoon the thick paste into the mold, pressing out air pockets.",
+     "Keep the soap in the mold for 24 hours before unmolding and cutting."
+    ]
+   },
+   {
+    "title": "Phase 7 - Cure",
+    "steps": [
+     "Stand the cut bars on a rack or paper-lined tray with air space between them, out of direct sun.",
+     "Cure cold-process shampoo bars at least 4 weeks, turning occasionally; high-liquid-oil shampoo recipes benefit from even longer cures (Soap Queen notes they take longer than regular cold process).",
+     "Hot-process bars are technically usable right away but still improve with 2 to 3 weeks of cure for hardness and mildness."
+    ]
+   }
+  ],
+  "finishing": [
+   "Cure completed bars 4+ weeks (cold process) or 2-3 weeks (hot process) before use, then store them in a cool, dry, airy spot; properly cured soap keeps about a year.",
+   "Between uses, keep bars on a draining soap dish so they dry fully and last longer.",
+   "Because soap-based shampoo is alkaline (pH around 7-9) while hair prefers acidic, follow each wash with an acidic rinse: Lovely Greens recommends 1 teaspoon apple cider vinegar in 1 cup of water poured through the hair; Soap Queen suggests a mint-ACV rinse.",
+   "Label bars with the made-on date and ingredients, and expect a transition period of a week or two as hair adjusts.",
+   "Wash all lye-contact equipment carefully in hot soapy water while still wearing gloves; residual raw batter is caustic for 24-48 hours."
+  ],
+  "tips": [
+   "Push castor oil to 10-15% of the oil blend - it is the classic shampoo-bar ingredient for dense, conditioning lather.",
+   "Use a generous superfat (Lovely Greens' recipe runs 16%) so the bar is gentler on hair than ordinary body soap.",
+   "Swap the water for a light, fully chilled herbal tea such as rosemary or nettle for extra hair benefits, keeping the infusion pale so it does not discolor the soap.",
+   "Adding a dissolved citric-acid solution at trace (Soap Queen's method) lowers the finished bar's pH and makes it noticeably gentler on hair.",
+   "Soap-based shampoo bars suit some hair types but not all; if hair turns gummy or straw-like, an ACV rinse and a conditioner afterward make the biggest difference, and hard-water households may do better with a syndet bar."
+  ],
+  "mistakes": [
+   "Pouring water into lye instead of lye into water - this can cause a dangerous eruptive boil-over.",
+   "Measuring by volume instead of weight, or skipping the lye calculator after substituting oils, which yields lye-heavy or mushy soap.",
+   "Combining lye and oils while too hot (well above 110 F), causing acceleration, cracking, or a soap volcano - especially with milk or honey additives.",
+   "Cutting the cure short: an uncured, high-liquid-oil shampoo bar is soft, harsh, and dissolves quickly in the shower.",
+   "Using aluminum bowls, whisks, or molds anywhere in the process; lye reacts with aluminum and produces flammable hydrogen gas."
+  ],
+  "sources": [
+   "https://thenerdyfarmwife.com/shampoo-bars-crock-pot-method/",
+   "https://lovelygreens.com/herbal-shampoo-bar-recipe/",
+   "https://soapqueen.com/bath-and-body-tutorials/cold-process-soap/sudsy-shampoo-bars/"
+  ]
+ },
+ "shampoo_bars_syndet": {
+  "equipment": [
+   "Accurate digital scale that reads to 0.1 g (surfactant and preservative amounts are small and must be precise)",
+   "Small saucepan for a water bath, filled with about 3 cm (1 inch) of water",
+   "Heat-resistant glass measuring cups (one for the surfactant phase, one for the oil phase)",
+   "Fine-particle dust mask or respirator for handling powdered surfactants",
+   "Sturdy silicone spatula and a fork or sturdy spoon for mashing the thick paste",
+   "Silicone mold, round bath-bomb mold, or a manual bar press for shaping",
+   "Nitrile gloves for kneading and pressing the warm dough",
+   "pH strips (optional but useful to confirm the finished bar is roughly pH 5-6, hair-friendly)",
+   "Parchment paper and a drying rack for the hardening period"
+  ],
+  "safety": [
+   "Wear a dust mask whenever you handle powdered or noodle surfactants such as SCI or SLSa - airborne surfactant dust is very irritating to the lungs (Humblebee & Me instructs putting the mask on before weighing).",
+   "Work in a ventilated space and avoid stirring powders vigorously while dry.",
+   "A broad-spectrum preservative is required because the bar lives in a wet shower environment: Humblebee & Me uses 0.5% Liquid Germall Plus in both the Snowflake and Mango Mango bars.",
+   "Liquid Germall Plus is heat-sensitive, so only add it once the mixture has cooled below 50 C (122 F).",
+   "Respect supplier maximum-usage rates for fragrance or essential oils in rinse-off hair products (about 1% fragrance in the Mango Mango bar); never exceed IFRA limits.",
+   "The melted surfactant paste is very hot after an hour over a water bath - handle the glass cup with a dry towel and let the mash cool until comfortable to touch before hand-shaping.",
+   "These bars are pH-balanced and lye-free, which is exactly why they should NOT be confused with soap: do not add lye, and do not sell them as 'soap'."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 - Formula and prep",
+    "steps": [
+     "Work from a balanced syndet formula: Humblebee & Me's Snowflake Shampoo Bar (about 100 g) uses 30 g Sodium Cocoyl Isethionate (SCI), 25 g Sodium Coco Sulfate, and 20 g Cocamidopropyl Betaine as the surfactant core, with 10 g tucuma (or other) butter, 8 g BTMS-50, 3.5 g cetyl alcohol, 2 g stearic acid, and 0.5 g Liquid Germall Plus.",
+     "As a rule of thumb, solid surfactants make up roughly 60-75% of a syndet bar, hardening fats/waxes (BTMS-50, cetyl alcohol, stearic acid, butter) 20-30%, and the cool-down phase (fragrance, preservative, extras) the remainder.",
+     "Put on your dust mask before opening any surfactant container, then weigh every ingredient with a 0.1 g scale.",
+     "Bring about 3 cm (1 inch) of water to a bare simmer over low to medium-low heat in a small saucepan - this gentle water bath is your only heat source."
+    ]
+   },
+   {
+    "title": "Phase 2 - Melt the surfactant phase",
+    "steps": [
+     "Weigh the SCI and Cocamidopropyl Betaine into a small heat-resistant glass measuring cup.",
+     "Set the cup in the simmering water bath and let it melt slowly; Humblebee & Me reports this typically takes up to an hour.",
+     "Stir occasionally and stop when you have a smooth, uniform white paste with no gritty SCI granules remaining - SCI alone melts poorly, which is why it is always melted together with the liquid betaine."
+    ]
+   },
+   {
+    "title": "Phase 3 - Melt the oil / conditioning phase",
+    "steps": [
+     "Weigh the butter, BTMS-50, stearic acid, and cetyl alcohol into a second heat-resistant glass measuring cup.",
+     "Place that cup in the same water bath and melt everything through completely; BTMS-50 and cetyl alcohol are fully fluid by about 70-75 C, so a barely simmering bath is plenty.",
+     "Remove both cups from the heat once each phase is uniform and liquid/paste-smooth."
+    ]
+   },
+   {
+    "title": "Phase 4 - Combine, mash, and cool",
+    "steps": [
+     "Pour the melted oil phase into the surfactant paste and mash and fold everything together with a fork or spatula until it forms one uniform, dough-like mass (Humblebee & Me calls this the 'surfactant mash').",
+     "Keep working the mash until it cools; by the time it is evenly combined it should be below 50 C (122 F) - if it still feels hot to the touch, wait before continuing.",
+     "Once cool to the touch, add the fragrance or essential oil (about 1% for rinse-off hair products) and the 0.5% broad-spectrum preservative, and knead them in thoroughly so they are evenly distributed."
+    ]
+   },
+   {
+    "title": "Phase 5 - Press and mold",
+    "steps": [
+     "While the dough is still warm and pliable, firmly press it into a silicone cavity mold, packing in small amounts at a time to eliminate air pockets, or shape it by hand into a puck wearing gloves.",
+     "For a professional finish, use a manual bar press or smoosh the dough between the two halves of a bath-bomb mold under strong, even pressure; Humblebee & Me notes bars can be hand-shaped, smooshed into a cavity mould, or pressed with a hand press or powered press.",
+     "Unmold gently as soon as the bar is cool and firm enough to hold its shape."
+    ]
+   },
+   {
+    "title": "Phase 6 - Harden and dry",
+    "steps": [
+     "Set the bars on parchment or a rack in a cool, dry spot with air circulation.",
+     "Let them harden and dry for at least 24-48 hours before first use; Humblebee & Me's pressed Creamy French bars rest 3 to 4 days for best hardness and longevity.",
+     "The bar is ready when it feels hard and dry all over and no longer dents under firm thumb pressure."
+    ]
+   }
+  ],
+  "finishing": [
+   "Store finished bars in a cool, dry place; between showers keep the bar on a draining dish or ledge out of the water stream so it dries fully.",
+   "Properly preserved syndet bars typically keep 12 months or more - the limiting factor is usually the shelf life of the softest oil in the formula.",
+   "To use, swipe the bar directly over wet hair 3-4 times or lather in hands, massage into the scalp, and rinse; no vinegar rinse is needed because the bar is already pH-balanced.",
+   "Wrap gift or sale bars in wax paper or store them in tins only after they are fully dry, and label with ingredients (INCI names) and the preservative used.",
+   "Wipe equipment clean while warm - hardened surfactant paste is tedious to remove once cooled."
+  ],
+  "tips": [
+   "SCI ('baby foam') is the gentlest workhorse solid surfactant - pairing it with liquid Cocamidopropyl Betaine both mellows the blend further and makes melting possible.",
+   "BTMS-50 in a shampoo bar (about 8% in the Snowflake bar) does double duty as hardener and conditioning agent, leaving hair combable straight out of the shower.",
+   "If the mash cools and stiffens before you finish molding, return it to the water bath for a minute or two to re-soften - it is very forgiving.",
+   "Weigh preservative and fragrance to 0.1 g accuracy; at 0.5% and 1% of a 100 g batch, kitchen-teaspoon guessing ruins the formula.",
+   "A syndet bar is the right recommendation for hard-water areas and color-treated hair, where lye-soap shampoo bars leave scum and lift the cuticle."
+  ],
+  "mistakes": [
+   "Skipping the dust mask when weighing powdered SCI or SLSa - inhaled surfactant dust causes coughing fits and lung irritation.",
+   "Trying to melt SCI on its own or over direct heat: it scorches instead of melting; always combine it with the liquid surfactant over a gentle water bath.",
+   "Adding Liquid Germall Plus or fragrance while the mash is above 50 C, which degrades the preservative and flashes off the scent.",
+   "Skipping the preservative entirely 'because it is natural' - a bar that sits in a humid shower will grow mold and bacteria without one.",
+   "Using the bar (or packaging it) before the 24-48 hour hardening period, which produces a soft bar that dissolves in a week."
+  ],
+  "sources": [
+   "https://www.humblebeeandme.com/snowflake-shampoo-bar/",
+   "https://www.humblebeeandme.com/mango-mango-shampoo-bar/",
+   "https://www.humblebeeandme.com/creamy-french-shampoo-bar/"
+  ]
+ },
+ "conditioner_bars": {
+  "equipment": [
+   "Digital scale accurate to 0.1 g (conditioner-bar preservative and fragrance amounts are tiny)",
+   "Small saucepan with about 3 cm (1 inch) of water for a gentle water bath, or a double boiler",
+   "Heat-resistant glass measuring cup for melting the heated phase",
+   "Silicone spatula for stirring and scraping",
+   "Silicone cavity molds (muffin, honeycomb, or bar shapes; a 50 mL cavity makes one full-size bar, 12-15 g cavities make travel minis)",
+   "Refrigerator or freezer space for setting the poured bars",
+   "Thermometer to confirm the mixture is below 50 C before cool-down additions",
+   "70% isopropyl alcohol in a spray bottle to sanitize tools, molds, and work surface"
+  ],
+  "safety": [
+   "Conditioner bars are anhydrous but live in a wet shower, so include a broad-spectrum preservative (for example 0.5% Liquid Germall Plus, or about 1% Phenoxyethanol-based preservative as in the Wholesale Supplies Plus recipe) at its recommended usage rate.",
+   "Add heat-sensitive preservatives and fragrance only after removing the melted phase from heat, once it is below about 50 C (122 F).",
+   "Keep fragrance and essential-oil levels within supplier/IFRA maximums for leave-on products; after irritation reports, Humblebee & Me now recommends only 0.1-0.2% fragrance in this kind of bar and warns against spicy essential-oil blends (cinnamon, clove, nutmeg) on skin and scalp.",
+   "BTMS-50 is a cationic conditioning emulsifier and is NOT interchangeable with regular (nonionic) emulsifying wax - substituting e-wax removes the conditioning effect entirely.",
+   "Melted butters and waxes are hot oil: handle the glass cup with a dry cloth and pour carefully.",
+   "Sanitize molds, cups, and spatulas with isopropyl alcohol before starting, since the finished product touches hair and scalp repeatedly."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 - Understand the formula",
+    "steps": [
+     "Build the bar around BTMS-50, the cationic (positively charged) conditioning emulsifier that bonds to negatively charged hair; anything with 1-2% BTMS-50 is conditioning, and solid bars use far more.",
+     "Use a proven ratio: Humblebee & Me's Vanilla Spice Conditioner Bar is 40% BTMS-50 (20 g in a 50 g bar) plus 20% cetyl alcohol (10 g) with nourishing oils making up most of the rest; the Wholesale Supplies Plus bar runs about 27% BTMS-50 with cetyl alcohol, cocoa butter, shea butter, and coconut oil; Humblebee's simpler Cocoa Coconut bars pair BTMS-50 with 47% cocoa butter plus coconut oil.",
+     "Plan roughly: 25-40% BTMS-50, 5-20% cetyl alcohol for glide and hardness, 30-50% butters and oils, 1% or less fragrance, plus preservative and optional panthenol or hydrolyzed protein.",
+     "Weigh every ingredient on a 0.1 g scale before turning on any heat."
+    ]
+   },
+   {
+    "title": "Phase 2 - Melt the heated phase",
+    "steps": [
+     "Bring about 3 cm (1 inch) of water to a bare simmer over low to medium-low heat in a small saucepan.",
+     "Weigh the BTMS-50, cetyl alcohol, butters, and liquid oils into a heat-resistant glass measuring cup.",
+     "Place the measuring cup in the water bath and let everything melt through completely, stirring now and then, until the mixture is fully liquid and uniform (BTMS-50 pellets are the last to disappear)."
+    ]
+   },
+   {
+    "title": "Phase 3 - Cool-down additions",
+    "steps": [
+     "Remove the cup from the heat and stir for a minute so the mixture drops below 50 C (122 F).",
+     "Quickly stir in the preservative (e.g., 0.5% Liquid Germall Plus) and the fragrance or essential oil at or below its leave-on maximum (0.1-0.2% is enough to scent the bar).",
+     "Stir thoroughly but briefly - the mixture starts to thicken as it cools, and you want it still pourable."
+    ]
+   },
+   {
+    "title": "Phase 4 - Pour and set",
+    "steps": [
+     "Pour the liquid conditioner into silicone molds: one 50 mL (1.7 fl oz) cavity for a full bar, or 12-15 g cavities for minis (Humblebee fills 15 g honeycomb cavities to only 12 g to avoid sloshing on the way to the fridge).",
+     "Transfer the filled mold carefully to the refrigerator and leave the bars to solidify fully (roughly 30-60 minutes for small bars; the freezer speeds this up).",
+     "Unmold by flexing the silicone gently once the bars are completely cold and hard."
+    ]
+   },
+   {
+    "title": "Phase 5 - Rest, test, and use",
+    "steps": [
+     "The bars are usable as soon as they reach room temperature - Humblebee & Me found no meaningful difference after longer rests (weight loss was only 0.4% after 8+ days), so no cure is required.",
+     "To use, swipe the bar down the lengths and ends of clean, wet hair a few times, work through with fingers or a wide comb, then rinse; focus on mid-lengths and ends, not the scalp.",
+     "Patch-test the finished bar on the inner forearm before first full use, especially if it contains essential oils."
+    ]
+   }
+  ],
+  "finishing": [
+   "Let bars dry between uses on a draining soap dish outside the water stream; a conditioner bar that sits in a puddle turns to mush.",
+   "Store spares in a cool, dry place away from direct sun; a well-preserved bar keeps about 12 months (limited by the shelf life of its softest oil).",
+   "One 50 g bar replaces roughly a bottle of conditioner and can last a single user for months to a year of normal use.",
+   "For travel or gifting, store the fully hardened bar in a small tin with a paper liner, and label ingredients with INCI names.",
+   "If bars soften in a hot climate, keep them refrigerated or reformulate with more cetyl alcohol/stearic-hard butter - cocoa butter alone melts around 34 C (93 F), below the ~40 C of a hot shower."
+  ],
+  "tips": [
+   "BTMS-50 percentage is your conditioning dial: 25-30% gives a light detangling bar, 40% gives salon-level slip for dry or curly hair.",
+   "Cetyl alcohol is the unsung hero - it adds glide, speeds detangling, and hardens the bar without waxiness.",
+   "Add 1-2% DL-panthenol (dissolved in the heated phase like the Wholesale Supplies Plus recipe) for shine and moisture retention.",
+   "Chill the mold in the fridge before pouring for a glossier surface and faster release.",
+   "Keep a dedicated 'conditioner only' mold - cationic ingredients cling to silicone and can carry scent into future soap projects."
+  ],
+  "mistakes": [
+   "Substituting regular emulsifying wax or beeswax for BTMS-50 - the bar will feel similar in hand but will not condition hair at all (conditioning requires a cationic ingredient).",
+   "Adding fragrance or Germall Plus to the fully hot melt (above 50 C), destroying the preservative and most of the scent.",
+   "Using a high-irritation spicy essential-oil blend in a leave-on hair product; Humblebee & Me formally retracted her cinnamon-clove-nutmeg blend for exactly this reason.",
+   "Pouring into a warped or overfilled mold and moving it fast - the low-viscosity melt sloshes and sets with uneven backs.",
+   "Leaving the finished bar sitting in shower water, which dissolves months of product in days."
+  ],
+  "sources": [
+   "https://www.humblebeeandme.com/vanilla-spice-conditioner-bar/",
+   "https://www.humblebeeandme.com/cocoa-coconut-simple-conditioner-bars/",
+   "https://www.wholesalesuppliesplus.com/blogs/recipes/solid-hair-conditioner-bar"
+  ]
+ },
+ "face_masks": {
+  "equipment": [
+   "Small glass, ceramic, or wooden mixing bowl - avoid metal, especially with bentonite clay",
+   "Non-metal stirring tool: silicone mini-whisk, wooden craft stick, or plastic spoon",
+   "Digital scale reading to 0.1 g (or measuring teaspoons for volume-based recipes)",
+   "Soft-bristle mask brush or clean fingertips for application",
+   "Headband or hair clip to keep hair off the face",
+   "Warm washcloth for removal",
+   "Airtight glass jar for storing the DRY clay blend only (never the wet mask)"
+  ],
+  "safety": [
+   "Patch test first: apply a small amount of the mixed mask to the inner forearm or behind the ear, leave it 10-15 minutes, rinse, and wait 24 hours; skip the mask if any redness, itching, or burning develops.",
+   "Mix and use wet clay masks in single-use batches only: Humblebee & Me warns the water-and-glycerin mix is 'loaded with delicious bug food' and no amount of preservative makes a stored wet mask safe - make it, use it, and wash out the bowl.",
+   "Avoid metal bowls and utensils with bentonite: the clay's negative charge when wet can pick up positively charged metal ions, reducing its effectiveness (Humblebee & Me summarizes this common guidance; glass, ceramic, or wood are safest).",
+   "Keep the mask away from the eyes, mouth, and nostrils when applying.",
+   "Never let a clay mask dry to the fully cracked, flaking stage - remove it while still slightly tacky to avoid over-drying and irritating the skin.",
+   "Choose the clay for the skin, not the trend: strong absorbers like bentonite suit oily, resilient skin, while gentle kaolin suits dry or sensitive skin (Mountain Rose Herbs' clay guide); sensitive skin should start with kaolin and short wear times.",
+   "If adding essential oils, keep them to 1-2 drops per mask and always dispersed in the liquid or a carrier first - facial skin warrants very low dilutions."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 - Choose your clay and liquid",
+    "steps": [
+     "Pick the clay by skin type using Mountain Rose Herbs' comparison: bentonite is powerfully absorbent for oily and acne-prone skin; French green clay is a softer oil-absorber for normal-to-oily skin; kaolin (white or rose) is the gentlest choice for dry, mature, or sensitive skin; rhassoul suits most skin types with a silky feel.",
+     "Blending clays improves texture: Humblebee & Me pairs lumpy, gel-forming bentonite with creamy French green clay for a smooth, rich mask.",
+     "Choose a liquid: distilled water is the neutral default; a floral hydrosol (like rose water) adds soothing fragrance; aloe vera gel or a spoonful of honey adds moisture for drier skin; diluted apple cider vinegar boosts astringency for oily skin only.",
+     "Adding about 20% vegetable glycerin to the liquid (as in Humblebee's rose mask) keeps the mask flexible and slows the tight, over-dry finish."
+    ]
+   },
+   {
+    "title": "Phase 2 - Hygiene prep",
+    "steps": [
+     "Wash your hands, then set out a clean non-metal bowl and non-metal stirrer.",
+     "Work with freshly opened or well-sealed dry clay - scoop with a dry spoon so no water ever enters the storage jar.",
+     "Cleanse your face and pat it just barely damp before mixing so the mask goes onto clean skin immediately after mixing."
+    ]
+   },
+   {
+    "title": "Phase 3 - Mix the mask",
+    "steps": [
+     "Use a roughly 1:1 ratio by volume of kaolin-type clay to liquid as a starting point (the Wholesale Supplies Plus kaolin mask combines 1 tablespoon clay with 1 tablespoon water or rose water); bentonite drinks far more liquid - Humblebee's weighed formula is about 1 part clay to 3 parts liquid by weight (2.3 g clay blend to 7.7 g glycerin-plus-hydrosol for one mask).",
+     "Pour the measured liquid (and glycerin, if using) into the bowl first and whisk to combine.",
+     "Sprinkle the clay into the liquid gradually, whisking after each addition until the paste is completely smooth - adding clay to liquid, not the reverse, prevents dry pockets and lumps.",
+     "Adjust to a spreadable yogurt consistency: a splash more liquid if it is stiff, a pinch more clay if it runs; the mixture should hold to the back of a spoon without dripping."
+    ]
+   },
+   {
+    "title": "Phase 4 - Apply and time",
+    "steps": [
+     "Apply a thin, even layer over the face with clean fingers or a mask brush, avoiding the eye area, mouth, and nostrils.",
+     "Relax for 10-15 minutes; Humblebee & Me lets her rose bentonite mask dry 10-15 minutes before rinsing, and Mountain Rose Herbs' mask recipes sit 10-15 minutes as well.",
+     "For dry or sensitive skin, remove after 5-10 minutes, while the mask is still fully damp.",
+     "Mist with water or hydrosol if the mask starts cracking before time is up."
+    ]
+   },
+   {
+    "title": "Phase 5 - Remove and finish",
+    "steps": [
+     "Soften the mask with a warm, wet washcloth held against the face for a few seconds, then wipe gently, or rinse it off in the shower for the least mess.",
+     "Rinse until no clay residue remains, then pat dry.",
+     "Follow immediately with a facial oil, lotion, or serum, since clay masks pull moisture as well as oil from the skin.",
+     "Discard any leftover mixed mask and wash the bowl and tools - never store a wet clay mask."
+    ]
+   }
+  ],
+  "finishing": [
+   "Store only the DRY components: pre-blend clays (and powdered botanicals) in an airtight glass jar in a cool, dark cupboard, where they keep 1-2 years if no moisture ever enters.",
+   "Label dry blends with the clay types and blend date, plus a reminder of the liquid ratio to mix at use time.",
+   "The mixed, wet mask has a shelf life of one use - minutes, not days.",
+   "Use clay masks once a week for dry or sensitive skin, up to twice a week for oily skin.",
+   "A dry clay blend in a jar with an instruction card makes an excellent gift precisely because the recipient adds the water fresh each time."
+  ],
+  "tips": [
+   "Gift or sell face masks as dry powder blends with mixing instructions - this sidesteps the preservation problem entirely and extends shelf life to over a year.",
+   "Whisk the clay into the liquid gradually for a lump-free paste; with bentonite, letting the mixed paste sit 1-2 minutes to fully hydrate smooths out remaining lumps.",
+   "Swap plain water for chamomile tea, green tea, or rose hydrosol to layer in gentle botanical benefits at zero cost to texture.",
+   "Glycerin (about 1 part per 4-5 parts liquid) is the single best upgrade for keeping a mask comfortable and preventing the over-tight, itchy dry-down.",
+   "Keep a small spray bottle of water at hand and re-mist the mask mid-wear - a mask that stays slightly damp treats the skin, one that cracks steals moisture."
+  ],
+  "mistakes": [
+   "Mixing or storing bentonite in metal bowls with metal spoons, which can reduce the clay's activity - use glass, ceramic, or wood.",
+   "Making a big wet batch and keeping it 'for next time' - unpreserved clay-and-water sludge grows bacteria and mold almost immediately.",
+   "Letting the mask dry to the point of cracking and flaking, which over-dries and irritates skin instead of treating it.",
+   "Using strongly absorbent bentonite or ACV-mixed masks on dry, mature, or sensitive skin when gentle kaolin was the right call.",
+   "Skipping the patch test and moisturizer, then blaming the clay for redness that predictable irritation testing would have caught."
+  ],
+  "sources": [
+   "https://www.humblebeeandme.com/rose-bentonite-clay-facial-mask/",
+   "https://www.humblebeeandme.com/brightening-kaolin-bentonite-face-mask/",
+   "https://blog.mountainroseherbs.com/cosmetic-clay-comparison",
+   "https://www.wholesalesuppliesplus.com/blogs/articles/kaolin-clay-mask-for-all-skin-types"
+  ]
+ },
+ "remedies": {
+  "equipment": [
+   "Ultrasonic diffuser (typically 100-300 mL reservoir) for aromatic blends",
+   "Amber or cobalt glass dropper bottles (5-15 mL) for storing blends and diluted roll-ons",
+   "Digital scale reading to 0.1 g for salve making",
+   "Double boiler or a heatproof glass measuring cup set in a saucepan with a few inches of water",
+   "Mason jars with lids for infusing herbal oils",
+   "Fine-mesh strainer and cheesecloth for straining infused oils",
+   "Small metal tins or glass jars (30-60 mL / 1-2 oz) for finished salves",
+   "Labels and a permanent marker for naming, dating, and listing dilutions",
+   "Dedicated glass stirring rod or stainless spoon (stainless is fine here - no clay involved)"
+  ],
+  "safety": [
+   "Never apply undiluted essential oils to skin - Tisserand Institute calls this the single most common cause of adverse reactions; always dilute in a carrier oil, salve, or lotion.",
+   "Adult topical guideline: about 2% essential oil for body products (roughly 9 drops per 15 mL / 1 tablespoon of carrier, per the Tisserand/AromaWeb drop charts); use just 0.5-1% for facial products, children over 6, elderly users, and sensitive skin; AromaWeb recommends 1% for children and the elderly.",
+   "Respect oil-specific maximums from the Tisserand dilution chart: clove bud no more than 0.5%, holy basil up to 1%, and for phototoxicity lemon no more than 2% and grapefruit up to 4% in leave-on products (or avoid sun for 12-18 hours after applying phototoxic citrus).",
+   "Children: keep all essential-oil bottles locked away and never let children handle them - even two-year-olds have unscrewed caps and drunk the contents, causing emergency-room visits (Tisserand); follow the age-banded dilution chart, avoid essential oils entirely on babies under 3 months, and avoid menthol/1,8-cineole-rich oils (peppermint, eucalyptus) on or around young children.",
+   "Pets: diffuse only in ventilated spaces with the door open so animals can leave the room, never diffuse continuously around caged animals or birds, and be especially cautious with cats, which metabolize essential-oil constituents poorly (AromaWeb diffuser safety guidance).",
+   "Pregnancy, epilepsy, hypertension, and medication use all change which oils are safe - check a reputable safety reference (Tisserand, NAHA) or a qualified aromatherapist before use.",
+   "Do not take essential oils internally unless directed by a qualified practitioner (NAHA position).",
+   "If essential oil gets in an eye, wipe the closed lid with a cloth soaked in a fatty oil such as olive and/or flush with cool water (NAHA first aid); for skin reactions, wash with plain vegetable oil then soap and water - not just water.",
+   "Patch test every new blend or salve on the inner forearm and wait 24 hours before wider use."
+  ],
+  "phases": [
+   {
+    "title": "Phase 1 - Plan the dilution (all remedies)",
+    "steps": [
+     "Decide who the remedy is for and choose the dilution ceiling before choosing oils: about 2% for a healthy adult body product, 1% for children over 6, elderly, or facially applied products, and 0.25-0.5% for ages 2-6 per Tisserand's age-banded chart.",
+     "Convert percent to drops with the standard chart math: at roughly 20 drops per mL, a 1% dilution is 4-5 drops per 15 mL (1 tablespoon) of carrier and a 2% dilution is about 9 drops per 15 mL - scale linearly for larger volumes.",
+     "Check each chosen oil against its individual dermal maximum (e.g., clove bud 0.5%) and phototoxicity limits (lemon 2%, grapefruit 4%) before finalizing the blend.",
+     "Write the recipe down - oil names, drop counts, carrier volume, and final percent - so the batch is reproducible and the label is honest."
+    ]
+   },
+   {
+    "title": "Phase 2 - Diffuser blends",
+    "steps": [
+     "Fill the diffuser reservoir with clean tap or distilled water to its fill line (most home ultrasonic diffusers hold 100-300 mL).",
+     "Add 3-5 drops of essential oil per 100 mL of water as a starting point; AromaWeb's diffuser guidance is to begin with the low end (even 1-3 drops of a blend) and adjust, always deferring to the diffuser manufacturer's instructions.",
+     "Pre-mix multi-oil blends in a small amber bottle first (for example 2 parts lavender, 1 part sweet orange, 1 part cedarwood for a calming blend) so each session uses a consistent ratio.",
+     "Run the diffuser intermittently: 30-60 minutes on, then 30-60 minutes off; Robert Tisserand notes intermittent diffusion is both safer and MORE effective than continuous, because the nervous system habituates after about an hour.",
+     "Diffuse in a ventilated room, keep sessions shorter and doses lower when children, pregnant women, or pets share the space, and stop if anyone develops a headache or nausea.",
+     "Empty and wipe the reservoir between different blends so old oils do not accumulate in the unit."
+    ]
+   },
+   {
+    "title": "Phase 3 - Infuse the herbal oil (for salves)",
+    "steps": [
+     "Slow (folk) method: fill a clean, dry mason jar one-quarter to one-half full of dried herbs (calendula, plantain, comfrey, lavender), cover completely with olive, sweet almond, or sunflower oil to near the top, cap, shake, and steep in a cool dark place for 4 to 6 weeks before straining (The Nerdy Farm Wife's preferred method).",
+     "Fast (heat) method: fill the jar one-third to one-half with dried herbs, cover with oil, set the uncapped jar down into a saucepan with a few inches of water, and warm on the lowest heat for 2 to 3 hours - if it starts to smell like deep-fried herbs it overheated and should be discarded.",
+     "Always use fully DRIED herbs - fresh plant material carries water that spoils the oil and invites botulism-friendly conditions.",
+     "Strain the finished oil through a fine-mesh strainer lined with cheesecloth, squeezing the herbs, and label the jar; carefully stored infused oils keep about a year."
+    ]
+   },
+   {
+    "title": "Phase 4 - Make the salve or balm",
+    "steps": [
+     "Choose the beeswax-to-oil ratio from Humblebee & Me's tested ladder: 1 part beeswax to 5 parts oil by weight (about 17% beeswax) gives a classic soft salve that melts on skin contact, 1:4 (20%) gives a firmer salve, and 1:3 (25%) approaches a stiff balm/lotion-bar feel; The Nerdy Farm Wife's healing salve runs about 11-12% beeswax for an extra-soft texture.",
+     "For a standard 100 g batch, weigh 15-20 g beeswax pastilles and 80-85 g infused oil into a heatproof glass measuring cup.",
+     "Set the cup into a saucepan with a few inches of barely simmering water and heat gently just until the beeswax is completely melted, stirring occasionally.",
+     "Remove from heat and stir in essential oils at your planned dilution - e.g., about 1% for a general-purpose adult salve (The Nerdy Farm Wife's ~6 oz batch uses 15 drops tea tree plus 20 drops lavender, roughly 1%), plus an optional pinch (1/8 teaspoon) of rosemary antioxidant/ROE to lengthen shelf life.",
+     "Test the set by dropping a little on a cold spoon: too soft, melt back in a bit more beeswax; too hard, add a splash more oil.",
+     "Pour the warm liquid into clean tins or glass jars, cap after a skin forms, and leave undisturbed until fully cool and set before moving."
+    ]
+   },
+   {
+    "title": "Phase 5 - Label, store, and use",
+    "steps": [
+     "Label every remedy with its contents, essential-oil dilution percent, date made, and who it is safe for (e.g., 'adults only' or 'kid-safe 1%').",
+     "Store salves and blend bottles in a cool, dark place; a well-made salve from fresh oils keeps about 1 year (rosemary antioxidant extends this), while infused oils alone keep about a year.",
+     "Use clean, dry fingers or a small spatula to scoop salve so water and microbes never enter the anhydrous product.",
+     "Apply salves to intact skin only - scrapes and dry patches, not deep wounds or broken, infected skin.",
+     "Discard any remedy that changes smell (crayon-like or rancid notes), color, or texture."
+    ]
+   }
+  ],
+  "finishing": [
+   "Salves and balms: cool completely before capping tightly; stored cool and dark they keep about 12 months, and rosemary antioxidant (ROE) or vitamin E slows rancidity.",
+   "Diffuser blend master bottles: store in amber glass with reducer caps, away from heat and sunlight; citrus-heavy blends are best used within 6-12 months.",
+   "Wipe diffusers dry after each use and deep-clean monthly per the manufacturer to prevent oil buildup and mold.",
+   "Keep every finished remedy, like every raw essential oil, in child-proof storage out of children's reach.",
+   "Record batch notes (recipe, date, texture verdict) so successful ratios can be repeated exactly."
+  ],
+  "tips": [
+   "Master the cold-spoon test: it lets you fix a salve's texture while the pot is still warm instead of discovering a hockey puck after it sets.",
+   "Formulate at the LOWEST dilution that works - Tisserand's core principle is that dilution and risk are directly linked, and 1% is genuinely effective for everyday blends.",
+   "Calendula-infused olive oil is the most forgiving, all-purpose salve base for beginners and is gentle enough for most skin.",
+   "Pre-mixing a 'stock blend' of essential oils in one amber bottle keeps every diffuser session and salve batch consistent instead of re-counting drops from 4 bottles.",
+   "Intermittent diffusion (30-60 minutes on/off) is not just safer - Tisserand notes benefits do not increase with continuous running because the body habituates."
+  ],
+  "mistakes": [
+   "Applying 'neat' (undiluted) essential oils to skin because a seller said it was safe - this is the top cause of sensitization, which can be lifelong.",
+   "Using adult dilutions or adult oils (peppermint, eucalyptus) on young children, or leaving bottles where a toddler can unscrew the cap.",
+   "Running a diffuser continuously all day in a closed room with pets or infants present instead of intermittently in ventilated space.",
+   "Infusing fresh (wet) herbs or letting water get into a salve - trapped moisture spoils the anhydrous product and can support dangerous bacteria.",
+   "Overheating the infusion or the beeswax melt on direct heat, which fries the herbs, degrades the oil, and shortens shelf life; always use a gentle water bath."
+  ],
+  "sources": [
+   "https://tisserandinstitute.org/essential-oil-dilution-chart/",
+   "https://tisserandinstitute.org/safety-guidelines/",
+   "https://tisserandinstitute.org/learn-more/diffusion-guidelines-2/",
+   "https://www.aromaweb.com/articles/diluting-essential-oils.php",
+   "https://www.aromaweb.com/articles/essential-oil-diffuser-safety-tips.php",
+   "https://naha.org/explore-aromatherapy/safety/",
+   "https://thenerdyfarmwife.com/herbal-healing-salve-recipe/",
+   "https://www.humblebeeandme.com/a-quick-guide-to-beeswax-liquid-oil-ratios/"
+  ]
+ }
 }

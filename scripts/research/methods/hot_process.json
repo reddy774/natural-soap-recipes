@@ -1,0 +1,135 @@
+{
+  "equipment": [
+    "Crock pot / slow cooker dedicated to soap making, large enough that the raw soap fills it no more than HALF full (soap expands during the cook)",
+    "Accurate digital scale (0.1 oz / 1 g precision) — weigh everything, never use measuring cups",
+    "Stick blender (immersion blender) for bringing the batter to trace",
+    "Heat-safe, non-aluminum lye pitcher (heavy-duty plastic or stainless steel)",
+    "Instant-read or infrared thermometer for oils, lye solution, and the cooked batter",
+    "Heavy-duty silicone or plastic spatulas and a large spoon for folding and scooping the thick cooked soap",
+    "Plastic wrap (to seal under/over the crock pot lid and retain moisture during the cook) plus the pot's own lid",
+    "Large whisk for stirring down a rising 'soap volcano'",
+    "Heat-tolerant soap mold — silicone or a lined wood/loaf mold that can take soap going in at 160-180°F",
+    "Safety gear: chemical-splash goggles, nitrile or rubber gloves, long sleeves, apron, closed-toe shoes",
+    "pH strips or a zap-test routine to confirm the cook is complete",
+    "Small cups for pre-weighing fragrance, superfat oil, and additives",
+    "Wire cutter or sharp knife for slicing, and wax paper for the curing rack"
+  ],
+  "safety": [
+    "Lye (sodium hydroxide) is highly corrosive: goggles, gloves, and long sleeves are the non-negotiable uniform for the entire session, with kids and pets locked out of the workspace and good ventilation throughout.",
+    "ALWAYS pour lye into water, never water into lye — the reverse can react violently and erupt out of the container.",
+    "Add lye only to cool liquid (it self-heats past 200°F) and avoid breathing the temporary but strong fumes; mix at arm's length near an open window, in a sink, or outdoors.",
+    "Never fill the crock pot more than half full of raw soap, and NEVER leave hot process soap unattended while it cooks — unattended batches can expand into a caustic 'soap volcano' that overflows the pot. Stay in the room, especially the first 30 minutes, and stir a rising batch down with a long whisk.",
+    "Do not heat your oils above 180°F, and never add hot lye solution to very hot oils in an already-heated crock pot — the combination can create a scalding, caustic mess.",
+    "The cooked batter is 160-180°F when it comes out of the pot: it is a burn hazard even after the lye is neutralized, so never touch it bare-handed — use a spatula or plastic wrap as a barrier when pressing it into the mold.",
+    "Use only stainless steel, heavy-duty plastic, or silicone tools — no aluminum anywhere in the process.",
+    "If lye or raw batter contacts skin, flush immediately with plenty of cool running water; get medical help for eye exposure.",
+    "Keep the labeled cooling lye solution out of reach — it is clear and looks like water.",
+    "New to soap? Make a couple of cold process batches first so you can recognize trace and handle lye confidently before adding the cooking stage."
+  ],
+  "phases": [
+    {
+      "title": "Phase 1 — Prepare Recipe, Workspace, and Crock Pot",
+      "steps": [
+        "Run your recipe through a lye calculator (5% superfat is a good default) and confirm the total batch volume will fill the crock pot no more than half full.",
+        "Favor recipes with a good share of slow-moving liquid oils (olive, etc.); very high coconut/palm recipes trace and cook extremely fast and are harder to manage in hot process.",
+        "Full water (no water discount) is your friend in hot process — extra water keeps the cooked batter fluid enough to mold; many makers also reserve part of the liquid (or add yogurt/milk after the cook) for a smoother finish.",
+        "Suit up in goggles, gloves, and long sleeves; clear the room of children, pets, and distractions, and plan to stay with the pot for the entire cook.",
+        "Prepare your mold now (line wood molds with freezer paper) — once the cook ends you must work fast, and confirm the mold tolerates soap entering at 160-180°F."
+      ]
+    },
+    {
+      "title": "Phase 2 — Mix the Lye Solution",
+      "steps": [
+        "Weigh the distilled water into a heat-safe, non-aluminum pitcher set in the sink.",
+        "Weigh the sodium hydroxide separately, then slowly sprinkle it into the cool water while stirring, keeping your face turned from the fumes.",
+        "Stir until fully dissolved and clear, then set the labeled solution aside to cool for about 15-20 minutes — hot process does not require the lye to cool as far as cold process, but cooler lye lowers the volcano risk."
+      ]
+    },
+    {
+      "title": "Phase 3 — Melt the Oils in the Crock Pot",
+      "steps": [
+        "Weigh the solid oils and butters directly into the crock pot and melt them on LOW, then stir in the weighed liquid oils.",
+        "Bring the oils to roughly 120-150°F — comfortably warm, and never above 180°F.",
+        "Cooking on the LOW setting (typical slow cookers run about 165°F on low and near 200°F on high) gives steady heat with far less volcano risk than high.",
+        "Pre-measure your fragrance/essential oil, superfat oil (if adding one after the cook), and any additives so they are ready the instant the cook finishes."
+      ]
+    },
+    {
+      "title": "Phase 4 — Combine and Bring to Trace",
+      "steps": [
+        "Rest the stick blender shaft against the side of the crock pot and slowly pour the lye solution down the shaft into the oils to prevent splashing.",
+        "Stir with the blender off to incorporate, then pulse in short bursts, keeping the bell fully submerged and tapping it on the pot bottom occasionally to release air bubbles.",
+        "Alternate pulsing and hand-stirring until you reach a solid medium-to-thick trace — the batter should be thick like pudding and hold trailings on the surface (this can take from 2-3 minutes up to 10-15 depending on the recipe).",
+        "Scrape the thin film of batter off the pot sides down into the main batter with a spatula so it doesn't crust during the cook."
+      ]
+    },
+    {
+      "title": "Phase 5 — The Cook",
+      "steps": [
+        "Put the lid on (many soapers stretch plastic wrap under or over the lid to lock in steam — moisture retention is vital) and cook on LOW; resist opening the lid, which lets water escape and stiffens the batter.",
+        "Expect the cook to take roughly 30-60 minutes total (about 45 minutes in a typical slow cooker; every model differs). Set a timer and check through the lid every 15 minutes.",
+        "Watch the stages of saponification: the cream-colored opaque batter first darkens and turns gelatinous/translucent at the hot edges, then the gel works inward; the batter may puff, rise, or fold over itself like waves — this is normal.",
+        "If the soap climbs toward the rim, stir it down with a long whisk — this is why you never walk away, especially in the first 30 minutes.",
+        "The batch is done when ALL of the soap — including the center — looks glossy and translucent like petroleum jelly (the 'vaseline stage') with a texture like thick mashed potatoes and no opaque cream-colored pockets remaining; if the middle still looks creamy, keep cooking in 15-minute increments."
+      ]
+    },
+    {
+      "title": "Phase 6 — Test Doneness, Cool Slightly, and Add Extras",
+      "steps": [
+        "Confirm saponification is complete: a pH strip pressed to a smear of cooled batter should read below about 10, or do a careful 'zap test' — touch a cooled crumb to your tongue; a battery-like zap means unreacted lye and more cook time, no zap means done.",
+        "Turn off the crock pot (lift the ceramic insert out onto a potholder) and let the batter cool 10-15 minutes with the lid off before adding anything delicate.",
+        "Stir in your superfat oil first if using one (e.g., reserved butter or a luxury oil), since the lye is now consumed it stays as free conditioning oil.",
+        "Add fragrance or essential oil once the batter is under about 180°F — added hotter, much of the scent simply vaporizes into the room; sugary additives like honey, milk, or yogurt also scorch and brown if the soap is too hot, so this brief cool-down protects them too.",
+        "Stir everything in quickly and thoroughly — the batter thickens fast as it cools, and a stiff batter is hard to mold."
+      ]
+    },
+    {
+      "title": "Phase 7 — Mold the Soap",
+      "steps": [
+        "Working quickly while the soap is still hot and pliable, spoon or 'plop' the thick batter into the prepared mold in stages.",
+        "After each few scoops, firmly tap or rap the mold on the counter to knock out the air pockets that the chunky texture traps (support flexible column/silicone molds with rubber bands or your hands so hot soap can't squeeze out).",
+        "Press the soap down and level the top using a spatula or a sheet of plastic wrap over your hand — never bare skin, the soap is around 160-180°F.",
+        "Texture the top rustically if you like; hot process is naturally rustic-looking and will not pour glass-smooth like cold process."
+      ]
+    },
+    {
+      "title": "Phase 8 — Unmold, Cut, and Cure",
+      "steps": [
+        "Let the soap sit in the mold about 24 hours (1-2 days for larger loaves) until fully cool and firm, then unmold.",
+        "Slice into bars with a knife or wire cutter soon after unmolding, while the loaf is easiest to cut.",
+        "Because saponification finished in the pot, the soap contains no active lye and can technically be used the next day — but it will be soft and short-lived if used immediately.",
+        "For best quality, cure the bars on wax paper with airflow for 4-6 weeks (a bare-minimum week for a 'quick' bar): water evaporates, the bar hardens, lather improves, and it lasts far longer in the shower.",
+        "Cleanup is easy — soak the crock pot in warm water and the now-saponified residue rinses out as soap."
+      ]
+    }
+  ],
+  "finishing": [
+    "Cure hot process bars just like cold process: spaced on wax paper in a dry, airy, dim spot, turned occasionally, for 4-6 weeks even though the soap is already lye-free.",
+    "Expect a rustic, slightly textured 'country' look; you can smooth the tops while molding or embrace the texture as the signature of hot process.",
+    "Store cured bars in a ventilated, dry place out of sunlight; like all handmade soap they do best on a draining dish in use.",
+    "If a finished batch turned out overcooked, dry, and crumbly, it can be rescued: chop it, add about 1 ounce of hot water per pound of soap (an ounce at a time), and reheat gently to rebatch."
+  ],
+  "tips": [
+    "The one unbreakable rule: never leave hot process soap cooking unattended — volcanoes happen fast, and every ruined-batch story starts with 'I just stepped out for a minute.'",
+    "Seal the crock pot with plastic wrap under a tight lid so you can watch the stages without lifting the lid; retained steam keeps the batter fluid and mold-able.",
+    "Cook on LOW: low-and-slow dramatically reduces volcano risk, and slow cookers already hold saponification-friendly temperatures (~165°F on low).",
+    "Add fragrance, honey, milk, or yogurt only after a 10-15 minute cool-down below ~180°F — heat is the enemy of scent retention and sugar-based additives.",
+    "Since the lye is consumed before extras go in, hot process is ideal for fragile additives and precise superfatting — you control exactly which oil remains unsaponified."
+  ],
+  "mistakes": [
+    "Overfilling the crock pot (more than half full) or walking away during the cook, ending in a caustic soap volcano over the counter.",
+    "Adding fragrance to soap hotter than ~180°F, so most of the scent evaporates into the room instead of staying in the bars.",
+    "Lifting the lid repeatedly or cooking uncovered, which evaporates water and leaves a stiff, dry, impossible-to-mold batter.",
+    "Molding too slowly — the batter sets as it cools, trapping large air pockets and leaving crumbly gaps in the finished bars (tap the mold firmly between scoops).",
+    "Skipping the doneness test (zap/pH) or the cure: undercooked soap still contains active lye, and uncured bars stay soft and dissolve quickly.",
+    "Using a mold that cannot handle 160-180°F soap, which warps thin plastic molds."
+  ],
+  "sources": [
+    "https://www.modernsoapmaking.com/blog/hot-process-soap-in-a-crockpot-tutorial",
+    "https://soapqueen.com/bath-and-body-tutorials/cold-process-soap/hot-process-series-crock-pot-camo/",
+    "https://lovelygreens.com/simple-moisturizing-hot-process-soap-recipe/",
+    "https://thenerdyfarmwife.com/hot-process-oatmeal-honey-soap-crock-pot-method/",
+    "https://www.soapguild.org/tools-and-resources/resource-center/71/hot-process-soap-beginners/",
+    "https://www.wholesalesuppliesplus.com/blogs/articles/hot-process-soap-making-faq"
+  ]
+}

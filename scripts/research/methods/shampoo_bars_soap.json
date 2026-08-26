@@ -1,0 +1,116 @@
+{
+  "equipment": [
+    "Accurate digital kitchen scale that weighs in grams (all soap ingredients must be weighed, never measured by volume)",
+    "Heatproof, lye-safe pitcher for the lye solution (sturdy polypropylene/HDPE plastic or stainless steel; never aluminum, which reacts violently with lye)",
+    "Large stainless steel or heatproof plastic mixing bowl or pot for the oils",
+    "Stick (immersion) blender reserved for soapmaking only",
+    "Digital or infrared thermometer for checking lye-solution and oil temperatures",
+    "Silicone loaf mold or individual cavity molds (or a wooden mold lined with freezer paper)",
+    "Chemical-splash safety goggles and long chemical-resistant gloves",
+    "Long-sleeved clothing, closed shoes, and an apron",
+    "Silicone spatulas and stainless spoons dedicated to soapmaking",
+    "4-quart crock pot (slow cooker) if using the hot-process option",
+    "Old towel or blanket for insulating cold-process soap in the mold"
+  ],
+  "safety": [
+    "Sodium hydroxide (lye) is caustic and can cause severe chemical burns: always wear goggles, gloves, and long sleeves from the moment you open the lye container until cleanup is finished.",
+    "Always sprinkle the lye INTO the water while stirring, never pour water into dry lye, which can cause a violent, eruptive reaction.",
+    "Do not breathe the strong fumes released for the first minute or so after lye meets water; mix in a well-ventilated area or near an open window and turn your face away.",
+    "Keep children, pets, and any distractions completely out of the workspace while lye or raw soap batter is out (Soap Queen's rule: kids, pets, and tripping hazards out of the soaping space).",
+    "Raw soap batter is still caustic until saponification completes; treat splashes on skin by rinsing with copious cool running water.",
+    "Any herbal tea used in place of distilled water must be fully chilled before adding lye, or the solution can overheat and volcano.",
+    "Rosemary essential oil should be avoided or used only under professional guidance if you are pregnant or have hypertension or epilepsy; substitute lavender.",
+    "Keep total essential-oil usage around 2-3% of the oil weight (about 20 g of essential oil per 770 g of base oils in The Nerdy Farm Wife's recipe), and never use undiluted essential oils on skin.",
+    "Label the lye container clearly and store it sealed, dry, and out of reach of children."
+  ],
+  "phases": [
+    {
+      "title": "Phase 1 - Set up the workspace and a benchmark recipe",
+      "steps": [
+        "Suit up in goggles, gloves, long sleeves, and closed shoes before touching any ingredient.",
+        "Clear a ventilated work area, cover surfaces, and confirm children and pets are out of the room.",
+        "Use a proven, lye-calculated shampoo-bar recipe; The Nerdy Farm Wife's benchmark is 283 g olive oil, 227 g coconut oil, 113 g castor oil, 113 g sunflower or sweet almond oil, 57 g jojoba oil, 108 g sodium hydroxide, and 283 g distilled water for hot process (reduce to 255 g water for cold process), scented with 15 g peppermint and 5 g rosemary essential oil.",
+        "Note that shampoo bars differ from body soap mainly through a high castor-oil percentage for a dense, bubbly lather, and generous superfat; Lovely Greens' Herbal Academy recipe runs a 16% superfat with a 25% lye-solution concentration.",
+        "If you have never made soap, read a full cold-process primer (for example The Nerdy Farm Wife's Soap Making 101) before you begin, and run every recipe change through a lye calculator."
+      ]
+    },
+    {
+      "title": "Phase 2 - Make the lye solution",
+      "steps": [
+        "Weigh the distilled water (or fully chilled herbal tea) into your heatproof lye-safe pitcher.",
+        "Weigh the sodium hydroxide separately, then slowly sprinkle and stir the lye into the water - never the reverse.",
+        "Stir gently until the solution turns clear, keeping your face away from the temporary fumes.",
+        "Set the solution somewhere safe to cool: about 30-40 minutes for cold process so it drops to 100-110 F (38-43 C), or only 15-20 minutes if you are making hot-process soap in a crock pot."
+      ]
+    },
+    {
+      "title": "Phase 3 - Prepare the oils",
+      "steps": [
+        "Weigh the solid oils (coconut oil, and palm if your recipe uses it) and melt them gently on the stove or in short microwave bursts.",
+        "Weigh and stir in the liquid oils (olive, castor, sunflower or almond, jojoba).",
+        "Warm the combined oils, if needed, to roughly 90-100 F (32-38 C); Soap Queen aims to have oils and lye each around 100 F when combined."
+      ]
+    },
+    {
+      "title": "Phase 4 - Combine and bring to trace",
+      "steps": [
+        "Pour the cooled lye solution slowly into the oils, pouring down the shaft of the stick blender to minimize splashes.",
+        "Alternate short bursts of the stick blender with hand stirring; trace usually takes two to eight minutes.",
+        "Stop when the batter reaches 'trace' - it is uniformly emulsified and a drizzle from the spatula leaves a faint trail on the surface.",
+        "If your recipe adds a citric-acid/panthenol solution to lower the final pH (Soap Queen dissolves 0.5 oz citric acid and 0.3 oz DL-panthenol in 4 tablespoons distilled water), blend it in at light trace."
+      ]
+    },
+    {
+      "title": "Phase 5 - Cold-process option: mold and insulate",
+      "steps": [
+        "Stir the essential oils into the batter at trace.",
+        "Pour the batter into the prepared mold, tap the mold to release air bubbles, then cover and insulate it with a towel or blanket.",
+        "Leave the soap in the mold for 1 to 2 days until firm enough to release cleanly.",
+        "Unmold and slice into bars with a sharp knife or soap cutter while still slightly soft."
+      ]
+    },
+    {
+      "title": "Phase 6 - Hot-process option: crock pot cook",
+      "steps": [
+        "Transfer the traced batter to a crock pot set to low and cover it.",
+        "Cook for 1 hour, stirring every 15 minutes, as the soap moves through gel phase to a mashed-potato/applesauce texture.",
+        "Let the cooked soap cool a few minutes, stir in the essential oils, then quickly spoon the thick paste into the mold, pressing out air pockets.",
+        "Keep the soap in the mold for 24 hours before unmolding and cutting."
+      ]
+    },
+    {
+      "title": "Phase 7 - Cure",
+      "steps": [
+        "Stand the cut bars on a rack or paper-lined tray with air space between them, out of direct sun.",
+        "Cure cold-process shampoo bars at least 4 weeks, turning occasionally; high-liquid-oil shampoo recipes benefit from even longer cures (Soap Queen notes they take longer than regular cold process).",
+        "Hot-process bars are technically usable right away but still improve with 2 to 3 weeks of cure for hardness and mildness."
+      ]
+    }
+  ],
+  "finishing": [
+    "Cure completed bars 4+ weeks (cold process) or 2-3 weeks (hot process) before use, then store them in a cool, dry, airy spot; properly cured soap keeps about a year.",
+    "Between uses, keep bars on a draining soap dish so they dry fully and last longer.",
+    "Because soap-based shampoo is alkaline (pH around 7-9) while hair prefers acidic, follow each wash with an acidic rinse: Lovely Greens recommends 1 teaspoon apple cider vinegar in 1 cup of water poured through the hair; Soap Queen suggests a mint-ACV rinse.",
+    "Label bars with the made-on date and ingredients, and expect a transition period of a week or two as hair adjusts.",
+    "Wash all lye-contact equipment carefully in hot soapy water while still wearing gloves; residual raw batter is caustic for 24-48 hours."
+  ],
+  "tips": [
+    "Push castor oil to 10-15% of the oil blend - it is the classic shampoo-bar ingredient for dense, conditioning lather.",
+    "Use a generous superfat (Lovely Greens' recipe runs 16%) so the bar is gentler on hair than ordinary body soap.",
+    "Swap the water for a light, fully chilled herbal tea such as rosemary or nettle for extra hair benefits, keeping the infusion pale so it does not discolor the soap.",
+    "Adding a dissolved citric-acid solution at trace (Soap Queen's method) lowers the finished bar's pH and makes it noticeably gentler on hair.",
+    "Soap-based shampoo bars suit some hair types but not all; if hair turns gummy or straw-like, an ACV rinse and a conditioner afterward make the biggest difference, and hard-water households may do better with a syndet bar."
+  ],
+  "mistakes": [
+    "Pouring water into lye instead of lye into water - this can cause a dangerous eruptive boil-over.",
+    "Measuring by volume instead of weight, or skipping the lye calculator after substituting oils, which yields lye-heavy or mushy soap.",
+    "Combining lye and oils while too hot (well above 110 F), causing acceleration, cracking, or a soap volcano - especially with milk or honey additives.",
+    "Cutting the cure short: an uncured, high-liquid-oil shampoo bar is soft, harsh, and dissolves quickly in the shower.",
+    "Using aluminum bowls, whisks, or molds anywhere in the process; lye reacts with aluminum and produces flammable hydrogen gas."
+  ],
+  "sources": [
+    "https://thenerdyfarmwife.com/shampoo-bars-crock-pot-method/",
+    "https://lovelygreens.com/herbal-shampoo-bar-recipe/",
+    "https://soapqueen.com/bath-and-body-tutorials/cold-process-soap/sudsy-shampoo-bars/"
+  ]
+}
