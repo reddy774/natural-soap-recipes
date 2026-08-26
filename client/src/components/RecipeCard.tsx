@@ -1,4 +1,5 @@
 import { FavoriteButton } from "@/components/FavoriteButton";
+import { RecipeArt } from "@/components/RecipeArt";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
@@ -34,6 +35,8 @@ export function RecipeCard({ recipe, href }: RecipeCardProps) {
     >
       <Card className="card-lift relative flex h-full flex-col overflow-hidden rounded-2xl border-border/60 bg-card shadow-sm">
         <div className={cn("h-1.5 w-full", style.bar)} />
+
+        <RecipeArt recipe={recipe} variant="card" />
 
         <FavoriteButton
           slug={recipe.slug}

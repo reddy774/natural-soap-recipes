@@ -1,13 +1,16 @@
 import { FavoriteButton } from "@/components/FavoriteButton";
+import { RecipeArt } from "@/components/RecipeArt";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { Slider } from "@/components/ui/slider";
+import { useDetailedPrep } from "@/hooks/useDetailedPrep";
 import { getCategoryStyle } from "@/lib/categories";
+import type { DetailedGuide } from "@/lib/detailedPrep";
 import type { FlatRecipe, StructuredIngredient } from "@/lib/recipes";
 import { cn } from "@/lib/utils";
-import { ArrowLeft, Calculator, ExternalLink, Leaf, Scale } from "lucide-react";
+import { ArrowLeft, BookOpenText, Calculator, ExternalLink, Leaf, ListOrdered, Scale } from "lucide-react";
 import { useState } from "react";
 import { Link } from "wouter";
 
@@ -28,22 +31,61 @@ interface RecipeDetailProps {
   backHref: string;
 }
 
+function DetailedGuideView({ guide }: { guide: DetailedGuide }) {
+  return (
+    <div className="space-y-8 text-lg leading-relaxed text-foreground/80 font-light">
+      {guide.sections.map((section) => (
+        <section key={section.title}>
+          <h4 className="font-serif font-bold text-xl text-foreground mb-3">{section.title}</h4>
+          <ol className="space-y-3">
+            {section.steps.map((step, idx) => (
+              <li key={idx} className="pl-4 relative">
+                <span className="font-bold text-primary mr-2">{idx + 1}.</span>
+                {step}
+              </li>
+            ))}
+          </ol>
+        </section>
+      ))}
+      {guide.tips && guide.tips.length > 0 && (
+        <div className="bg-muted/40 border border-border/50 rounded-xl p-6">
+          <h4 className="font-hand text-xl text-primary mb-2">Pro tips</h4>
+          <ul className="space-y-2 text-base">
+            {guide.tips.map((tip, idx) => (
+              <li key={idx} className="flex items-start">
+                <span className="inline-block w-1.5 h-1.5 rounded-full bg-primary/40 mt-2.5 mr-3" />
+                <span>{tip}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+      {guide.cure_and_storage && (
+        <p className="text-base text-muted-foreground border-l-2 border-primary/30 pl-4">
+          <span className="font-semibold text-foreground">Curing &amp; storage:</span> {guide.cure_and_storage}
+        </p>
+      )}
+      {guide.sources && guide.sources.length > 0 && (
+        <p className="text-xs text-muted-foreground/70">
+          Method informed by:{" "}
+          {guide.sources.map((src, idx) => (
+            <a key={src} href={src} target="_blank" rel="noopener noreferrer" className="underline hover:text-primary">
+              {new URL(src).hostname.replace(/^www\./, "")}
+              {idx < (guide.sources?.length ?? 0) - 1 ? ", " : ""}
+            </a>
+          ))}
+        </p>
+      )}
+    </div>
+  );
+}
+
 export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
   const style = getCategoryStyle(recipe.category);
   const [batchScale, setBatchScale] = useState(1); // 1 = 100% (original size)
-
-  // Helper to get recipe image based on name keywords
-  const getRecipeImage = (name: string) => {
-    const lowerName = name.toLowerCase();
-    if (lowerName.includes("coffee")) return "/images/recipe-coffee.jpg";
-    if (lowerName.includes("oat") || lowerName.includes("honey")) return "/images/recipe-oatmeal.jpg";
-    if (lowerName.includes("aloe")) return "/images/recipe-aloe.jpg";
-    if (lowerName.includes("lavender")) return "/images/recipe-lavender.jpg";
-    if (lowerName.includes("charcoal") || lowerName.includes("black")) return "/images/recipe-charcoal.jpg";
-    return null; // Fallback to no specific image
-  };
-
-  const recipeImage = getRecipeImage(recipe.name);
+  const guide = useDetailedPrep(recipe.slug);
+  const [view, setView] = useState<"original" | "detailed">("original");
+  const showDetailed = view === "detailed" && guide;
 
   // Helper to format amount based on scale
   const formatAmount = (ing: StructuredIngredient) => {
@@ -76,16 +118,7 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
           <Card className="border-none shadow-lg bg-card/80 backdrop-blur-md overflow-hidden sticky top-6 rounded-2xl">
             <div className={cn("h-2 w-full", style.bar)} />
             
-            {recipeImage && (
-              <div className="w-full h-48 overflow-hidden relative">
-                <img 
-                  src={recipeImage} 
-                  alt={recipe.name} 
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
-              </div>
-            )}
+            <RecipeArt recipe={recipe} variant="hero" />
 
             <CardContent className="p-6 space-y-6">
               <div>
@@ -215,13 +248,42 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
           <Card className="border-none shadow-none bg-transparent">
             <CardContent className="p-0">
               <div className="prose prose-stone dark:prose-invert max-w-none">
-                <h3 className="text-2xl font-serif font-bold text-foreground mb-6 flex items-center">
-                  <span className="bg-secondary text-secondary-foreground w-8 h-8 rounded-full flex items-center justify-center text-sm mr-3 font-sans font-bold">
-                    M
-                  </span>
-                  Method & Instructions
-                </h3>
-                
+                <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
+                  <h3 className="text-2xl font-serif font-bold text-foreground flex items-center">
+                    <span className="bg-secondary text-secondary-foreground w-8 h-8 rounded-full flex items-center justify-center text-sm mr-3 font-sans font-bold">
+                      M
+                    </span>
+                    Method & Instructions
+                  </h3>
+                  {guide && (
+                    <div className="flex rounded-lg border border-border/60 bg-muted/30 p-1" role="tablist" aria-label="Instruction detail level">
+                      <Button
+                        variant={view === "original" ? "default" : "ghost"}
+                        size="sm"
+                        className="rounded-md"
+                        onClick={() => setView("original")}
+                      >
+                        <ListOrdered className="w-4 h-4 mr-1.5" />
+                        Quick Steps
+                      </Button>
+                      <Button
+                        variant={view === "detailed" ? "default" : "ghost"}
+                        size="sm"
+                        className="rounded-md"
+                        onClick={() => setView("detailed")}
+                      >
+                        <BookOpenText className="w-4 h-4 mr-1.5" />
+                        Detailed Guide
+                      </Button>
+                    </div>
+                  )}
+                </div>
+
+                {showDetailed ? (
+                  <div className="bg-card/50 backdrop-blur-sm rounded-xl p-8 shadow-sm border border-border/50">
+                    <DetailedGuideView guide={guide} />
+                  </div>
+                ) : (
                 <div className="bg-card/50 backdrop-blur-sm rounded-xl p-8 shadow-sm border border-border/50">
                   <div className="space-y-6 text-lg leading-relaxed text-foreground/80 font-light">
                     {recipe.instructions.split('\n').map((paragraph, idx) => {
@@ -251,6 +313,7 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
                     })}
                   </div>
                 </div>
+                )}
               </div>
             </CardContent>
           </Card>
