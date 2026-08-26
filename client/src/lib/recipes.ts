@@ -19,6 +19,8 @@ export interface Recipe {
   /** Collection name shown when no source_url exists */
   source?: string;
   structured_ingredients?: StructuredIngredient[];
+  /** Set when the published NaOH amount exceeds saponification sanity checks */
+  lye_warning?: boolean;
 }
 
 /** A recipe tagged with the category it lives under plus a stable URL slug */

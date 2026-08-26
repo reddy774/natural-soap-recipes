@@ -10,7 +10,7 @@ import { getCategoryStyle } from "@/lib/categories";
 import type { DetailedGuide } from "@/lib/detailedPrep";
 import type { FlatRecipe, StructuredIngredient } from "@/lib/recipes";
 import { cn } from "@/lib/utils";
-import { ArrowLeft, BookOpenText, Calculator, ExternalLink, Leaf, ListOrdered, Scale } from "lucide-react";
+import { AlertTriangle, ArrowLeft, BookOpenText, Calculator, ExternalLink, Leaf, ListOrdered, Scale } from "lucide-react";
 import { useState } from "react";
 import { Link } from "wouter";
 
@@ -29,6 +29,19 @@ interface RecipeDetailProps {
   recipe: FlatRecipe;
   /** Where the back link returns to (preserves the selected tab) */
   backHref: string;
+}
+
+function sourceLabel(src: string): string {
+  try {
+    return new URL(src).hostname.replace(/^www\./, "");
+  } catch {
+    return src;
+  }
+}
+
+// Guides and recipes are regenerated data — only http(s) values may become hrefs
+function isHttpUrl(value: string | undefined): value is string {
+  return !!value && (value.startsWith("https://") || value.startsWith("http://"));
 }
 
 function DetailedGuideView({ guide }: { guide: DetailedGuide }) {
@@ -68,12 +81,20 @@ function DetailedGuideView({ guide }: { guide: DetailedGuide }) {
       {guide.sources && guide.sources.length > 0 && (
         <p className="text-xs text-muted-foreground/70">
           Method informed by:{" "}
-          {guide.sources.map((src, idx) => (
-            <a key={src} href={src} target="_blank" rel="noopener noreferrer" className="underline hover:text-primary">
-              {new URL(src).hostname.replace(/^www\./, "")}
-              {idx < (guide.sources?.length ?? 0) - 1 ? ", " : ""}
-            </a>
-          ))}
+          {guide.sources.map((src, idx) => {
+            const suffix = idx < (guide.sources?.length ?? 0) - 1 ? ", " : "";
+            return isHttpUrl(src) ? (
+              <a key={idx} href={src} target="_blank" rel="noopener noreferrer" className="underline hover:text-primary">
+                {sourceLabel(src)}
+                {suffix}
+              </a>
+            ) : (
+              <span key={idx}>
+                {sourceLabel(src)}
+                {suffix}
+              </span>
+            );
+          })}
         </p>
       )}
     </div>
@@ -92,7 +113,7 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
     if (ing.is_percentage) {
       return `${ing.percentage}%`;
     }
-    if (ing.amount) {
+    if (ing.amount != null) {
       const scaled = ing.amount * batchScale;
       // Round to 2 decimal places
       const rounded = Math.round(scaled * 100) / 100;
@@ -209,7 +230,7 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
                 </ul>
               </div>
 
-              {recipe.source_url ? (
+              {isHttpUrl(recipe.source_url) ? (
                 <div className="pt-4">
                   <Button className="w-full font-serif italic" asChild>
                     <a href={recipe.source_url} target="_blank" rel="noopener noreferrer">
@@ -228,6 +249,20 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
 
         {/* Right Column: Instructions & Visual Steps */}
         <div className="lg:col-span-2 space-y-8">
+          {recipe.lye_warning && (
+            <div
+              role="note"
+              className="flex items-start gap-3 rounded-xl border border-destructive/40 bg-destructive/10 p-4 text-sm leading-relaxed"
+            >
+              <AlertTriangle className="mt-0.5 h-5 w-5 shrink-0 text-destructive" />
+              <p>
+                <span className="font-semibold">Check the lye amount before making this recipe.</span>{" "}
+                The sodium hydroxide quantity printed in the original source appears higher than
+                standard saponification values allow. Run the oils through a lye calculator (see the
+                Lye Calculator tab) and use the calculated amount instead of the printed one.
+              </p>
+            </div>
+          )}
           {/* Visual Process Guide */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
@@ -258,6 +293,8 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
                   {guide && (
                     <div className="flex rounded-lg border border-border/60 bg-muted/30 p-1" role="tablist" aria-label="Instruction detail level">
                       <Button
+                        role="tab"
+                        aria-selected={view === "original"}
                         variant={view === "original" ? "default" : "ghost"}
                         size="sm"
                         className="rounded-md"
@@ -267,6 +304,8 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
                         Quick Steps
                       </Button>
                       <Button
+                        role="tab"
+                        aria-selected={view === "detailed"}
                         variant={view === "detailed" ? "default" : "ghost"}
                         size="sm"
                         className="rounded-md"

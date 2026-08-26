@@ -23,6 +23,8 @@ let cache: DetailedPrepMap | null = null;
 export async function loadDetailedPrep(): Promise<DetailedPrepMap> {
   if (!cache) {
     const mod = await import("@/data/detailed_prep.json");
+    // Boundary cast: the JSON is regenerated externally (scripts/merge_detailed_prep.py
+    // validates its shape); typing is asserted here on purpose, as in recipes.ts.
     cache = mod.default as unknown as DetailedPrepMap;
   }
   return cache;
