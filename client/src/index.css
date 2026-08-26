@@ -40,65 +40,93 @@
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Botanical accent palette (ingredient-derived) */
+  --color-sage: var(--sage);
+  --color-olive: var(--olive);
+  --color-calendula: var(--calendula);
+  --color-clay: var(--clay);
+  --color-lavender: var(--lavender);
+  --color-honey: var(--honey);
+  --color-herb: var(--herb);
+
+  /* Typography tokens */
+  --font-sans: var(--font-body);
+  --font-serif: var(--font-heading);
+  --font-hand: var(--font-accent);
 }
 
 :root {
   /* Botanical Minimalism / Modern Apothecary Theme */
-  
+
+  /* Typography */
+  --font-body: "Nunito", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Playfair Display", ui-serif, Georgia, serif;
+  --font-accent: "Caveat", cursive;
+
   /* Primary: Deep Earthy Green (Sage/Olive) */
-  --primary: oklch(0.45 0.08 135); 
-  --primary-foreground: oklch(0.98 0.02 100);
-  
-  /* Secondary: Soft Muted Lavender/Clay */
-  --secondary: oklch(0.85 0.05 300);
-  --secondary-foreground: oklch(0.3 0.05 300);
-  
+  --primary: oklch(0.44 0.08 132);
+  --primary-foreground: oklch(0.98 0.015 95);
+
+  /* Secondary: Soft Muted Lavender */
+  --secondary: oklch(0.87 0.045 300);
+  --secondary-foreground: oklch(0.32 0.06 300);
+
   /* Background: Warm Off-White (Cream/Alabaster) */
-  --background: oklch(0.98 0.01 90);
-  --foreground: oklch(0.25 0.02 100);
-  
-  /* Card: Slightly lighter cream */
-  --card: oklch(0.99 0.005 90);
-  --card-foreground: oklch(0.25 0.02 100);
-  
+  --background: oklch(0.977 0.012 85);
+  --foreground: oklch(0.28 0.03 110);
+
+  /* Card: Lighter cream, like a fresh bar of soap */
+  --card: oklch(0.99 0.008 90);
+  --card-foreground: oklch(0.28 0.03 110);
+
   /* Popover */
-  --popover: oklch(0.99 0.005 90);
-  --popover-foreground: oklch(0.25 0.02 100);
-  
-  /* Muted: Soft Grey-Green */
-  --muted: oklch(0.94 0.02 135);
-  --muted-foreground: oklch(0.5 0.04 135);
-  
-  /* Accent: Botanical Highlight */
-  --accent: oklch(0.92 0.03 135);
-  --accent-foreground: oklch(0.35 0.06 135);
-  
+  --popover: oklch(0.99 0.008 90);
+  --popover-foreground: oklch(0.28 0.03 110);
+
+  /* Muted: Warm parchment */
+  --muted: oklch(0.945 0.015 95);
+  --muted-foreground: oklch(0.48 0.03 110);
+
+  /* Accent: Soft sage wash */
+  --accent: oklch(0.93 0.025 130);
+  --accent-foreground: oklch(0.35 0.06 132);
+
   /* Destructive: Muted Rust */
-  --destructive: oklch(0.6 0.15 30);
+  --destructive: oklch(0.55 0.15 30);
   --destructive-foreground: oklch(0.98 0.01 30);
-  
+
   /* Border & Input */
-  --border: oklch(0.88 0.02 100);
-  --input: oklch(0.88 0.02 100);
-  --ring: oklch(0.45 0.08 135);
-  
+  --border: oklch(0.89 0.02 95);
+  --input: oklch(0.89 0.02 95);
+  --ring: oklch(0.44 0.08 132);
+
+  /* Botanical accents (ingredient-derived, AA-contrast on cream) */
+  --sage: oklch(0.44 0.08 132);       /* sage leaf */
+  --olive: oklch(0.48 0.08 110);      /* olive branch */
+  --calendula: oklch(0.55 0.12 60);   /* calendula petal */
+  --clay: oklch(0.52 0.08 30);        /* pink clay */
+  --lavender: oklch(0.5 0.09 300);    /* lavender bud */
+  --honey: oklch(0.5 0.09 80);        /* raw honey */
+  --herb: oklch(0.47 0.07 175);       /* herbal rinse */
+
   /* Charts (Botanical Palette) */
   --chart-1: oklch(0.6 0.1 135); /* Green */
   --chart-2: oklch(0.7 0.1 80);  /* Earth */
   --chart-3: oklch(0.75 0.1 300); /* Lavender */
   --chart-4: oklch(0.8 0.1 50);  /* Clay */
   --chart-5: oklch(0.5 0.05 200); /* Slate */
-  
-  --radius: 0.75rem; /* Softer, more organic corners */
-  
+
+  --radius: 1rem; /* Soft, soap-bar corners */
+
   --sidebar: oklch(0.97 0.01 90);
-  --sidebar-foreground: oklch(0.25 0.02 100);
-  --sidebar-primary: oklch(0.45 0.08 135);
-  --sidebar-primary-foreground: oklch(0.98 0.02 100);
-  --sidebar-accent: oklch(0.92 0.03 135);
-  --sidebar-accent-foreground: oklch(0.35 0.06 135);
-  --sidebar-border: oklch(0.88 0.02 100);
-  --sidebar-ring: oklch(0.45 0.08 135);
+  --sidebar-foreground: oklch(0.28 0.03 110);
+  --sidebar-primary: oklch(0.44 0.08 132);
+  --sidebar-primary-foreground: oklch(0.98 0.015 95);
+  --sidebar-accent: oklch(0.93 0.025 130);
+  --sidebar-accent-foreground: oklch(0.35 0.06 132);
+  --sidebar-border: oklch(0.89 0.02 95);
+  --sidebar-ring: oklch(0.44 0.08 132);
 }
 
 .dark {
@@ -131,7 +159,16 @@
   --border: oklch(0.3 0.02 135);
   --input: oklch(0.3 0.02 135);
   --ring: oklch(0.6 0.1 135);
-  
+
+  /* Botanical accents — lifted for dark backgrounds */
+  --sage: oklch(0.7 0.09 132);
+  --olive: oklch(0.72 0.09 110);
+  --calendula: oklch(0.75 0.12 60);
+  --clay: oklch(0.74 0.08 30);
+  --lavender: oklch(0.74 0.09 300);
+  --honey: oklch(0.74 0.09 80);
+  --herb: oklch(0.72 0.08 175);
+
   --chart-1: oklch(0.6 0.1 135);
   --chart-2: oklch(0.7 0.1 80);
   --chart-3: oklch(0.75 0.1 300);
@@ -212,9 +249,33 @@
 }
 @layer base {
   html {
-    font-family: 'Lato', sans-serif;
+    font-family: var(--font-body);
   }
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', serif;
+    font-family: var(--font-heading);
+  }
+}
+
+@layer components {
+  /* Gentle lift on hover — like picking up a bar of soap */
+  .card-lift {
+    transition:
+      transform 300ms ease,
+      box-shadow 300ms ease;
+  }
+  .card-lift:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 14px 30px -14px oklch(0.4 0.06 130 / 0.35);
+  }
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
   }
 }

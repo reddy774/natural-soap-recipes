@@ -1,12 +1,15 @@
+import { FavoriteButton } from "@/components/FavoriteButton";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
 import { Separator } from "@/components/ui/separator";
 import { Slider } from "@/components/ui/slider";
-import { ArrowLeft, Calculator, ExternalLink, Leaf, Scale, Sun, Thermometer } from "lucide-react";
+import { getCategoryStyle } from "@/lib/categories";
+import type { FlatRecipe, StructuredIngredient } from "@/lib/recipes";
+import { cn } from "@/lib/utils";
+import { ArrowLeft, Calculator, ExternalLink, Leaf, Scale } from "lucide-react";
 import { useState } from "react";
+import { Link } from "wouter";
 
 // Helper to map instruction text to images
 const getInstructionImage = (text: string) => {
@@ -19,32 +22,14 @@ const getInstructionImage = (text: string) => {
   return null;
 };
 
-interface Ingredient {
-  amount?: number;
-  unit?: string;
-  name?: string;
-  original?: string;
-  percentage?: number;
-  is_percentage?: boolean;
-}
-
-interface Recipe {
-  name: string;
-  type: string;
-  ingredients: string[] | string;
-  structured_ingredients?: Ingredient[];
-  instructions: string;
-  source_url: string;
-  benefits?: string;
-}
-
 interface RecipeDetailProps {
-  recipe: Recipe;
-  onBack: () => void;
+  recipe: FlatRecipe;
+  /** Where the back link returns to (preserves the selected tab) */
+  backHref: string;
 }
 
-export function RecipeDetail({ recipe, onBack }: RecipeDetailProps) {
-  const isHotProcess = recipe.type === "Hot Process";
+export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
+  const style = getCategoryStyle(recipe.category);
   const [batchScale, setBatchScale] = useState(1); // 1 = 100% (original size)
 
   // Helper to get recipe image based on name keywords
@@ -61,7 +46,7 @@ export function RecipeDetail({ recipe, onBack }: RecipeDetailProps) {
   const recipeImage = getRecipeImage(recipe.name);
 
   // Helper to format amount based on scale
-  const formatAmount = (ing: Ingredient) => {
+  const formatAmount = (ing: StructuredIngredient) => {
     if (ing.is_percentage) {
       return `${ing.percentage}%`;
     }
@@ -77,17 +62,19 @@ export function RecipeDetail({ recipe, onBack }: RecipeDetailProps) {
   return (
     <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 h-full flex flex-col">
       <div className="mb-6 flex items-center gap-2">
-        <Button variant="ghost" size="sm" onClick={onBack} className="pl-0 hover:bg-transparent hover:text-primary">
-          <ArrowLeft className="w-4 h-4 mr-1" />
-          Back to Collection
+        <Button variant="ghost" size="sm" asChild className="pl-0 hover:bg-transparent hover:text-primary">
+          <Link href={backHref}>
+            <ArrowLeft className="w-4 h-4 mr-1" />
+            Back to Collection
+          </Link>
         </Button>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 flex-grow">
         {/* Left Column: Ingredients & Calculator (Sticky on desktop) */}
         <div className="lg:col-span-1 space-y-6">
-          <Card className="border-none shadow-lg bg-card/80 backdrop-blur-md overflow-hidden sticky top-6">
-            <div className={`h-3 w-full ${isHotProcess ? "bg-orange-400" : "bg-primary"}`} />
+          <Card className="border-none shadow-lg bg-card/80 backdrop-blur-md overflow-hidden sticky top-6 rounded-2xl">
+            <div className={cn("h-2 w-full", style.bar)} />
             
             {recipeImage && (
               <div className="w-full h-48 overflow-hidden relative">
@@ -102,18 +89,18 @@ export function RecipeDetail({ recipe, onBack }: RecipeDetailProps) {
 
             <CardContent className="p-6 space-y-6">
               <div>
-                <Badge 
-                  variant="outline" 
-                  className={`mb-4 ${isHotProcess ? "text-orange-600 border-orange-200 bg-orange-50" : "text-primary border-primary/20 bg-primary/5"}`}
-                >
-                  {isHotProcess ? <Sun className="w-3 h-3 mr-2" /> : <Thermometer className="w-3 h-3 mr-2" />}
-                  {recipe.type}
-                </Badge>
+                <div className="mb-4 flex items-start justify-between gap-2">
+                  <Badge variant="outline" className={cn(style.badge)}>
+                    <Leaf className="w-3 h-3 mr-2" />
+                    {recipe.category}
+                  </Badge>
+                  <FavoriteButton slug={recipe.slug} className="-mr-2 -mt-1.5" />
+                </div>
                 <h1 className="text-3xl font-serif font-bold text-foreground leading-tight mb-2">
                   {recipe.name}
                 </h1>
                 {recipe.benefits && (
-                  <p className="text-sm text-muted-foreground italic mt-2">
+                  <p className="mt-2 font-hand text-lg leading-snug text-muted-foreground">
                     {recipe.benefits}
                   </p>
                 )}
@@ -189,13 +176,19 @@ export function RecipeDetail({ recipe, onBack }: RecipeDetailProps) {
                 </ul>
               </div>
 
-              <div className="pt-4">
-                <Button className="w-full font-serif italic" asChild>
-                  <a href={recipe.source_url} target="_blank" rel="noopener noreferrer">
-                    Visit Original Source <ExternalLink className="w-4 h-4 ml-2" />
-                  </a>
-                </Button>
-              </div>
+              {recipe.source_url ? (
+                <div className="pt-4">
+                  <Button className="w-full font-serif italic" asChild>
+                    <a href={recipe.source_url} target="_blank" rel="noopener noreferrer">
+                      Visit Original Source <ExternalLink className="w-4 h-4 ml-2" />
+                    </a>
+                  </Button>
+                </div>
+              ) : recipe.source ? (
+                <p className="pt-4 text-sm text-muted-foreground">
+                  Source: {recipe.source}
+                </p>
+              ) : null}
             </CardContent>
           </Card>
         </div>
