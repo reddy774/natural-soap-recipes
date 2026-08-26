@@ -9,6 +9,7 @@ import { useDetailedPrep } from "@/hooks/useDetailedPrep";
 import { getCategoryStyle } from "@/lib/categories";
 import type { DetailedGuide } from "@/lib/detailedPrep";
 import type { FlatRecipe, StructuredIngredient } from "@/lib/recipes";
+import { scaleIngredientText } from "@/lib/scaleIngredient";
 import { cn } from "@/lib/utils";
 import { AlertTriangle, ArrowLeft, BookOpenText, Calculator, ExternalLink, Leaf, ListOrdered, Scale } from "lucide-react";
 import { useState } from "react";
@@ -215,14 +216,14 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
                       recipe.ingredients.map((ingredient, idx) => (
                         <li key={idx} className="text-sm text-foreground/90 flex items-start group">
                           <span className="inline-block w-1.5 h-1.5 rounded-full bg-primary/40 mt-1.5 mr-3 group-hover:bg-primary transition-colors" />
-                          <span className="leading-relaxed">{ingredient}</span>
+                          <span className="leading-relaxed">{scaleIngredientText(ingredient, batchScale)}</span>
                         </li>
                       ))
                     ) : (
                       typeof recipe.ingredients === 'string' && recipe.ingredients.split(/,|\n/).map((ingredient, idx) => (
                         <li key={idx} className="text-sm text-foreground/90 flex items-start group">
                           <span className="inline-block w-1.5 h-1.5 rounded-full bg-primary/40 mt-1.5 mr-3 group-hover:bg-primary transition-colors" />
-                          <span className="leading-relaxed">{ingredient.trim()}</span>
+                          <span className="leading-relaxed">{scaleIngredientText(ingredient.trim(), batchScale)}</span>
                         </li>
                       ))
                     )
