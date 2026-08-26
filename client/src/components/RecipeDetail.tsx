@@ -45,7 +45,7 @@ function isHttpUrl(value: string | undefined): value is string {
   return !!value && (value.startsWith("https://") || value.startsWith("http://"));
 }
 
-function DetailedGuideView({ guide }: { guide: DetailedGuide }) {
+function DetailedGuideView({ guide, batchScale }: { guide: DetailedGuide; batchScale: number }) {
   return (
     <div className="space-y-8 text-lg leading-relaxed text-foreground/80 font-light">
       {guide.sections.map((section) => (
@@ -55,7 +55,7 @@ function DetailedGuideView({ guide }: { guide: DetailedGuide }) {
             {section.steps.map((step, idx) => (
               <li key={idx} className="pl-4 relative">
                 <span className="font-bold text-primary mr-2">{idx + 1}.</span>
-                {step}
+                {scaleIngredientText(step, batchScale)}
               </li>
             ))}
           </ol>
@@ -68,7 +68,7 @@ function DetailedGuideView({ guide }: { guide: DetailedGuide }) {
             {guide.tips.map((tip, idx) => (
               <li key={idx} className="flex items-start">
                 <span className="inline-block w-1.5 h-1.5 rounded-full bg-primary/40 mt-2.5 mr-3" />
-                <span>{tip}</span>
+                <span>{scaleIngredientText(tip, batchScale)}</span>
               </li>
             ))}
           </ul>
@@ -207,7 +207,7 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
                       <li key={idx} className="text-sm text-foreground/90 flex items-start group justify-between border-b border-border/40 pb-2 last:border-0">
                         <span className="font-medium text-foreground/70">{ing.name}</span>
                         <span className="font-bold font-mono text-primary">
-                          {formatAmount(ing) || ing.original}
+                          {formatAmount(ing) ?? (ing.original ? scaleIngredientText(ing.original, batchScale) : null)}
                         </span>
                       </li>
                     ))
@@ -321,7 +321,7 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
 
                 {showDetailed ? (
                   <div className="bg-card/50 backdrop-blur-sm rounded-xl p-8 shadow-sm border border-border/50">
-                    <DetailedGuideView guide={guide} />
+                    <DetailedGuideView guide={guide} batchScale={batchScale} />
                   </div>
                 ) : (
                 <div className="bg-card/50 backdrop-blur-sm rounded-xl p-8 shadow-sm border border-border/50">
@@ -338,10 +338,10 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
                           {isStep ? (
                             <p className="mb-4">
                               <span className="font-bold text-primary mr-2">{paragraph.split('.')[0]}.</span>
-                              {paragraph.substring(paragraph.indexOf('.') + 1).trim()}
+                              {scaleIngredientText(paragraph.substring(paragraph.indexOf('.') + 1).trim(), batchScale)}
                             </p>
                           ) : (
-                            <p className="mb-4">{paragraph}</p>
+                            <p className="mb-4">{scaleIngredientText(paragraph, batchScale)}</p>
                           )}
                           {image && (
                             <div className="my-6 rounded-lg overflow-hidden shadow-md max-w-md">
