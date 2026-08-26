@@ -25,9 +25,11 @@ import io
 import json
 import os
 import sys
+import threading
 import time
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
@@ -160,12 +162,13 @@ def main() -> None:
     parser.add_argument("--limit", type=int, default=0, help="stop after N new images")
     parser.add_argument("--only", help="generate a single slug")
     parser.add_argument("--force", action="store_true", help="regenerate even if the photo exists")
-    parser.add_argument("--delay", type=float, default=2.0, help="seconds between requests")
+    parser.add_argument("--delay", type=float, default=2.0, help="seconds between request submissions")
     parser.add_argument("--provider", choices=["fal", "gemini"], help="force a provider")
+    parser.add_argument("--workers", type=int, default=1, help="concurrent generations")
     args = parser.parse_args()
 
     provider, api_key = find_provider(args.provider)
-    print(f"provider: {provider}")
+    print(f"provider: {provider} | workers: {args.workers}", flush=True)
     prompts: dict = json.loads(PROMPTS.read_text(encoding="utf-8"))
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -180,19 +183,36 @@ def main() -> None:
     if args.limit:
         todo = todo[: args.limit]
 
-    print(f"{len(todo)} images to generate ({len(prompts)} prompts total)")
+    print(f"{len(todo)} images to generate ({len(prompts)} prompts total)", flush=True)
     generated, failed = 0, []
-    for index, (slug, spec, out_path) in enumerate(todo, 1):
-        print(f"[{index}/{len(todo)}] {slug}")
+    progress_lock = threading.Lock()
+
+    def worker(job: tuple) -> tuple[str, str | None]:
+        slug, spec, out_path = job
         try:
             raw = generate_image(provider, api_key, spec["prompt"], spec.get("aspect_ratio", "4:3"))
             optimize_and_save(raw, out_path)
-            generated += 1
+            return slug, None
         except Exception as error:  # keep going; report at the end
-            failed.append((slug, str(error)[:150]))
-            print(f"    FAILED: {error}")
-        if index < len(todo):
-            time.sleep(args.delay)
+            return slug, str(error)[:150]
+
+    with ThreadPoolExecutor(max_workers=max(1, args.workers)) as pool:
+        futures = []
+        for job in todo:
+            futures.append(pool.submit(worker, job))
+            time.sleep(args.delay)  # stagger submissions
+        done_count = 0
+        for future in as_completed(futures):
+            slug, error = future.result()
+            with progress_lock:
+                done_count += 1
+                if error:
+                    failed.append((slug, error))
+                    print(f"[{done_count}/{len(todo)}] FAILED {slug}: {error}", flush=True)
+                else:
+                    generated += 1
+                    if done_count % 10 == 0 or done_count == len(todo):
+                        print(f"[{done_count}/{len(todo)}] ok (latest: {slug})", flush=True)
 
     total = rewrite_manifest()
     print(f"\ngenerated {generated}, failed {len(failed)}, manifest now lists {total} photos")
