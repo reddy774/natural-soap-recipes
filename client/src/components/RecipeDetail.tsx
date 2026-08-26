@@ -1,5 +1,5 @@
 import { FavoriteButton } from "@/components/FavoriteButton";
-import { RecipeArt } from "@/components/RecipeArt";
+import { RecipePhoto } from "@/components/RecipePhoto";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -140,7 +140,7 @@ export function RecipeDetail({ recipe, backHref }: RecipeDetailProps) {
           <Card className="border-none shadow-lg bg-card/80 backdrop-blur-md overflow-hidden sticky top-6 rounded-2xl">
             <div className={cn("h-2 w-full", style.bar)} />
             
-            <RecipeArt recipe={recipe} variant="hero" />
+            <RecipePhoto recipe={recipe} variant="hero" />
 
             <CardContent className="p-6 space-y-6">
               <div>
