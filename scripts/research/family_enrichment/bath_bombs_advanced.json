@@ -1,0 +1,23 @@
+{
+  "family": "bath_bombs_advanced",
+  "detection": {
+    "any_of": ["bath bomb"],
+    "category": "Bath Bombs"
+  },
+  "tips": [
+    "To color the water without a tub ring, pair micas or lake dyes with polysorbate 80 — an emulsifier that carries pigment and carrier oils into the bath water instead of letting them pool on top or cling to the tub. Dose poly 80 relative to your oils (commonly about 50-100% of the oil weight). Lakes disperse and tint the water; micas mainly add sparkle and will sink or streak the tub without an emulsifier.",
+    "Scent bath bombs at roughly 2-3% fragrance by weight of the dry mix (about 1 teaspoon / 5 ml per pound) for good scent retention, and always confirm the fragrance's own bath-product safe usage cap. Vanillin-containing fragrances discolor bombs too — often weeks or months later — so use clear, vanilla-free fragrances for white or pastel designs.",
+    "For layered and embed designs, keep the whole batch at an even 'wet sand' consistency built on the standard 2:1 baking soda to citric acid base: a too-dry mix makes layers crumble apart at the seams, while a too-wet mix starts fizzing prematurely and expands or cracks the bomb in the mold. Pack each layer firmly before adding the next.",
+    "Polysorbate 80 alone produces very little foam — for a foaming bath bomb add SLSA (sodium lauryl sulfoacetate), a mild powdered surfactant that creates real suds on top of the fizz. Wear a dust mask when handling SLSA powder.",
+    "Humidity is the main enemy in storage: dry finished bombs with a fan or dehumidifier, then wrap each tightly in plastic wrap or shrink wrap, store in an airtight container with a silica packet in a cool, dry spot, and use within 3-6 months. Ambient moisture slowly sets off the fizz reaction and weakens performance."
+  ],
+  "sources": [
+    "https://soapqueen.com/bath-and-body-tutorials/bath-bomb-questions-answers/",
+    "https://soapqueen.com/magicpod/store-handmade-bath-products/",
+    "https://soapqueen.com/bath-and-body-tutorials/relaxing-lavender-bath-bombs/",
+    "https://diybeautybase.com/polysorbate-80-bath-bombs/",
+    "https://www.bathfizzandfoam.com/colorants-for-bath-bombs-and-solid-bubble-bath/",
+    "https://www.wholesalesuppliesplus.com/blogs/articles/formulating-perfect-bath-bombs",
+    "https://www.youtube.com/watch?v=Ew6bSlrkqPY"
+  ]
+}

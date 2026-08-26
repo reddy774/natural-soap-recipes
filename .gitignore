@@ -104,3 +104,7 @@ temp/
 *.db
 *.sqlite
 *.sqlite3
+__pycache__/
+scripts/research/_v2_recipes_raw.json
+scripts/research/_v2_documentation.md
+scripts/research/shards/

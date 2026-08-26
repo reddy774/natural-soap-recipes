@@ -1,0 +1,30 @@
+{
+  "family": "mint_herbal",
+  "detection": {
+    "any_of": [
+      "peppermint",
+      "spearmint",
+      "mint",
+      "menthol",
+      "eucalyptus",
+      "rosemary",
+      "sage",
+      "tea tree",
+      "basil",
+      "herbal"
+    ]
+  },
+  "tips": [
+    "Lovely Greens caps peppermint essential oil at 2% of the recipe by weight, about 0.32 oz (9 g, roughly 2 tsp) per pound (454 g) of oils. Its menthol genuinely triggers cold receptors in the skin, so the lather feels cooling: keep peppermint bars away from eyes and sensitive areas, and go easy on the rate for face or kids' soap. Spearmint's limit is far lower, 0.25%, because of its carvone content.",
+    "Eucalyptus, tea tree, and rosemary essential oils can each be used at up to about 3% (0.48 oz / 13.6 g per pound of oils). When blending several herbal oils in one bar, calculate each oil's share so the combined total stays within the limits.",
+    "Skip sage essential oil in soap. The Nerdy Farm Wife excludes it from her soapmaking chart because of its many safety warnings and contraindications; clary sage (usable around 3%, 13 g per pound of oils) or a rosemary-herbal blend gives a similar note safely.",
+    "Add dried herbs fully dried and finely pulsed; the mint from a plain tea bag works perfectly. The specks decorate rather than scent the bar, and over time each fleck develops a small golden halo as its tea seeps into the surrounding soap, a signature look of herbal tea soaps."
+  ],
+  "sources": [
+    "https://lovelygreens.com/natural-peppermint-soap-recipe/",
+    "https://lovelygreens.com/make-soap-with-essential-oils/",
+    "https://thenerdyfarmwife.com/essential-oils-for-soapmaking-chart/",
+    "https://soapqueen.com/bramble-berry-news/sunday-night-spotlight-peppermint-essential-oil/",
+    "https://www.youtube.com/watch?v=wsiNJfjmspY"
+  ]
+}

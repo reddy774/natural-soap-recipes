@@ -1,0 +1,19 @@
+{
+  "family": "wood_resin",
+  "detection": {
+    "any_of": ["cedarwood", "cedar", "sandalwood", "patchouli", "frankincense", "myrrh", "vetiver", "oakmoss", "pine", "fir", "juniper", "woodsy"]
+  },
+  "tips": [
+    "Patchouli and cedarwood are true base notes that survive saponification and the cure far better than citrus or floral tops — build wood blends around them as the anchor. Lovely Greens' safety-assessed maximum for both is 3% of the recipe by weight (about 0.48 oz / 13.6 g per pound of oils).",
+    "Patchouli genuinely improves with age: its main constituent patchoulol slowly oxidizes, so the oil — and soap scented with it — deepens and mellows over months. Buy or set aside aged patchouli when you can, and store the oil in amber glass, cool and dark, to steer that aging in the right direction.",
+    "True sandalwood (Santalum) essential oil is extremely expensive and sustainability-constrained from over-harvesting, so most soapmakers use a sandalwood fragrance oil or a nature-identical blend instead. Sandalwood powder is best treated as a natural tan-to-reddish colorant additive in cold process soap, not as a reliable scent source.",
+    "Atlas cedarwood (max 3%, base note) blends especially well with bergamot, juniper, lavender, rose, and rosemary — use it to fix those faster-fading middle and top notes so the finished bar still smells balanced after a full cure."
+  ],
+  "sources": [
+    "https://lovelygreens.com/make-soap-with-essential-oils/",
+    "https://humblebrands.com/blogs/humble-journal/patchouli-stinks-or-does-it",
+    "https://rusticwise.com/sandalwood-soap-benefits/",
+    "https://www.humblebeeandme.com/jasmine-lavender-and-sandalwood-soap/",
+    "https://www.youtube.com/watch?v=Vks6bDyGucA"
+  ]
+}

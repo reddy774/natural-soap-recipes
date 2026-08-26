@@ -1,0 +1,33 @@
+{
+  "family": "floral",
+  "detection": {
+    "any_of": [
+      "lavender",
+      "jasmine",
+      "ylang",
+      "chamomile",
+      "rose petal",
+      "rose petals",
+      "rose geranium",
+      "rose absolute",
+      "rosewater",
+      "rose water",
+      "geranium",
+      "floral"
+    ]
+  },
+  "tips": [
+    "Lavender is the workhorse floral essential oil: it survives saponification well and The Nerdy Farm Wife's chart works with about 23 g (0.8 oz) of lavender essential oil per pound (454 g) of oils, one of the more generous floral rates.",
+    "For ylang ylang, use grade II or III in soap. The premium grades (Super Extra, Extra, I) are reserved for perfumery because their allergen levels force very low usage rates; ylang ylang II/III can be used at up to 3%, about 0.48 oz (13.6 g) per pound of oils.",
+    "Dried lavender buds and rose petals turn brown wherever they touch the alkaline soap batter; calendula is the notable exception that stays golden. To decorate with buds anyway, unmold after 24-48 hours, mist the tops with rubbing alcohol, sprinkle the buds on, and mist again so they stick. The color then holds for weeks to months instead of browning immediately.",
+    "Floral fragrance oils (rose and jasmine types especially) are prone to accelerating trace. Work at light trace with slow-moving liquid oils such as olive or sweet almond, soap on the cooler side, add the fragrance last, and stir it in by hand with a whisk rather than stick-blending.",
+    "Lavender-infused oil or a lavender flower tea used as the lye water are traditional ways to add botanicals to floral soap, but they contribute little scent, so the fragrance itself still needs to come from essential oil."
+  ],
+  "sources": [
+    "https://lovelygreens.com/simple-lavender-soap-recipe/",
+    "https://lovelygreens.com/make-soap-with-essential-oils/",
+    "https://thenerdyfarmwife.com/essential-oils-for-soapmaking-chart/",
+    "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/how-to-work-with-accelerating-fragrance-oils/",
+    "https://www.youtube.com/watch?v=s37ZY6yDWdE"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "family": "scrubs_advanced",
+  "detection": {
+    "any_of": ["scrub"],
+    "category": "Scrubs"
+  },
+  "tips": [
+    "Never use crushed walnut shell (or other crushed nut shells) in a facial scrub — the shells fracture into jagged, serrated-edged shards that can cause micro-tears in skin. For the face choose round, smooth particles instead: spherical jojoba beads or fine sugar, which have rounded edges and dissolve or deform under pressure.",
+    "Emulsified scrubs (made with emulsifying wax) turn into a lotion-like layer and rinse clean with water; plain oil-and-sugar scrubs leave an oil film behind. Either way, always warn users that oil-based scrubs make the tub or shower floor dangerously slippery both during use and until the residue is cleaned off.",
+    "Any scrub used in the shower or dipped into with wet hands will get water in the jar, so it needs a broad-spectrum preservative: liquid Germall Plus at 0.1-0.5% (0.5% is the standard choice for scrubs) or Optiphen at 0.75-1.5% of total weight. Note Optiphen Plus is water-soluble and hard to incorporate into anhydrous scrubs — for purely oil-based formulas an oil-soluble preservative like Phenonip is the better fit.",
+    "Scrubs containing fresh, non-dehydrated ingredients (citrus peel or zest, fresh herbs, used coffee grounds) last only about 1-2 weeks even refrigerated — make small batches and store them in the fridge. By contrast, a plain sugar- or salt-plus-oil scrub keeps for months at room temperature and longer refrigerated, provided no water or wet fingers contaminate the jar."
+  ],
+  "sources": [
+    "https://www.humblebeeandme.com/faqs/what-exfoliants-can-i-use-in-my-formulations/",
+    "https://blog.reneerouleau.com/jojoba-beads-gentle-face-scrub/",
+    "https://www.wholesalesuppliesplus.com/blogs/articles/tips-for-formulating-emulsified-sugar-scrubs",
+    "https://soapqueen.com/bath-and-body-tutorials/lotion/talk-it-out-tuesday-preservatives/",
+    "https://www.bathfizzandfoam.com/preservatives-for-cosmetics-making-the-choice/",
+    "https://scrubinspired.ca/pages/scrub-shelf-life",
+    "https://www.youtube.com/watch?v=qdtTwSL4cB8"
+  ]
+}

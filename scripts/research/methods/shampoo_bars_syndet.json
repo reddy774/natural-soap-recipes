@@ -1,0 +1,99 @@
+{
+  "equipment": [
+    "Accurate digital scale that reads to 0.1 g (surfactant and preservative amounts are small and must be precise)",
+    "Small saucepan for a water bath, filled with about 3 cm (1 inch) of water",
+    "Heat-resistant glass measuring cups (one for the surfactant phase, one for the oil phase)",
+    "Fine-particle dust mask or respirator for handling powdered surfactants",
+    "Sturdy silicone spatula and a fork or sturdy spoon for mashing the thick paste",
+    "Silicone mold, round bath-bomb mold, or a manual bar press for shaping",
+    "Nitrile gloves for kneading and pressing the warm dough",
+    "pH strips (optional but useful to confirm the finished bar is roughly pH 5-6, hair-friendly)",
+    "Parchment paper and a drying rack for the hardening period"
+  ],
+  "safety": [
+    "Wear a dust mask whenever you handle powdered or noodle surfactants such as SCI or SLSa - airborne surfactant dust is very irritating to the lungs (Humblebee & Me instructs putting the mask on before weighing).",
+    "Work in a ventilated space and avoid stirring powders vigorously while dry.",
+    "A broad-spectrum preservative is required because the bar lives in a wet shower environment: Humblebee & Me uses 0.5% Liquid Germall Plus in both the Snowflake and Mango Mango bars.",
+    "Liquid Germall Plus is heat-sensitive, so only add it once the mixture has cooled below 50 C (122 F).",
+    "Respect supplier maximum-usage rates for fragrance or essential oils in rinse-off hair products (about 1% fragrance in the Mango Mango bar); never exceed IFRA limits.",
+    "The melted surfactant paste is very hot after an hour over a water bath - handle the glass cup with a dry towel and let the mash cool until comfortable to touch before hand-shaping.",
+    "These bars are pH-balanced and lye-free, which is exactly why they should NOT be confused with soap: do not add lye, and do not sell them as 'soap'."
+  ],
+  "phases": [
+    {
+      "title": "Phase 1 - Formula and prep",
+      "steps": [
+        "Work from a balanced syndet formula: Humblebee & Me's Snowflake Shampoo Bar (about 100 g) uses 30 g Sodium Cocoyl Isethionate (SCI), 25 g Sodium Coco Sulfate, and 20 g Cocamidopropyl Betaine as the surfactant core, with 10 g tucuma (or other) butter, 8 g BTMS-50, 3.5 g cetyl alcohol, 2 g stearic acid, and 0.5 g Liquid Germall Plus.",
+        "As a rule of thumb, solid surfactants make up roughly 60-75% of a syndet bar, hardening fats/waxes (BTMS-50, cetyl alcohol, stearic acid, butter) 20-30%, and the cool-down phase (fragrance, preservative, extras) the remainder.",
+        "Put on your dust mask before opening any surfactant container, then weigh every ingredient with a 0.1 g scale.",
+        "Bring about 3 cm (1 inch) of water to a bare simmer over low to medium-low heat in a small saucepan - this gentle water bath is your only heat source."
+      ]
+    },
+    {
+      "title": "Phase 2 - Melt the surfactant phase",
+      "steps": [
+        "Weigh the SCI and Cocamidopropyl Betaine into a small heat-resistant glass measuring cup.",
+        "Set the cup in the simmering water bath and let it melt slowly; Humblebee & Me reports this typically takes up to an hour.",
+        "Stir occasionally and stop when you have a smooth, uniform white paste with no gritty SCI granules remaining - SCI alone melts poorly, which is why it is always melted together with the liquid betaine."
+      ]
+    },
+    {
+      "title": "Phase 3 - Melt the oil / conditioning phase",
+      "steps": [
+        "Weigh the butter, BTMS-50, stearic acid, and cetyl alcohol into a second heat-resistant glass measuring cup.",
+        "Place that cup in the same water bath and melt everything through completely; BTMS-50 and cetyl alcohol are fully fluid by about 70-75 C, so a barely simmering bath is plenty.",
+        "Remove both cups from the heat once each phase is uniform and liquid/paste-smooth."
+      ]
+    },
+    {
+      "title": "Phase 4 - Combine, mash, and cool",
+      "steps": [
+        "Pour the melted oil phase into the surfactant paste and mash and fold everything together with a fork or spatula until it forms one uniform, dough-like mass (Humblebee & Me calls this the 'surfactant mash').",
+        "Keep working the mash until it cools; by the time it is evenly combined it should be below 50 C (122 F) - if it still feels hot to the touch, wait before continuing.",
+        "Once cool to the touch, add the fragrance or essential oil (about 1% for rinse-off hair products) and the 0.5% broad-spectrum preservative, and knead them in thoroughly so they are evenly distributed."
+      ]
+    },
+    {
+      "title": "Phase 5 - Press and mold",
+      "steps": [
+        "While the dough is still warm and pliable, firmly press it into a silicone cavity mold, packing in small amounts at a time to eliminate air pockets, or shape it by hand into a puck wearing gloves.",
+        "For a professional finish, use a manual bar press or smoosh the dough between the two halves of a bath-bomb mold under strong, even pressure; Humblebee & Me notes bars can be hand-shaped, smooshed into a cavity mould, or pressed with a hand press or powered press.",
+        "Unmold gently as soon as the bar is cool and firm enough to hold its shape."
+      ]
+    },
+    {
+      "title": "Phase 6 - Harden and dry",
+      "steps": [
+        "Set the bars on parchment or a rack in a cool, dry spot with air circulation.",
+        "Let them harden and dry for at least 24-48 hours before first use; Humblebee & Me's pressed Creamy French bars rest 3 to 4 days for best hardness and longevity.",
+        "The bar is ready when it feels hard and dry all over and no longer dents under firm thumb pressure."
+      ]
+    }
+  ],
+  "finishing": [
+    "Store finished bars in a cool, dry place; between showers keep the bar on a draining dish or ledge out of the water stream so it dries fully.",
+    "Properly preserved syndet bars typically keep 12 months or more - the limiting factor is usually the shelf life of the softest oil in the formula.",
+    "To use, swipe the bar directly over wet hair 3-4 times or lather in hands, massage into the scalp, and rinse; no vinegar rinse is needed because the bar is already pH-balanced.",
+    "Wrap gift or sale bars in wax paper or store them in tins only after they are fully dry, and label with ingredients (INCI names) and the preservative used.",
+    "Wipe equipment clean while warm - hardened surfactant paste is tedious to remove once cooled."
+  ],
+  "tips": [
+    "SCI ('baby foam') is the gentlest workhorse solid surfactant - pairing it with liquid Cocamidopropyl Betaine both mellows the blend further and makes melting possible.",
+    "BTMS-50 in a shampoo bar (about 8% in the Snowflake bar) does double duty as hardener and conditioning agent, leaving hair combable straight out of the shower.",
+    "If the mash cools and stiffens before you finish molding, return it to the water bath for a minute or two to re-soften - it is very forgiving.",
+    "Weigh preservative and fragrance to 0.1 g accuracy; at 0.5% and 1% of a 100 g batch, kitchen-teaspoon guessing ruins the formula.",
+    "A syndet bar is the right recommendation for hard-water areas and color-treated hair, where lye-soap shampoo bars leave scum and lift the cuticle."
+  ],
+  "mistakes": [
+    "Skipping the dust mask when weighing powdered SCI or SLSa - inhaled surfactant dust causes coughing fits and lung irritation.",
+    "Trying to melt SCI on its own or over direct heat: it scorches instead of melting; always combine it with the liquid surfactant over a gentle water bath.",
+    "Adding Liquid Germall Plus or fragrance while the mash is above 50 C, which degrades the preservative and flashes off the scent.",
+    "Skipping the preservative entirely 'because it is natural' - a bar that sits in a humid shower will grow mold and bacteria without one.",
+    "Using the bar (or packaging it) before the 24-48 hour hardening period, which produces a soft bar that dissolves in a week."
+  ],
+  "sources": [
+    "https://www.humblebeeandme.com/snowflake-shampoo-bar/",
+    "https://www.humblebeeandme.com/mango-mango-shampoo-bar/",
+    "https://www.humblebeeandme.com/creamy-french-shampoo-bar/"
+  ]
+}

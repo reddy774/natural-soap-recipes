@@ -1,0 +1,29 @@
+{
+  "family": "honey_sugar",
+  "detection": {
+    "any_of": [
+      "honey",
+      "maple syrup",
+      "molasses",
+      "brown sugar",
+      "cane sugar",
+      "agave syrup",
+      "agave nectar",
+      "golden syrup",
+      "beeswax"
+    ]
+  },
+  "tips": [
+    "Honey, maple syrup, and molasses all add extra sugar, and sugar makes cold-process soap heat up sharply in the mold. Too much can crack the top, caramelize the center to a deep brown, accelerate trace, or in extreme cases cause a soap volcano.",
+    "Keep honey to roughly 1 teaspoon per pound of oils (Soap Queen's recommended rate); treat about 1 tablespoon per pound as an absolute ceiling. In Soap Queen's side-by-side test, a loaf with too much honey still partially gelled in the center even after a full night in the freezer.",
+    "Dilute honey in a small amount of warm distilled water so it disperses evenly, then mix it in at light trace rather than into hot lye solution.",
+    "Do not insulate a honey or sugar-additive soap. Soap at cooler temperatures (about 100-110 degrees F or below) and place the poured mold in the fridge or freezer for the first 24 hours to keep the color light and prevent overheating.",
+    "Expect faster trace and a shorter working window with any sugar additive, so save complicated swirl designs for sugar-free batches or work with a slow-moving recipe."
+  ],
+  "sources": [
+    "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/adding-honey-to-cold-process-soap-tips-tricks-recipe/",
+    "https://soapqueen.com/bath-and-body-tutorials/pure-honey-cold-process-soap-tutorial/",
+    "https://lovelygreens.com/honey-lavender-soap-recipe/",
+    "https://www.youtube.com/watch?v=fKbikqwV_bg"
+  ]
+}

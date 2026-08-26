@@ -1,90 +1,99 @@
+import { FavoriteButton } from "@/components/FavoriteButton";
+import { RecipePhoto } from "@/components/RecipePhoto";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
-import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
-import { ExternalLink, Thermometer, Sun } from "lucide-react";
-
-interface Recipe {
-  name: string;
-  type: string;
-  ingredients: string[] | string;
-  instructions: string;
-  source_url: string;
-}
+import { getCategoryStyle } from "@/lib/categories";
+import type { FlatRecipe } from "@/lib/recipes";
+import { cn } from "@/lib/utils";
+import { ArrowRight, Leaf } from "lucide-react";
+import { Link } from "wouter";
 
 interface RecipeCardProps {
-  recipe: Recipe;
+  recipe: FlatRecipe;
+  /** Internal link target, e.g. /recipe/lavender-soap?tab=cold-process */
+  href: string;
 }
 
-export function RecipeCard({ recipe }: RecipeCardProps) {
-  const isHotProcess = recipe.type === "Hot Process";
+function ingredientPreview(recipe: FlatRecipe): string[] {
+  if (Array.isArray(recipe.ingredients)) return recipe.ingredients;
+  return recipe.ingredients
+    .split(/,|\n/)
+    .map((item) => item.trim())
+    .filter(Boolean);
+}
+
+export function RecipeCard({ recipe, href }: RecipeCardProps) {
+  const style = getCategoryStyle(recipe.category);
+  const ingredients = ingredientPreview(recipe);
 
   return (
-    <Card className="h-full flex flex-col overflow-hidden border-none shadow-md hover:shadow-lg transition-all duration-300 bg-card/50 backdrop-blur-sm group">
-      <div className={`h-2 w-full ${isHotProcess ? "bg-orange-400/70" : "bg-primary/70"}`} />
-      
-      <CardHeader className="pb-2">
-        <div className="flex justify-between items-start gap-4">
-          <CardTitle className="text-xl font-serif leading-tight text-foreground/90 group-hover:text-primary transition-colors">
+    <Link
+      href={href}
+      className="group block h-full rounded-2xl focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-ring"
+      aria-label={`View recipe: ${recipe.name}`}
+    >
+      <Card className="card-lift relative flex h-full flex-col overflow-hidden rounded-2xl border-border/60 bg-card shadow-sm">
+        <div className={cn("h-1.5 w-full", style.bar)} />
+
+        <RecipePhoto recipe={recipe} variant="card" />
+
+        <FavoriteButton
+          slug={recipe.slug}
+          className="absolute right-2.5 top-4 z-10"
+        />
+
+        <CardHeader className="pb-2 pr-14">
+          <CardTitle className="font-serif text-xl leading-tight text-foreground/90 transition-colors group-hover:text-primary">
             {recipe.name}
           </CardTitle>
-          <Badge 
-            variant="outline" 
-            className={`${isHotProcess ? "text-orange-600 border-orange-200 bg-orange-50" : "text-primary border-primary/20 bg-primary/5"} whitespace-nowrap`}
+          <Badge
+            variant="outline"
+            className={cn("mt-2 w-fit whitespace-nowrap", style.badge)}
           >
-            {isHotProcess ? <Sun className="w-3 h-3 mr-1" /> : <Thermometer className="w-3 h-3 mr-1" />}
-            {recipe.type}
+            <Leaf className="mr-1 h-3 w-3" />
+            {recipe.category}
           </Badge>
-        </div>
-      </CardHeader>
-      
-      <CardContent className="flex-grow flex flex-col gap-4 pb-4">
-        <div className="space-y-2">
-          <h4 className="text-sm font-bold uppercase tracking-wider text-muted-foreground text-xs">Ingredients</h4>
-          <ul className="text-sm space-y-1 text-foreground/80 pl-2 border-l-2 border-muted">
-            {Array.isArray(recipe.ingredients) ? (
-              <>
-                {recipe.ingredients.slice(0, 5).map((ing, i) => (
-                  <li key={i} className="line-clamp-1">{ing}</li>
-                ))}
-                {recipe.ingredients.length > 5 && (
-                  <li className="text-xs text-muted-foreground italic pt-1">
-                    +{recipe.ingredients.length - 5} more ingredients...
-                  </li>
-                )}
-              </>
-            ) : (
-              // Handle string ingredients (split by comma or newlines if possible, or just show)
-              typeof recipe.ingredients === 'string' && recipe.ingredients.split(/,|\n/).slice(0, 5).map((ing, i) => (
-                 <li key={i} className="line-clamp-1">{ing.trim()}</li>
-              ))
-            )}
-          </ul>
-        </div>
-        
-        <Separator className="bg-border/50" />
-        
-        <div className="space-y-2 flex-grow">
-          <h4 className="text-sm font-bold uppercase tracking-wider text-muted-foreground text-xs">Method</h4>
-          <p className="text-sm text-foreground/70 line-clamp-4 leading-relaxed">
-            {recipe.instructions}
-          </p>
-        </div>
-      </CardContent>
-      
-      <CardFooter className="pt-0 pb-4">
-        <Button 
-          variant="ghost" 
-          className="w-full justify-between text-primary hover:text-primary hover:bg-primary/5 group/btn"
-          asChild
-        >
-          <a href={recipe.source_url} target="_blank" rel="noopener noreferrer">
-            <span className="font-serif italic">View Full Recipe</span>
-            <ExternalLink className="w-4 h-4 opacity-50 group-hover/btn:opacity-100 transition-opacity" />
-          </a>
-        </Button>
-      </CardFooter>
-    </Card>
+        </CardHeader>
+
+        <CardContent className="flex flex-grow flex-col gap-4 pb-4">
+          <div className="space-y-2">
+            <h4 className="text-xs font-bold uppercase tracking-wider text-muted-foreground">
+              Ingredients
+            </h4>
+            <ul className="space-y-1 border-l-2 border-accent pl-3 text-sm text-foreground/80">
+              {ingredients.slice(0, 5).map((ingredient, index) => (
+                <li key={index} className="line-clamp-1">
+                  {ingredient}
+                </li>
+              ))}
+              {ingredients.length > 5 && (
+                <li className="pt-1 text-xs italic text-muted-foreground">
+                  +{ingredients.length - 5} more ingredients...
+                </li>
+              )}
+            </ul>
+          </div>
+
+          <Separator className="bg-border/50" />
+
+          <div className="flex-grow space-y-2">
+            <h4 className="text-xs font-bold uppercase tracking-wider text-muted-foreground">
+              Method
+            </h4>
+            <p className="line-clamp-3 text-sm leading-relaxed text-foreground/70">
+              {recipe.instructions}
+            </p>
+          </div>
+        </CardContent>
+
+        <CardFooter className="pb-5 pt-0">
+          <span className="flex w-full items-center justify-between text-sm text-primary">
+            <span className="font-serif italic">Read the recipe</span>
+            <ArrowRight className="h-4 w-4 opacity-50 transition-all duration-300 group-hover:translate-x-1 group-hover:opacity-100" />
+          </span>
+        </CardFooter>
+      </Card>
+    </Link>
   );
 }
