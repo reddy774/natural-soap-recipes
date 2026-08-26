@@ -1,12 +1,11 @@
 import { FavoriteButton } from "@/components/FavoriteButton";
 import { RecipeArt } from "@/components/RecipeArt";
-import { Badge } from "@/components/ui/badge";
-import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardFooter, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { getCategoryStyle } from "@/lib/categories";
 import type { FlatRecipe } from "@/lib/recipes";
 import { cn } from "@/lib/utils";
-import { ArrowRight, Leaf } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import { Link } from "wouter";
 
 interface RecipeCardProps {
@@ -30,35 +29,33 @@ export function RecipeCard({ recipe, href }: RecipeCardProps) {
   return (
     <Link
       href={href}
-      className="group block h-full rounded-2xl focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-ring"
+      className="group block h-full rounded-lg focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-ring"
       aria-label={`View recipe: ${recipe.name}`}
     >
-      <Card className="card-lift relative flex h-full flex-col overflow-hidden rounded-2xl border-border/60 bg-card shadow-sm">
-        <div className={cn("h-1.5 w-full", style.bar)} />
-
+      <Card className="card-lift relative flex h-full flex-col overflow-hidden rounded-lg border-border/60 bg-card shadow-sm">
         <RecipeArt recipe={recipe} variant="card" />
 
         <FavoriteButton
           slug={recipe.slug}
-          className="absolute right-2.5 top-4 z-10"
+          className="absolute right-2.5 top-2.5 z-20"
         />
 
-        <CardHeader className="pb-2 pr-14">
-          <CardTitle className="font-serif text-xl leading-tight text-foreground/90 transition-colors group-hover:text-primary">
-            {recipe.name}
-          </CardTitle>
-          <Badge
-            variant="outline"
-            className={cn("mt-2 w-fit whitespace-nowrap", style.badge)}
-          >
-            <Leaf className="mr-1 h-3 w-3" />
-            {recipe.category}
-          </Badge>
-        </CardHeader>
+        {/* Label band — the paper band around a wrapped bar of soap */}
+        <div className="relative z-10 -mt-7 mx-3 flex items-stretch overflow-hidden rounded-sm border border-border/70 bg-card shadow-sm">
+          <div className={cn("w-1.5 shrink-0", style.bar)} aria-hidden="true" />
+          <div className="min-w-0 px-3.5 py-2.5">
+            <CardTitle className="font-serif text-lg leading-snug text-foreground transition-colors group-hover:text-primary">
+              {recipe.name}
+            </CardTitle>
+            <p className="mt-1 font-mono text-[0.65rem] font-medium uppercase tracking-[0.16em] text-muted-foreground">
+              {recipe.category}
+            </p>
+          </div>
+        </div>
 
-        <CardContent className="flex flex-grow flex-col gap-4 pb-4">
+        <CardContent className="flex flex-grow flex-col gap-4 px-4 pb-4 pt-4">
           <div className="space-y-2">
-            <h4 className="text-xs font-bold uppercase tracking-wider text-muted-foreground">
+            <h4 className="font-mono text-[0.65rem] font-medium uppercase tracking-[0.16em] text-muted-foreground">
               Ingredients
             </h4>
             <ul className="space-y-1 border-l-2 border-accent pl-3 text-sm text-foreground/80">
@@ -68,8 +65,8 @@ export function RecipeCard({ recipe, href }: RecipeCardProps) {
                 </li>
               ))}
               {ingredients.length > 5 && (
-                <li className="pt-1 text-xs italic text-muted-foreground">
-                  +{ingredients.length - 5} more ingredients...
+                <li className="pt-1 font-hand text-xs text-muted-foreground">
+                  +{ingredients.length - 5} more ingredients
                 </li>
               )}
             </ul>
@@ -78,7 +75,7 @@ export function RecipeCard({ recipe, href }: RecipeCardProps) {
           <Separator className="bg-border/50" />
 
           <div className="flex-grow space-y-2">
-            <h4 className="text-xs font-bold uppercase tracking-wider text-muted-foreground">
+            <h4 className="font-mono text-[0.65rem] font-medium uppercase tracking-[0.16em] text-muted-foreground">
               Method
             </h4>
             <p className="line-clamp-3 text-sm leading-relaxed text-foreground/70">
@@ -87,9 +84,9 @@ export function RecipeCard({ recipe, href }: RecipeCardProps) {
           </div>
         </CardContent>
 
-        <CardFooter className="pb-5 pt-0">
+        <CardFooter className="px-4 pb-5 pt-0">
           <span className="flex w-full items-center justify-between text-sm text-primary">
-            <span className="font-serif italic">Read the recipe</span>
+            <span className="font-hand text-base">Read the recipe</span>
             <ArrowRight className="h-4 w-4 opacity-50 transition-all duration-300 group-hover:translate-x-1 group-hover:opacity-100" />
           </span>
         </CardFooter>

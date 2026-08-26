@@ -54,52 +54,56 @@
   --font-sans: var(--font-body);
   --font-serif: var(--font-heading);
   --font-hand: var(--font-accent);
+  --font-mono: var(--font-data);
 }
 
 :root {
-  /* Botanical Minimalism / Modern Apothecary Theme */
+  /* The Maker's Bench — soap workshop, not soap boutique.
+     Milk-glass ground, olive ink, bottle-green primary, calendula gold data
+     accents. Numbers set in mono: soap is weighed, never measured. */
 
   /* Typography */
-  --font-body: "Nunito", ui-sans-serif, system-ui, sans-serif;
-  --font-heading: "Playfair Display", ui-serif, Georgia, serif;
-  --font-accent: "Caveat", cursive;
+  --font-body: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-accent: "Newsreader", ui-serif, Georgia, serif;
+  --font-data: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
 
-  /* Primary: Deep Earthy Green (Sage/Olive) */
-  --primary: oklch(0.44 0.08 132);
-  --primary-foreground: oklch(0.98 0.015 95);
+  /* Primary: Bottle Green (olive-oil glass) */
+  --primary: oklch(0.40 0.09 140);
+  --primary-foreground: oklch(0.975 0.008 120);
 
-  /* Secondary: Soft Muted Lavender */
-  --secondary: oklch(0.87 0.045 300);
-  --secondary-foreground: oklch(0.32 0.06 300);
+  /* Secondary: Greyed Lavender (dried bud, not candy) */
+  --secondary: oklch(0.88 0.03 300);
+  --secondary-foreground: oklch(0.33 0.05 300);
 
-  /* Background: Warm Off-White (Cream/Alabaster) */
-  --background: oklch(0.977 0.012 85);
-  --foreground: oklch(0.28 0.03 110);
+  /* Background: Milk Glass (cool green-white — deliberately not cream) */
+  --background: oklch(0.972 0.008 120);
+  --foreground: oklch(0.25 0.045 125);
 
-  /* Card: Lighter cream, like a fresh bar of soap */
-  --card: oklch(0.99 0.008 90);
-  --card-foreground: oklch(0.28 0.03 110);
+  /* Card: Label Paper */
+  --card: oklch(0.99 0.004 120);
+  --card-foreground: oklch(0.25 0.045 125);
 
   /* Popover */
-  --popover: oklch(0.99 0.008 90);
-  --popover-foreground: oklch(0.28 0.03 110);
+  --popover: oklch(0.99 0.004 120);
+  --popover-foreground: oklch(0.25 0.045 125);
 
-  /* Muted: Warm parchment */
-  --muted: oklch(0.945 0.015 95);
-  --muted-foreground: oklch(0.48 0.03 110);
+  /* Muted: Rinsed linen */
+  --muted: oklch(0.938 0.012 130);
+  --muted-foreground: oklch(0.46 0.035 130);
 
-  /* Accent: Soft sage wash */
-  --accent: oklch(0.93 0.025 130);
-  --accent-foreground: oklch(0.35 0.06 132);
+  /* Accent: Calendula Gold wash (the petal that keeps its color in CP soap) */
+  --accent: oklch(0.92 0.055 85);
+  --accent-foreground: oklch(0.42 0.09 75);
 
-  /* Destructive: Muted Rust */
-  --destructive: oklch(0.55 0.15 30);
+  /* Destructive: Lye-caution red-brown */
+  --destructive: oklch(0.52 0.16 30);
   --destructive-foreground: oklch(0.98 0.01 30);
 
   /* Border & Input */
-  --border: oklch(0.89 0.02 95);
-  --input: oklch(0.89 0.02 95);
-  --ring: oklch(0.44 0.08 132);
+  --border: oklch(0.885 0.015 125);
+  --input: oklch(0.885 0.015 125);
+  --ring: oklch(0.40 0.09 140);
 
   /* Botanical accents (ingredient-derived, AA-contrast on cream) */
   --sage: oklch(0.44 0.08 132);       /* sage leaf */
@@ -117,7 +121,7 @@
   --chart-4: oklch(0.8 0.1 50);  /* Clay */
   --chart-5: oklch(0.5 0.05 200); /* Slate */
 
-  --radius: 1rem; /* Soft, soap-bar corners */
+  --radius: 0.5rem; /* Cut-bar corners — soap is sliced with a wire, not pebble-worn */
 
   --sidebar: oklch(0.97 0.01 90);
   --sidebar-foreground: oklch(0.28 0.03 110);
@@ -130,35 +134,35 @@
 }
 
 .dark {
-  /* Dark Mode: Deep Forest / Night Apothecary */
-  
-  --primary: oklch(0.6 0.1 135); /* Lighter Sage for contrast */
-  --primary-foreground: oklch(0.15 0.02 135);
-  
-  --secondary: oklch(0.3 0.05 300);
+  /* Dark Mode: the bench after hours — bottle-green shadow, calendula lamp */
+
+  --primary: oklch(0.68 0.1 140);
+  --primary-foreground: oklch(0.16 0.03 140);
+
+  --secondary: oklch(0.32 0.04 300);
   --secondary-foreground: oklch(0.9 0.02 300);
-  
-  --background: oklch(0.15 0.02 135); /* Deep Forest Green/Black */
-  --foreground: oklch(0.9 0.02 100);
-  
-  --card: oklch(0.18 0.02 135);
-  --card-foreground: oklch(0.9 0.02 100);
-  
-  --popover: oklch(0.18 0.02 135);
-  --popover-foreground: oklch(0.9 0.02 100);
-  
-  --muted: oklch(0.25 0.03 135);
-  --muted-foreground: oklch(0.7 0.04 135);
-  
-  --accent: oklch(0.25 0.03 135);
-  --accent-foreground: oklch(0.9 0.02 100);
-  
-  --destructive: oklch(0.5 0.15 30);
+
+  --background: oklch(0.165 0.025 140);
+  --foreground: oklch(0.92 0.015 120);
+
+  --card: oklch(0.20 0.025 140);
+  --card-foreground: oklch(0.92 0.015 120);
+
+  --popover: oklch(0.20 0.025 140);
+  --popover-foreground: oklch(0.92 0.015 120);
+
+  --muted: oklch(0.26 0.03 140);
+  --muted-foreground: oklch(0.72 0.03 130);
+
+  --accent: oklch(0.34 0.06 85);
+  --accent-foreground: oklch(0.9 0.08 85);
+
+  --destructive: oklch(0.55 0.16 30);
   --destructive-foreground: oklch(0.98 0.01 30);
-  
-  --border: oklch(0.3 0.02 135);
-  --input: oklch(0.3 0.02 135);
-  --ring: oklch(0.6 0.1 135);
+
+  --border: oklch(0.31 0.025 140);
+  --input: oklch(0.31 0.025 140);
+  --ring: oklch(0.68 0.1 140);
 
   /* Botanical accents — lifted for dark backgrounds */
   --sage: oklch(0.7 0.09 132);
@@ -253,6 +257,21 @@
   }
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-heading);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  /* Editorial accent voice — replaces the old handwriting face */
+  .font-hand {
+    font-style: italic;
+    font-weight: 500;
+  }
+  /* Numbers are data on a maker's bench */
+  .font-mono {
+    font-variant-numeric: tabular-nums;
+  }
+  ::selection {
+    background: oklch(0.88 0.09 85);
+    color: oklch(0.3 0.05 125);
   }
 }
 
