@@ -1,0 +1,33 @@
+{
+  "family": "citrus",
+  "detection": {
+    "any_of": [
+      "lemon",
+      "orange",
+      "lime",
+      "grapefruit",
+      "bergamot",
+      "citrus",
+      "litsea",
+      "may chang",
+      "tangerine",
+      "mandarin",
+      "yuzu",
+      "neroli"
+    ]
+  },
+  "tips": [
+    "Standard cold-pressed lemon and sweet orange essential oils fade quickly in cold process soap. For a citrus scent that survives cure, use folded citrus oils (5x or 10x lemon or orange) and/or anchor the blend with litsea cubeba (may chang) or lemongrass, which keep their sparkling lemony scent long-term.",
+    "Most citrus essential oils (lemon, orange, lime, bergamot, litsea cubeba) have a conservative maximum usage rate of about 3% of the recipe by weight, which works out to roughly 0.48 oz (13.6 g, about 3 tsp) per pound (454 g) of soaping oils.",
+    "Phototoxicity from furanocoumarins in cold-pressed bergamot, lime, and other expressed citrus oils applies to leave-on products in sunlight; in a wash-off product like bar soap the risk is negligible. Bergaptene-free (FCF) bergamot and distilled lemon or lime are non-phototoxic options if you want zero concern.",
+    "The natural sugars in citrus juice can scorch and overheat cold process soap, causing discoloration, heat tunnels, or even a soap volcano. Chill or freeze juice before combining it with lye and soap cool, around 100-110F. Finely ground dried zest is the safer choice: it adds golden speckles and light exfoliation rather than scent.",
+    "Calendula petals are the classic topping and mix-in for citrus bars because they keep their golden yellow-orange color in cold process soap, while most other flower petals fade or turn brown."
+  ],
+  "sources": [
+    "https://lovelygreens.com/make-soap-with-essential-oils/",
+    "https://lovelygreens.com/zesty-citrus-calendula-soap-recipe/",
+    "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/5-tips-for-using-fresh-ingredients-in-soap/",
+    "https://tisserandinstitute.org/phototoxicity-essential-oils-sun-and-safety/",
+    "https://www.youtube.com/watch?v=wFOdi989-aU"
+  ]
+}

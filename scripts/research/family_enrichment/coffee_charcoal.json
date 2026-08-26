@@ -1,0 +1,29 @@
+{
+  "family": "coffee_charcoal",
+  "detection": {
+    "any_of": [
+      "coffee grounds",
+      "ground coffee",
+      "brewed coffee",
+      "coffee soap",
+      "espresso",
+      "activated charcoal",
+      "charcoal powder",
+      "bamboo charcoal",
+      "cocoa powder",
+      "cacao powder"
+    ]
+  },
+  "tips": [
+    "Use USED (already-brewed) coffee grounds, patted dry on a towel, as the exfoliant. Dry, unbrewed grounds can bleed and leave a brown halo of color in the bar. A good starting rate is about 1 teaspoon of grounds per pound of soap, added at trace; increase from there for a scrubbier bar. Grounds are a large, aggressive exfoliant, best for feet, elbows, and gardener bars.",
+    "Strong brewed coffee can replace part or all of the water in the lye solution, but chill it completely (cold or even frozen) before adding lye. Like milk and teas, a warm sugary liquid plus lye heat leads to scorching and off odors; any odd scent in fresh coffee soap fades during cure.",
+    "Activated charcoal dosing (The Nerdy Farm Wife's tested table, per pound of oils): 1/8 to 1/2 tsp gives light-to-medium gray soap with white lather; 1 tsp gives dark gray soap with a faint gray lather; 2 tsp to 1 tablespoon gives black soap but noticeably gray lather that can temporarily mark washcloths and soap dishes. Stay at or below about 1 tsp PPO if white lather matters.",
+    "Cocoa powder: about 1 teaspoon per pound of soap at light trace yields a medium chocolate brown (start at 1/2 tsp PPO and work up). Always sift and pre-disperse it in a little light oil or water because it clumps, and choose Dutch-process cocoa for a darker, richer brown than natural cocoa."
+  ],
+  "sources": [
+    "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/use-tea-coffee-soap/",
+    "https://thenerdyfarmwife.com/charcoal-in-soap/",
+    "https://soapqueen.com/recipes/for-the-love-of-cocoa-powder/",
+    "https://www.youtube.com/watch?v=bLoH94V8xWA"
+  ]
+}

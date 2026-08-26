@@ -1,0 +1,23 @@
+{
+  "family": "spice_vanilla",
+  "detection": {
+    "any_of": ["cinnamon", "clove", "ginger", "nutmeg", "vanilla", "allspice", "cardamom", "pumpkin spice", "chai", "gingerbread"]
+  },
+  "tips": [
+    "Any fragrance containing vanillin will discolor cold process soap from off-white to dark brown over days to weeks — the higher the vanillin percentage, the darker the final bar. Oxidation from light and air drives it, so browning spreads fast once bars are cut. Either choose a vanillin-free fragrance for pale designs or plan the palette around the brown (coffee, chocolate, spice-latte looks).",
+    "Vanilla color stabilizer is only reliable in melt-and-pour soap, used at a 1:1 ratio with the fragrance oil. In cold process its results are inconsistent — it may merely delay browning by a few months — so Soap Queen advises not to rely on it for CP; titanium dioxide can lighten only low-vanillin (tan) discoloration.",
+    "Cinnamon and clove essential oils are potent skin sensitizers with small safe caps: keep cinnamon leaf EO to about 0.5% of soap weight or less (roughly 40 drops per pound of soap; cinnamon bark is even more restricted, about 0.2%), and Soap Queen's blending guide caps clove leaf EO at 1.44 oz per 48 oz of cold process soap. Treat these as hard maximums, not targets.",
+    "Eugenol-rich spice oils (clove, cinnamon leaf) react with lye and accelerate trace. Soap at cool temperatures, add the spice EO at thin trace, use the stick blender only in ~3-second bursts (or hand-whisk to emulsion), and have your mold prepped before pouring.",
+    "For spice character without maxing out EO limits, add ground cinnamon or spice powders for warm natural color and a light scent boost — Lovely Greens' cinnamon soap pairs a conservative cinnamon EO dose with ground cinnamon; use spice powders sparingly since they are mildly exfoliating in the finished bar."
+  ],
+  "sources": [
+    "https://soapqueen.com/magicpod/work-vanilla-discoloration/",
+    "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/why-did-my-soap-turn-brown/",
+    "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/how-to-blend-essential-oils-safely/",
+    "https://lovelygreens.com/make-soap-with-essential-oils/",
+    "https://lovelygreens.com/how-to-make-natural-cinnamon-soap-recipe/",
+    "https://www.ultimateguidetosoap.com/post/cinnamon-essential-oil-in-soap-skincare-products",
+    "https://www.youtube.com/watch?v=dPChX8GwXTs",
+    "https://www.youtube.com/watch?v=QDyJ4HGDXQQ"
+  ]
+}

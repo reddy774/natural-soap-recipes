@@ -1,0 +1,38 @@
+{
+  "family": "salt_fruit",
+  "detection": {
+    "any_of": [
+      "sea salt",
+      "salt bar",
+      "himalayan salt",
+      "himalayan pink salt",
+      "pink salt",
+      "spa bar",
+      "brine soap",
+      "soleseife",
+      "fruit puree",
+      "strawberry puree",
+      "banana puree",
+      "pumpkin puree",
+      "avocado puree",
+      "mango puree",
+      "cucumber puree",
+      "carrot puree",
+      "applesauce",
+      "aloe vera puree"
+    ]
+  },
+  "tips": [
+    "Formulate salt bars with 50-100% of the oil weight in fine-grain sea salt (beginners start at 50%) and a coconut-oil-heavy base with a high superfat, because salt suppresses lather; Soap Queen's salt bar runs 50% coconut oil and many formulas go 80-100% coconut with 15-20% superfat.",
+    "Cut salt bars EARLY, in hours not days: salt makes the batter harden extremely fast, so a loaf must be unmolded and cut as soon as it is firm, roughly 1-6 hours after pouring depending on the recipe. Wait overnight and the loaf crumbles when cut. Individual cavity molds sidestep the timing problem entirely.",
+    "Use plain fine sea salt or Himalayan pink salt, not Dead Sea salt or Epsom salt. Dead Sea salt's very high mineral content is strongly hygroscopic, pulling moisture from the air and producing weepy, sweaty, soft bars.",
+    "Add fruit or vegetable purees at thin trace. Sugary purees (strawberry, banana, mango) speed up trace and heat the soap, so soap at cooler temperatures, skip insulation, and refrigerate or freeze the mold after pouring, since overheated sugar can crack, volcano, or caramelize the bar to a dull brown.",
+    "Take a water discount to offset the liquid the puree carries (especially if you blended it with added water): excess liquid causes glycerin rivers, soft bars, and longer unmolding times. Use only additive-free purees, never store products with added sugar, thickeners, or preservatives."
+  ],
+  "sources": [
+    "https://soapqueen.com/bath-and-body-tutorials/cold-process-soap/lavender-and-rose-pink-salt-bars-diy/",
+    "https://lovinsoap.com/2015/09/how-to-formulate-soap-salt-bars/",
+    "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/how-to-add-purees-to-cold-process-soap/",
+    "https://www.youtube.com/watch?v=SVaK5sm0jmc"
+  ]
+}

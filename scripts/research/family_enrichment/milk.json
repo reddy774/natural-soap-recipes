@@ -1,0 +1,39 @@
+{
+  "family": "milk",
+  "detection": {
+    "any_of": [
+      "goat milk",
+      "goat's milk",
+      "goats milk",
+      "coconut milk",
+      "cow milk",
+      "yak milk",
+      "donkey milk",
+      "camel milk",
+      "sheep milk",
+      "oat milk",
+      "almond milk",
+      "soy milk",
+      "rice milk",
+      "buttermilk",
+      "heavy cream",
+      "whipping cream",
+      "coconut cream",
+      "milk powder",
+      "milk soap"
+    ]
+  },
+  "tips": [
+    "Freeze the milk solid first (ice-cube trays work well), then sprinkle the lye in slowly over the frozen milk, ideally with the container sitting in an ice bath. Lye can push a liquid to around 200 degrees F, and milk sugars scorch at high heat, turning the mixture dark yellow and giving the soap an unpleasant ammonia-like smell that can linger up to 10 days.",
+    "If full-milk lye feels risky, use a split method: dissolve the lye in part water (for example half water, half milk, or a water-discounted lye solution), then blend the reserved milk into the batter at trace. This greatly reduces the chance of scorching.",
+    "For a light, creamy-colored bar, avoid gel phase: do not cover or insulate a milk soap, and put the mold in the fridge or freezer for the first 24 hours after pouring. Milk's natural sugars make the soap heat up, and gel phase darkens milk soaps.",
+    "Milk replaces some or all of the recipe water 1:1. If using goat or coconut milk powder instead of fresh milk, BrambleBerry's guideline is about 1 oz of powder per 8 oz of distilled water.",
+    "Even chilled milk soaps can overheat in the center: peek during the first day and if you see a dark gelling center or a crack forming on top, uncover the mold and move it somewhere cooler."
+  ],
+  "sources": [
+    "https://soapqueen.com/bath-and-body-tutorials/tips-and-tricks/how-to-add-lye-to-milk-for-cold-process-soap/",
+    "https://lovelygreens.com/how-to-make-natural-goat-milk-soap/",
+    "https://thenerdyfarmwife.com/how-to-make-soap-with-milk/",
+    "https://www.youtube.com/watch?v=Vc_HNUeVGhI"
+  ]
+}
