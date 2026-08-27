@@ -1,0 +1,5785 @@
+[
+ {
+  "name": "Homemade Aloe Vera Soap Using the Hot Process Method",
+  "slug": "homemade-aloe-vera-soap-using-the-hot-process-method",
+  "printed_g": 100.0,
+  "computed_0sf_g": 109.0,
+  "computed_5sf_g": 103.5,
+  "oils": [
+   "75g cocoa butter (sap 0.138)",
+   "300g olive oil (sap 0.135)",
+   "225g rice bran oil (can sub with more olive oil) (sap 0.135)",
+   "150g coconut oil (sap 0.183)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Simple Natural Homemade Soap",
+  "slug": "simple-natural-homemade-soap",
+  "printed_g": 60.0,
+  "computed_0sf_g": 64.6,
+  "computed_5sf_g": 61.4,
+  "oils": [
+   "Olive Oil: 12 oz (340 g) (75%) (sap 0.135)",
+   "Coconut Oil (or Babassu Oil): 2.5 oz (71 g) (15.6%) (sap 0.183)",
+   "Castor Oil: 1.5 oz (43 g) (9.4%) (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Marseille Soap",
+  "slug": "marseille-soap",
+  "printed_g": 134.87,
+  "computed_0sf_g": 139.0,
+  "computed_5sf_g": 132.1,
+  "oils": [
+   "Olive Oil: 500g (sap 0.135)",
+   "Tallow Beef: 500g (sap 0.143)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lavender and Shea Butter Soap",
+  "slug": "lavender-and-shea-butter-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 93.1,
+  "computed_5sf_g": 88.4,
+  "oils": [
+   "300g Organic Shea Butter (sap 0.128)",
+   "200g Organic Olive Oil (sap 0.135)",
+   "150g Organic Coconut Oil (sap 0.183)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "kept:gray"
+ },
+ {
+  "name": "Rosemary Mint Soap",
+  "slug": "rosemary-mint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Oatmeal Honey Soap",
+  "slug": "oatmeal-honey-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 83.0,
+  "computed_5sf_g": 78.8,
+  "oils": [
+   "200g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)",
+   "150g Organic Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 79
+ },
+ {
+  "name": "Tea Tree and Charcoal Soap",
+  "slug": "tea-tree-and-charcoal-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lemon Poppy Seed Soap",
+  "slug": "lemon-poppy-seed-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Coconut Milk and Turmeric Soap",
+  "slug": "coconut-milk-and-turmeric-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Orange and Ginger Soap",
+  "slug": "orange-and-ginger-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Peppermint Eucalyptus Soap",
+  "slug": "peppermint-eucalyptus-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Chamomile Calendula Soap",
+  "slug": "chamomile-calendula-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Grapefruit and Bergamot Soap",
+  "slug": "grapefruit-and-bergamot-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Patchouli and Lavender Soap",
+  "slug": "patchouli-and-lavender-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Cucumber Melon Soap",
+  "slug": "cucumber-melon-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Almond and Honey Soap",
+  "slug": "almond-and-honey-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 80.6,
+  "computed_5sf_g": 76.5,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Sweet Almond Oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 77
+ },
+ {
+  "name": "Green Tea and Aloe Vera Soap",
+  "slug": "green-tea-and-aloe-vera-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Vanilla Bean and Cocoa Butter Soap",
+  "slug": "vanilla-bean-and-cocoa-butter-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 80.4,
+  "computed_5sf_g": 76.4,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Cocoa Butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Cedarwood and Rose Soap",
+  "slug": "cedarwood-and-rose-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Ylang Ylang and Sandalwood Soap",
+  "slug": "ylang-ylang-and-sandalwood-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Geranium and Palmarosa Soap",
+  "slug": "geranium-and-palmarosa-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Juniper Berry and Sage Soap",
+  "slug": "juniper-berry-and-sage-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Bergamot and Vetiver Soap",
+  "slug": "bergamot-and-vetiver-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Minty Rosemary Lemon Soap",
+  "slug": "minty-rosemary-lemon-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender and Rose Petal Soap",
+  "slug": "lavender-and-rose-petal-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Coconut Lime Verbena Soap",
+  "slug": "coconut-lime-verbena-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Grapefruit Basil Soap",
+  "slug": "grapefruit-basil-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender Patchouli Soap",
+  "slug": "lavender-patchouli-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Eucalyptus Spearmint Soap",
+  "slug": "eucalyptus-spearmint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Honey Oatmeal Lavender Soap",
+  "slug": "honey-oatmeal-lavender-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Peppermint Rosemary Tea Tree Soap",
+  "slug": "peppermint-rosemary-tea-tree-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lemongrass Sage Soap",
+  "slug": "lemongrass-sage-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Chamomile Lavender Honey Soap",
+  "slug": "chamomile-lavender-honey-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Patchouli Soap (Variation 2)",
+  "slug": "lavender-patchouli-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Eucalyptus Spearmint Soap (Variation 2)",
+  "slug": "eucalyptus-spearmint-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Honey Oatmeal Lavender Soap (Variation 2)",
+  "slug": "honey-oatmeal-lavender-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Peppermint Rosemary Tea Tree Soap (Variation 2)",
+  "slug": "peppermint-rosemary-tea-tree-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Vanilla Lavender Patchouli Soap",
+  "slug": "vanilla-lavender-patchouli-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Orange Clove Cinnamon Soap",
+  "slug": "orange-clove-cinnamon-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Rose Geranium Lavender Soap",
+  "slug": "rose-geranium-lavender-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Lemongrass Soap",
+  "slug": "lavender-lemongrass-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Jasmine Green Tea Soap",
+  "slug": "jasmine-green-tea-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Cinnamon Orange Clove Soap",
+  "slug": "cinnamon-orange-clove-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Sage Rosemary Soap",
+  "slug": "lavender-sage-rosemary-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Honey Almond Oatmeal Soap",
+  "slug": "honey-almond-oatmeal-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Bergamot Cedarwood Soap",
+  "slug": "lavender-bergamot-cedarwood-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon Lavender Eucalyptus Soap",
+  "slug": "lemon-lavender-eucalyptus-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Peppermint Rosemary Eucalyptus Soap",
+  "slug": "peppermint-rosemary-eucalyptus-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender Lemongrass Mint Soap",
+  "slug": "lavender-lemongrass-mint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Tea Tree Mint Eucalyptus Soap",
+  "slug": "tea-tree-mint-eucalyptus-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Citrus Basil Sage Soap",
+  "slug": "citrus-basil-sage-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Grapefruit Peppermint Rosemary Soap",
+  "slug": "grapefruit-peppermint-rosemary-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Chamomile Calendula Soap",
+  "slug": "lavender-chamomile-calendula-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon Verbena Mint Soap",
+  "slug": "lemon-verbena-mint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Rosemary Lemon Thyme Soap",
+  "slug": "rosemary-lemon-thyme-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Jasmine Sandalwood Patchouli Soap",
+  "slug": "jasmine-sandalwood-patchouli-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Cedarwood Frankincense Soap",
+  "slug": "lavender-cedarwood-frankincense-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemongrass Patchouli Vetiver Soap",
+  "slug": "lemongrass-patchouli-vetiver-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Rose Geranium Ylang Ylang Soap",
+  "slug": "rose-geranium-ylang-ylang-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender Bergamot Patchouli Soap",
+  "slug": "lavender-bergamot-patchouli-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Orange Ginger Clove Soap",
+  "slug": "orange-ginger-clove-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Peppermint Eucalyptus Tea Tree Soap",
+  "slug": "peppermint-eucalyptus-tea-tree-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Rose Petal Oat Soap",
+  "slug": "lavender-rose-petal-oat-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Peppermint Eucalyptus Tea Tree Soap (Variation 2)",
+  "slug": "peppermint-eucalyptus-tea-tree-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Rose Petal Oat Soap (Variation 2)",
+  "slug": "lavender-rose-petal-oat-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Coconut Lemongrass Lime Soap",
+  "slug": "coconut-lemongrass-lime-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Rose Petal Oat Soap (Variation 3)",
+  "slug": "lavender-rose-petal-oat-soap-variation-3",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Jasmine Neroli Ylang Ylang Soap",
+  "slug": "jasmine-neroli-ylang-ylang-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Rosewood Lavender Cedar Soap",
+  "slug": "rosewood-lavender-cedar-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Patchouli Orange Cedarwood Soap",
+  "slug": "patchouli-orange-cedarwood-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Rosemary Sage Soap",
+  "slug": "lavender-rosemary-sage-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon Basil Mint Soap",
+  "slug": "lemon-basil-mint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Clary Sage Bergamot Soap",
+  "slug": "lavender-clary-sage-bergamot-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Cinnamon Patchouli Clove Soap",
+  "slug": "cinnamon-patchouli-clove-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lemongrass Ginger Mint Soap",
+  "slug": "lemongrass-ginger-mint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender Orange Clove Soap",
+  "slug": "lavender-orange-clove-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Rosemary Peppermint Sage Soap",
+  "slug": "rosemary-peppermint-sage-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Cedarwood Cypress Pine Soap",
+  "slug": "cedarwood-cypress-pine-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Chamomile Vanilla Soap",
+  "slug": "lavender-chamomile-vanilla-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Orange Patchouli Sandalwood Soap",
+  "slug": "orange-patchouli-sandalwood-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Rosemary Lemon Verbena Soap",
+  "slug": "lavender-rosemary-lemon-verbena-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Peppermint Tea Tree Rosemary Soap",
+  "slug": "peppermint-tea-tree-rosemary-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Chamomile Lavender Rose Soap",
+  "slug": "chamomile-lavender-rose-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Chamomile Lavender Rose Soap (Variation 2)",
+  "slug": "chamomile-lavender-rose-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Orange Vanilla Cinnamon Soap",
+  "slug": "orange-vanilla-cinnamon-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Grapefruit Bergamot Lime Soap",
+  "slug": "grapefruit-bergamot-lime-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Patchouli Sandalwood Frankincense Soap",
+  "slug": "patchouli-sandalwood-frankincense-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Cedarwood Vetiver Soap",
+  "slug": "lavender-cedarwood-vetiver-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemongrass Ginger Eucalyptus Soap",
+  "slug": "lemongrass-ginger-eucalyptus-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Rose Geranium Patchouli Lavender Soap",
+  "slug": "rose-geranium-patchouli-lavender-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Grapefruit Bergamot Lime Soap (Variation 2)",
+  "slug": "grapefruit-bergamot-lime-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Jasmine Lavender Ylang Ylang Soap",
+  "slug": "jasmine-lavender-ylang-ylang-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Cedarwood Bergamot Rosemary Soap",
+  "slug": "cedarwood-bergamot-rosemary-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lemon Basil Rosemary Soap",
+  "slug": "lemon-basil-rosemary-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender Mint Eucalyptus Soap",
+  "slug": "lavender-mint-eucalyptus-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Peppermint Lavender Rosemary Soap",
+  "slug": "peppermint-lavender-rosemary-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Vanilla Coconut Lemongrass Soap",
+  "slug": "vanilla-coconut-lemongrass-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Rosewood Bergamot Patchouli Soap",
+  "slug": "rosewood-bergamot-patchouli-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Orange Ginger Clove Cinnamon Soap",
+  "slug": "orange-ginger-clove-cinnamon-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Chamomile Calendula Rose Soap",
+  "slug": "lavender-chamomile-calendula-rose-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Peppermint Lavender Rosemary Soap (Variation 2)",
+  "slug": "peppermint-lavender-rosemary-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Vanilla Coconut Lemongrass Soap (Variation 2)",
+  "slug": "vanilla-coconut-lemongrass-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Peppermint Lavender Rosemary Soap (Variation 3)",
+  "slug": "peppermint-lavender-rosemary-soap-variation-3",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Grapefruit Lemongrass Mint Soap",
+  "slug": "grapefruit-lemongrass-mint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Rosemary Thyme Soap",
+  "slug": "lavender-rosemary-thyme-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Peppermint Rose Geranium Tea Tree Soap",
+  "slug": "peppermint-rose-geranium-tea-tree-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Bergamot Cedarwood Sage Soap",
+  "slug": "bergamot-cedarwood-sage-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lemon Eucalyptus Thyme Soap",
+  "slug": "lemon-eucalyptus-thyme-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender Jasmine Sandalwood Soap",
+  "slug": "lavender-jasmine-sandalwood-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Peppermint Orange Cedarwood Soap",
+  "slug": "peppermint-orange-cedarwood-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Rosemary Sage Thyme Soap",
+  "slug": "rosemary-sage-thyme-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Peppermint Rose Geranium Tea Tree Soap (Variation 2)",
+  "slug": "peppermint-rose-geranium-tea-tree-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Bergamot Cedarwood Sage Soap (Variation 2)",
+  "slug": "bergamot-cedarwood-sage-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon Eucalyptus Thyme Soap (Variation 2)",
+  "slug": "lemon-eucalyptus-thyme-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Jasmine Sandalwood Soap (Variation 2)",
+  "slug": "lavender-jasmine-sandalwood-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Peppermint Orange Cedarwood Soap (Variation 2)",
+  "slug": "peppermint-orange-cedarwood-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Rosemary Sage Thyme Soap (Variation 2)",
+  "slug": "rosemary-sage-thyme-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Bergamot Cedarwood Sage Soap (Variation 3)",
+  "slug": "bergamot-cedarwood-sage-soap-variation-3",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon Eucalyptus Thyme Soap (Variation 3)",
+  "slug": "lemon-eucalyptus-thyme-soap-variation-3",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender Jasmine Sandalwood Soap (Variation 3)",
+  "slug": "lavender-jasmine-sandalwood-soap-variation-3",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Peppermint Rose Geranium Tea Tree Soap (Variation 3)",
+  "slug": "peppermint-rose-geranium-tea-tree-soap-variation-3",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon Eucalyptus Thyme Soap (Variation 4)",
+  "slug": "lemon-eucalyptus-thyme-soap-variation-4",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Peppermint Orange Cedarwood Soap (Variation 3)",
+  "slug": "peppermint-orange-cedarwood-soap-variation-3",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender Vanilla Cinnamon Soap",
+  "slug": "lavender-vanilla-cinnamon-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemongrass Rosemary Cedarwood Soap",
+  "slug": "lemongrass-rosemary-cedarwood-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Orange Ginger Clove Patchouli Soap",
+  "slug": "orange-ginger-clove-patchouli-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender Bergamot Lemon Verbena Soap",
+  "slug": "lavender-bergamot-lemon-verbena-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Tropical Coconut Bliss Soap",
+  "slug": "tropical-coconut-bliss-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 112.5,
+  "computed_5sf_g": 106.9,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "150g shea butter (sap 0.128)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Mango Tango Delight Soap",
+  "slug": "mango-tango-delight-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.1,
+  "computed_5sf_g": 105.5,
+  "oils": [
+   "400g mango butter (sap 0.136)",
+   "200g coconut oil (sap 0.183)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Papaya Paradise Soap",
+  "slug": "papaya-paradise-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 56.6,
+  "computed_5sf_g": 53.8,
+  "oils": [
+   "200g coconut oil (sap 0.183)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "400g papaya seed oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Pineapple Passion Soap",
+  "slug": "pineapple-passion-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 56.6,
+  "computed_5sf_g": 53.8,
+  "oils": [
+   "200g coconut oil (sap 0.183)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "400g pineapple oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Island Breeze Soap",
+  "slug": "island-breeze-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Guava Goddess Soap",
+  "slug": "guava-goddess-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 56.6,
+  "computed_5sf_g": 53.8,
+  "oils": [
+   "200g coconut oil (sap 0.183)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "400g guava seed oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Kiwi Kiss Soap",
+  "slug": "kiwi-kiss-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 56.6,
+  "computed_5sf_g": 53.8,
+  "oils": [
+   "200g coconut oil (sap 0.183)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "400g kiwi seed oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Passionfruit Punch Soap",
+  "slug": "passionfruit-punch-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 56.6,
+  "computed_5sf_g": 53.8,
+  "oils": [
+   "200g coconut oil (sap 0.183)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "400g passion fruit oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Coconut Lime Fusion Soap",
+  "slug": "coconut-lime-fusion-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Exotic Citrus Splash Soap",
+  "slug": "exotic-citrus-splash-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lemon Verbena Zest Soap",
+  "slug": "lemon-verbena-zest-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Orange Blossom Dream Soap",
+  "slug": "orange-blossom-dream-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 112.5,
+  "computed_5sf_g": 106.9,
+  "oils": [
+   "400g sweet almond oil (sap 0.139)",
+   "200g coconut oil (sap 0.183)",
+   "100g cocoa butter (sap 0.138)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lime Basil Refresh Soap",
+  "slug": "lime-basil-refresh-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Grapefruit Grapevine Soap",
+  "slug": "grapefruit-grapevine-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 107.9,
+  "computed_5sf_g": 102.5,
+  "oils": [
+   "400g grapeseed oil (sap 0.129)",
+   "200g coconut oil (sap 0.183)",
+   "100g avocado oil (sap 0.133)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lemongrass Lullaby Soap",
+  "slug": "lemongrass-lullaby-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Bergamot Bamboo Bliss Soap",
+  "slug": "bergamot-bamboo-bliss-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Citrus Sage Serenade Soap",
+  "slug": "citrus-sage-serenade-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Tropical Coconut Bliss Soap (Variation 2)",
+  "slug": "tropical-coconut-bliss-soap-variation-2",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Jasmine Jasmine Soap",
+  "slug": "jasmine-jasmine-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Gardenia Glory Soap",
+  "slug": "gardenia-glory-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Hibiscus Honeysuckle Soap",
+  "slug": "hibiscus-honeysuckle-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Plumeria Paradise Soap",
+  "slug": "plumeria-paradise-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Orchid Oasis Soap",
+  "slug": "orchid-oasis-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lotus Love Soap",
+  "slug": "lotus-love-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Sandalwood Serenity Soap",
+  "slug": "sandalwood-serenity-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Patchouli Passion Soap",
+  "slug": "patchouli-passion-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lavender Lavender Soap",
+  "slug": "lavender-lavender-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Rosemary Relaxation Soap",
+  "slug": "rosemary-relaxation-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Eucalyptus Escape Soap",
+  "slug": "eucalyptus-escape-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Peppermint Perfection Soap",
+  "slug": "peppermint-perfection-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Spearmint Sparkle Soap",
+  "slug": "spearmint-sparkle-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.1,
+  "computed_5sf_g": 104.6,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Tea Tree Tranquility Soap",
+  "slug": "tea-tree-tranquility-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Rose Petal Renewal Soap",
+  "slug": "rose-petal-renewal-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 119.5,
+  "computed_5sf_g": 113.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g shea butter (sap 0.128)",
+   "100g olive oil (sap 0.135)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Geranium Garden Soap",
+  "slug": "geranium-garden-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.3,
+  "computed_5sf_g": 104.8,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g avocado oil (sap 0.133)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Ylang Ylang Serenity Soap",
+  "slug": "ylang-ylang-serenity-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 122.0,
+  "computed_5sf_g": 115.9,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g sweet almond oil (sap 0.139)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Neroli Nectar Soap",
+  "slug": "neroli-nectar-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.6,
+  "computed_5sf_g": 105.1,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Vetiver Velvet Soap",
+  "slug": "vetiver-velvet-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Cedarwood Calm Soap",
+  "slug": "cedarwood-calm-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.3,
+  "computed_5sf_g": 104.8,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g avocado oil (sap 0.133)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Frankincense Fusion Soap",
+  "slug": "frankincense-fusion-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Myrrh Magic Soap",
+  "slug": "myrrh-magic-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.6,
+  "computed_5sf_g": 105.1,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Sandalwood Spice Soap",
+  "slug": "sandalwood-spice-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Patchouli Passion Soap (Variation 2)",
+  "slug": "patchouli-passion-soap-variation-2",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Vanilla Bean Dream Soap",
+  "slug": "vanilla-bean-dream-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 119.5,
+  "computed_5sf_g": 113.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g shea butter (sap 0.128)",
+   "100g olive oil (sap 0.135)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Cinnamon Swirl Soap",
+  "slug": "cinnamon-swirl-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Nutmeg Nirvana Soap",
+  "slug": "nutmeg-nirvana-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Cardamom Comfort Soap",
+  "slug": "cardamom-comfort-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.6,
+  "computed_5sf_g": 105.1,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Clove Carnival Soap",
+  "slug": "clove-carnival-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Ginger Spice Soap",
+  "slug": "ginger-spice-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lemongrass Lullaby Soap (Variation 2)",
+  "slug": "lemongrass-lullaby-soap-variation-2",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.3,
+  "computed_5sf_g": 104.8,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g avocado oil (sap 0.133)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Citronella Citrus Soap",
+  "slug": "citronella-citrus-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Basil Basil Soap",
+  "slug": "basil-basil-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.6,
+  "computed_5sf_g": 105.1,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Bergamot Bliss Soap",
+  "slug": "bergamot-bliss-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Thyme Thrive Soap",
+  "slug": "thyme-thrive-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.3,
+  "computed_5sf_g": 104.8,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g avocado oil (sap 0.133)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Rosemary Relaxation Soap (Variation 2)",
+  "slug": "rosemary-relaxation-soap-variation-2",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Oregano Oasis Soap",
+  "slug": "oregano-oasis-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.6,
+  "computed_5sf_g": 105.1,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Sage Sanctuary Soap",
+  "slug": "sage-sanctuary-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Mint Mojito Soap",
+  "slug": "mint-mojito-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lavender Lavender Soap (Variation 2)",
+  "slug": "lavender-lavender-soap-variation-2",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Chamomile Calm Soap",
+  "slug": "chamomile-calm-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.6,
+  "computed_5sf_g": 105.1,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Calendula Comfort Soap",
+  "slug": "calendula-comfort-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "150g calendula-infused oil (cooled)"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Rose Petal Renewal Soap (Variation 2)",
+  "slug": "rose-petal-renewal-soap-variation-2",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Hibiscus Honeysuckle Soap (Variation 2)",
+  "slug": "hibiscus-honeysuckle-soap-variation-2",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Coconut Paradise Soap",
+  "slug": "coconut-paradise-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Tahitian Vanilla Soap",
+  "slug": "tahitian-vanilla-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Moroccan Mint Soap",
+  "slug": "moroccan-mint-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Amazonian Rainforest Soap",
+  "slug": "amazonian-rainforest-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 122.1,
+  "computed_5sf_g": 116.0,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "African Violet Soap",
+  "slug": "african-violet-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 110.6,
+  "computed_5sf_g": 105.1,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g shea butter (sap 0.128)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Hawaiian Hibiscus Soap",
+  "slug": "hawaiian-hibiscus-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Tahitian Tiaré Flower Soap",
+  "slug": "tahitian-tiare-flower-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 122.1,
+  "computed_5sf_g": 116.0,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Arabian Jasmine Soap",
+  "slug": "arabian-jasmine-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Mediterranean Olive Soap",
+  "slug": "mediterranean-olive-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 118.6,
+  "computed_5sf_g": 112.6,
+  "oils": [
+   "500g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Provencal Lavender Soap",
+  "slug": "provencal-lavender-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Italian Citrus Soap",
+  "slug": "italian-citrus-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Spanish Rosemary Soap",
+  "slug": "spanish-rosemary-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Greek Ylang Ylang Soap",
+  "slug": "greek-ylang-ylang-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Moroccan Argan Soap",
+  "slug": "moroccan-argan-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 114.2,
+  "computed_5sf_g": 108.4,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)",
+   "20g argan oil (sap 0.136)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Egyptian Sandalwood Soap",
+  "slug": "egyptian-sandalwood-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Thai Lemongrass Soap",
+  "slug": "thai-lemongrass-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Indonesian Patchouli Soap",
+  "slug": "indonesian-patchouli-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Japanese Cherry Blossom Soap",
+  "slug": "japanese-cherry-blossom-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Chinese Green Tea Soap",
+  "slug": "chinese-green-tea-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.9,
+  "computed_5sf_g": 106.3,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Australian Eucalyptus Soap",
+  "slug": "australian-eucalyptus-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "New Zealand Manuka Honey Soap",
+  "slug": "new-zealand-manuka-honey-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 117.8,
+  "computed_5sf_g": 112.0,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "100g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "South African Rooibos Soap",
+  "slug": "south-african-rooibos-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.9,
+  "computed_5sf_g": 106.3,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Brazilian Acai Berry Soap",
+  "slug": "brazilian-acai-berry-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Peruvian Cocoa Butter Soap",
+  "slug": "peruvian-cocoa-butter-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 128.2,
+  "computed_5sf_g": 121.8,
+  "oils": [
+   "500g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g cocoa butter (sap 0.138)",
+   "20g cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Colombian Coffee Scrub Soap",
+  "slug": "colombian-coffee-scrub-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Venezuelan Cocoa Soap",
+  "slug": "venezuelan-cocoa-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.9,
+  "computed_5sf_g": 106.3,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Mexican Agave Soap",
+  "slug": "mexican-agave-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Jamaican Blue Mountain Soap",
+  "slug": "jamaican-blue-mountain-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.9,
+  "computed_5sf_g": 106.3,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Caribbean Coconut Soap",
+  "slug": "caribbean-coconut-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Costa Rican Pineapple Soap",
+  "slug": "costa-rican-pineapple-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Hawaiian Macadamia Nut Soap",
+  "slug": "hawaiian-macadamia-nut-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 105.0,
+  "computed_5sf_g": 99.8,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)"
+  ],
+  "unmatched_fats": [
+   "100g macadamia nut oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Fijian Coconut Lime Soap",
+  "slug": "fijian-coconut-lime-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Tahitian Vanilla Bean Soap",
+  "slug": "tahitian-vanilla-bean-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.9,
+  "computed_5sf_g": 106.3,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Maldivian Sea Salt Soap",
+  "slug": "maldivian-sea-salt-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Seychellois Coconut Milk Soap",
+  "slug": "seychellois-coconut-milk-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Bajan Mango Butter Soap",
+  "slug": "bajan-mango-butter-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 118.6,
+  "computed_5sf_g": 112.7,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "100g mango butter (sap 0.136)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Mauritian Lychee Soap",
+  "slug": "mauritian-lychee-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Polynesian Tamanu Oil Soap",
+  "slug": "polynesian-tamanu-oil-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 105.0,
+  "computed_5sf_g": 99.8,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)"
+  ],
+  "unmatched_fats": [
+   "150g tamanu oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Samoan Noni Fruit Soap",
+  "slug": "samoan-noni-fruit-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Tongan Kava Root Soap",
+  "slug": "tongan-kava-root-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Malaysian Durian Soap",
+  "slug": "malaysian-durian-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.9,
+  "computed_5sf_g": 106.3,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Indonesian Mangosteen Soap",
+  "slug": "indonesian-mangosteen-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Filipino Papaya Soap",
+  "slug": "filipino-papaya-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Thai Lemongrass Soap (Variation 2)",
+  "slug": "thai-lemongrass-soap-variation-2",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Burmese Thanaka Soap",
+  "slug": "burmese-thanaka-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Cambodian Kampot Pepper Soap",
+  "slug": "cambodian-kampot-pepper-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Bangladeshi Mustard Seed Soap",
+  "slug": "bangladeshi-mustard-seed-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Nepali Himalayan Salt Soap",
+  "slug": "nepali-himalayan-salt-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Bhutanese Red Rice Soap",
+  "slug": "bhutanese-red-rice-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "20g rice bran oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Tibetan Yak Milk Soap",
+  "slug": "tibetan-yak-milk-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 59.6,
+  "computed_5sf_g": 56.6,
+  "oils": [
+   "200g olive oil (sap 0.135)",
+   "100g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 57
+ },
+ {
+  "name": "Mongolian Cashmere Soap",
+  "slug": "mongolian-cashmere-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Chinese Silk Soap",
+  "slug": "chinese-silk-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 105.0,
+  "computed_5sf_g": 99.8,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Korean Ginseng Soap",
+  "slug": "korean-ginseng-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Japanese Matcha Green Tea Soap",
+  "slug": "japanese-matcha-green-tea-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Thai Coconut Water Soap",
+  "slug": "thai-coconut-water-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Vietnamese Lotus Flower Soap",
+  "slug": "vietnamese-lotus-flower-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Cambodian Jasmine Soap",
+  "slug": "cambodian-jasmine-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Laotian Orchid Soap",
+  "slug": "laotian-orchid-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Indian Sandalwood Soap",
+  "slug": "indian-sandalwood-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Seychellois Vanilla Bean Soap",
+  "slug": "seychellois-vanilla-bean-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Fijian Pineapple Papaya Soap",
+  "slug": "fijian-pineapple-papaya-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Hawaiian Kukui Nut Soap",
+  "slug": "hawaiian-kukui-nut-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 105.0,
+  "computed_5sf_g": 99.8,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)"
+  ],
+  "unmatched_fats": [
+   "50g kukui nut oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Tahitian Monoi Soap",
+  "slug": "tahitian-monoi-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "150g monoi oil (cooled)"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Samoan Taro Root Soap",
+  "slug": "samoan-taro-root-soap",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Tropical Coconut Dream",
+  "slug": "tropical-coconut-dream",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lavender Fields Bliss",
+  "slug": "lavender-fields-bliss",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Citrus Burst Delight",
+  "slug": "citrus-burst-delight",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Peppermint Swirl Sensation",
+  "slug": "peppermint-swirl-sensation",
+  "printed_g": 70.0,
+  "computed_0sf_g": 121.6,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "400g coconut oil (sap 0.183)",
+   "200g palm oil (sap 0.142)",
+   "100g olive oil (sap 0.135)",
+   "50g castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Rose Garden Romance",
+  "slug": "rose-garden-romance",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Eucalyptus Forest Freshness",
+  "slug": "eucalyptus-forest-freshness",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Honey Almond Harmony",
+  "slug": "honey-almond-harmony",
+  "printed_g": 70.0,
+  "computed_0sf_g": 112.0,
+  "computed_5sf_g": 106.4,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Jasmine Blossom Serenity",
+  "slug": "jasmine-blossom-serenity",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Ocean Breeze Escape",
+  "slug": "ocean-breeze-escape",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lemongrass Citrus Zest",
+  "slug": "lemongrass-citrus-zest",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Vanilla Bean Velvet",
+  "slug": "vanilla-bean-velvet",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Sandalwood Serenade",
+  "slug": "sandalwood-serenade",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "150g sandalwood-infused oil (cooled)"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Tea Tree Tingle",
+  "slug": "tea-tree-tingle",
+  "printed_g": 70.0,
+  "computed_0sf_g": 111.4,
+  "computed_5sf_g": 105.9,
+  "oils": [
+   "400g olive oil (sap 0.135)",
+   "200g coconut oil (sap 0.183)",
+   "100g palm oil (sap 0.142)",
+   "50g shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Olive Oil Delight Soap",
+  "slug": "olive-oil-delight-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lavender Fields Soap",
+  "slug": "lavender-fields-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Rosemary Mint Bliss Soap",
+  "slug": "rosemary-mint-bliss-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lemon Verbena Fresh Soap",
+  "slug": "lemon-verbena-fresh-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Orange Blossom Dream Soap (Variation 2)",
+  "slug": "orange-blossom-dream-soap-variation-2",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Eucalyptus Elegance Soap",
+  "slug": "eucalyptus-elegance-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Jasmine Garden Soap",
+  "slug": "jasmine-garden-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Fig Fantasy Soap",
+  "slug": "fig-fantasy-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Almond Honey Harmony Soap",
+  "slug": "almond-honey-harmony-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Citrus Grove Soap",
+  "slug": "citrus-grove-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Mediterranean Sea Breeze Soap",
+  "slug": "mediterranean-sea-breeze-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Bergamot Basil Refresh Soap",
+  "slug": "bergamot-basil-refresh-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Thyme Tranquility Soap",
+  "slug": "thyme-tranquility-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Grapefruit Grapevine Soap (Variation 2)",
+  "slug": "grapefruit-grapevine-soap-variation-2",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Pine Forest Escape Soap",
+  "slug": "pine-forest-escape-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Chamomile Calm Soap (Variation 2)",
+  "slug": "chamomile-calm-soap-variation-2",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Sea Salt Serenity Soap",
+  "slug": "sea-salt-serenity-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Honey Lavender Infusion Soap",
+  "slug": "honey-lavender-infusion-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Cucumber Mint Revive Soap",
+  "slug": "cucumber-mint-revive-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Olive Leaf Oasis Soap",
+  "slug": "olive-leaf-oasis-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Pomegranate Pleasure Soap",
+  "slug": "pomegranate-pleasure-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Fennel Fusion Soap",
+  "slug": "fennel-fusion-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Tangerine Tango Soap",
+  "slug": "tangerine-tango-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lemon Zest Renewal Soap",
+  "slug": "lemon-zest-renewal-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Cypress Forest Soap",
+  "slug": "cypress-forest-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Basil Blossom Soap",
+  "slug": "basil-blossom-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Myrtle Magic Soap",
+  "slug": "myrtle-magic-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Oregano Odyssey Soap",
+  "slug": "oregano-odyssey-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Rosemary Retreat Soap",
+  "slug": "rosemary-retreat-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lemon Basil Joy Soap",
+  "slug": "lemon-basil-joy-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Sage Sanctuary Soap (Variation 2)",
+  "slug": "sage-sanctuary-soap-variation-2",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Mediterranean Citrus Burst Soap",
+  "slug": "mediterranean-citrus-burst-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Orange Rose Romance Soap",
+  "slug": "orange-rose-romance-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Laurel Leaf Luxe Soap",
+  "slug": "laurel-leaf-luxe-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Neroli Nectar Soap (Variation 2)",
+  "slug": "neroli-nectar-soap-variation-2",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Bay Laurel Bliss Soap",
+  "slug": "bay-laurel-bliss-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Cedarwood Serenade Soap",
+  "slug": "cedarwood-serenade-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Carob Comfort Soap",
+  "slug": "carob-comfort-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Grape Vineyard Soap",
+  "slug": "grape-vineyard-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Date Palm Paradise Soap",
+  "slug": "date-palm-paradise-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Walnut Wonder Soap",
+  "slug": "walnut-wonder-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Honey Fig Fusion Soap",
+  "slug": "honey-fig-fusion-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Seaside Serenade Soap",
+  "slug": "seaside-serenade-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lavender Lemonade Soap",
+  "slug": "lavender-lemonade-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Sage Lemon Zest Soap",
+  "slug": "sage-lemon-zest-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Cypress Cypress Soap",
+  "slug": "cypress-cypress-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lemon Thyme Tranquility Soap",
+  "slug": "lemon-thyme-tranquility-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Olive Oil and Basil Soap",
+  "slug": "olive-oil-and-basil-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Orange Blossom Honey Soap",
+  "slug": "orange-blossom-honey-soap",
+  "printed_g": 140.0,
+  "computed_0sf_g": 170.7,
+  "computed_5sf_g": 162.1,
+  "oils": [
+   "800g Olive Oil (sap 0.135)",
+   "200g Coconut Oil (sap 0.183)",
+   "200g Shea Butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Olive Oil Soap",
+  "slug": "olive-oil-soap",
+  "printed_g": 107.0,
+  "computed_0sf_g": 113.1,
+  "computed_5sf_g": 107.5,
+  "oils": [
+   "835g Olive oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Honey Soap",
+  "slug": "honey-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 124.0,
+  "computed_5sf_g": 117.8,
+  "oils": [
+   "418g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "167g Palm Oil (sap 0.142)",
+   "42g Castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Eucalyptus Soap",
+  "slug": "eucalyptus-soap",
+  "printed_g": 116.0,
+  "computed_0sf_g": 122.2,
+  "computed_5sf_g": 116.1,
+  "oils": [
+   "412g Olive oil (sap 0.135)",
+   "206g Coconut oil (sap 0.183)",
+   "165g Palm Oil (sap 0.142)",
+   "41g Castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lavender Soap",
+  "slug": "lavender-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 124.0,
+  "computed_5sf_g": 117.8,
+  "oils": [
+   "418g Olive oil (sap 0.135)",
+   "209g Coconut Oil (sap 0.183)",
+   "167g Palm Oil (sap 0.142)",
+   "41.8g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Shea Butter Soap",
+  "slug": "shea-butter-soap",
+  "printed_g": 115.0,
+  "computed_0sf_g": 121.9,
+  "computed_5sf_g": 115.8,
+  "oils": [
+   "418g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "125g Shea Butter (sap 0.128)",
+   "42g Castor oil (sap 0.128)",
+   "42g Avocado Oil (sap 0.133)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Triple Butter Soap",
+  "slug": "triple-butter-soap",
+  "printed_g": 110.0,
+  "computed_0sf_g": 116.8,
+  "computed_5sf_g": 111.0,
+  "oils": [
+   "165g Olive oil (sap 0.135)",
+   "165g Cocoa Butter (sap 0.138)",
+   "165g Mango Butter (sap 0.136)",
+   "165g Shea Butter (sap 0.128)",
+   "124g Coconut Oil (sap 0.183)",
+   "41g Castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Activated Charcoal and Tea Tree Soap",
+  "slug": "activated-charcoal-and-tea-tree-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 124.0,
+  "computed_5sf_g": 117.8,
+  "oils": [
+   "418g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "167g Palm Oil (sap 0.142)",
+   "42g Castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Chocolate Soap",
+  "slug": "chocolate-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 122.3,
+  "computed_5sf_g": 116.1,
+  "oils": [
+   "334g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "125g Shea Butter (sap 0.128)",
+   "125g Cocoa Butter (sap 0.138)",
+   "42g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Citrus Soap",
+  "slug": "citrus-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 121.5,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "334g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "125g Shea Butter (sap 0.128)",
+   "125g Avocado Oil (sap 0.133)",
+   "42g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Grapefruit Soap",
+  "slug": "grapefruit-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 121.5,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "334g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "125g Shea Butter (sap 0.128)",
+   "125g Avocado Oil (sap 0.133)",
+   "42g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Green Clay Soap",
+  "slug": "green-clay-soap",
+  "printed_g": 114.0,
+  "computed_0sf_g": 121.4,
+  "computed_5sf_g": 115.4,
+  "oils": [
+   "334g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "150g Shea Butter (sap 0.128)",
+   "100g Avocado Oil (sap 0.133)",
+   "42g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Oatmeal Soap",
+  "slug": "oatmeal-soap",
+  "printed_g": 115.0,
+  "computed_0sf_g": 121.7,
+  "computed_5sf_g": 115.6,
+  "oils": [
+   "417g Olive oil (sap 0.135)",
+   "200g Coconut oil (sap 0.183)",
+   "118g Shea Butter (sap 0.128)",
+   "59g Kokum Butter (sap 0.135)",
+   "42g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Orange Soap",
+  "slug": "orange-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 121.5,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "334g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "125g Shea Butter (sap 0.128)",
+   "125g Avocado Oil (sap 0.133)",
+   "42g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Turmeric Soap",
+  "slug": "turmeric-soap",
+  "printed_g": 116.0,
+  "computed_0sf_g": 122.4,
+  "computed_5sf_g": 116.3,
+  "oils": [
+   "412.5g Olive oil (sap 0.135)",
+   "206.25g Coconut oil (sap 0.183)",
+   "165g Palm Oil (sap 0.142)",
+   "41.25g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Vanilla Soap",
+  "slug": "vanilla-soap",
+  "printed_g": 113.0,
+  "computed_0sf_g": 119.3,
+  "computed_5sf_g": 113.4,
+  "oils": [
+   "619g Olive Oil (sap 0.135)",
+   "165g Coconut Oil (sap 0.183)",
+   "41g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Coconut Soap",
+  "slug": "coconut-soap",
+  "printed_g": 118.0,
+  "computed_0sf_g": 122.4,
+  "computed_5sf_g": 116.3,
+  "oils": [
+   "412.5g Olive Oil (sap 0.135)",
+   "247.5g Coconut Oil (sap 0.183)",
+   "123.8g Shea Butter (sap 0.128)",
+   "41.25g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Goat Milk Soap",
+  "slug": "goat-milk-soap",
+  "printed_g": 122.0,
+  "computed_0sf_g": 129.4,
+  "computed_5sf_g": 122.9,
+  "oils": [
+   "313g Olive oil (sap 0.135)",
+   "313g Coconut oil (76 degree) (sap 0.183)",
+   "209g Palm oil (sap 0.142)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Rose Soap with Coconut Milk",
+  "slug": "rose-soap-with-coconut-milk",
+  "printed_g": 115.0,
+  "computed_0sf_g": 122.4,
+  "computed_5sf_g": 116.3,
+  "oils": [
+   "412.5g Olive oil (sap 0.135)",
+   "206.25g Coconut oil (sap 0.183)",
+   "165g Palm Oil (sap 0.142)",
+   "41.25g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Calendula Soap",
+  "slug": "calendula-soap",
+  "printed_g": 113.49,
+  "computed_0sf_g": 120.8,
+  "computed_5sf_g": 114.8,
+  "oils": [
+   "334g Olive oil (sap 0.135)",
+   "192g Coconut oil (sap 0.183)",
+   "167g Shea Butter (sap 0.128)",
+   "58g Cocoa Butter (sap 0.138)",
+   "42g Avocado Oil (sap 0.133)",
+   "42g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Chamomile Soap",
+  "slug": "chamomile-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 124.0,
+  "computed_5sf_g": 117.8,
+  "oils": [
+   "418g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "167g Palm Oil (sap 0.142)",
+   "42g Castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Coffee Soap",
+  "slug": "coffee-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 124.0,
+  "computed_5sf_g": 117.8,
+  "oils": [
+   "418g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "167g Palm Oil (sap 0.142)",
+   "42g Castor oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Green Tea Soap",
+  "slug": "green-tea-soap",
+  "printed_g": 115.0,
+  "computed_0sf_g": 122.4,
+  "computed_5sf_g": 116.3,
+  "oils": [
+   "412.5g Olive oil (sap 0.135)",
+   "206.25g Coconut oil (sap 0.183)",
+   "165g Palm Oil (sap 0.142)",
+   "41.25g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Peppermint Soap",
+  "slug": "peppermint-soap",
+  "printed_g": 117.0,
+  "computed_0sf_g": 121.5,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "334g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "125g Shea Butter (sap 0.128)",
+   "125g Avocado Oil (sap 0.133)",
+   "42g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Rosemary Soap",
+  "slug": "rosemary-soap",
+  "printed_g": 115.0,
+  "computed_0sf_g": 122.4,
+  "computed_5sf_g": 116.3,
+  "oils": [
+   "412.5g Olive oil (sap 0.135)",
+   "206.25g Coconut oil (sap 0.183)",
+   "165g Palm Oil (sap 0.142)",
+   "41.25g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Aloe Vera Soap",
+  "slug": "aloe-vera-soap",
+  "printed_g": 116.0,
+  "computed_0sf_g": 121.5,
+  "computed_5sf_g": 115.5,
+  "oils": [
+   "334g Olive oil (sap 0.135)",
+   "209g Coconut oil (sap 0.183)",
+   "125g Shea Butter (sap 0.128)",
+   "125g Avocado Oil (sap 0.133)",
+   "42g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Beer Soap",
+  "slug": "beer-soap",
+  "printed_g": 115.0,
+  "computed_0sf_g": 122.4,
+  "computed_5sf_g": 116.3,
+  "oils": [
+   "412.5g Olive oil (sap 0.135)",
+   "206.25g Coconut oil (sap 0.183)",
+   "165g Palm Oil (sap 0.142)",
+   "41.25g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Red Wine Soap",
+  "slug": "red-wine-soap",
+  "printed_g": 115.0,
+  "computed_0sf_g": 122.4,
+  "computed_5sf_g": 116.3,
+  "oils": [
+   "412.5g Olive oil (sap 0.135)",
+   "206.25g Coconut oil (sap 0.183)",
+   "165g Palm Oil (sap 0.142)",
+   "41.25g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Apple Soap",
+  "slug": "apple-soap",
+  "printed_g": 113.0,
+  "computed_0sf_g": 119.5,
+  "computed_5sf_g": 113.6,
+  "oils": [
+   "443g Olive oil (sap 0.135)",
+   "167g Coconut oil (sap 0.183)",
+   "167g Shea Butter (sap 0.128)",
+   "58.45g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "100g Applesauce – added to oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Peach Soap",
+  "slug": "peach-soap",
+  "printed_g": 113.0,
+  "computed_0sf_g": 119.5,
+  "computed_5sf_g": 113.6,
+  "oils": [
+   "443g Olive oil (sap 0.135)",
+   "167g Coconut oil (sap 0.183)",
+   "167g Shea Butter (sap 0.128)",
+   "58.45g Castor Oil (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "cleared"
+ },
+ {
+  "name": "Lavender Garden Soap",
+  "slug": "lavender-garden-soap",
+  "printed_g": 150.0,
+  "computed_0sf_g": 118.2,
+  "computed_5sf_g": 112.3,
+  "oils": [
+   "500 grams of olive oil (sap 0.135)",
+   "200 grams of coconut oil (sap 0.183)",
+   "100 grams of cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 112
+ },
+ {
+  "name": "Citrus Sunrise Soap",
+  "slug": "citrus-sunrise-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 120.7,
+  "computed_5sf_g": 114.7,
+  "oils": [
+   "400 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 115
+ },
+ {
+  "name": "Herbal Dream Soap",
+  "slug": "herbal-dream-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 80.2,
+  "computed_5sf_g": 76.2,
+  "oils": [
+   "450 grams olive oil (sap 0.135)",
+   "150 grams shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [
+   "200 grams jojoba oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Soothing Green Tea Soap",
+  "slug": "soothing-green-tea-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 119.9,
+  "computed_5sf_g": 113.9,
+  "oils": [
+   "400 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams avocado oil (sap 0.133)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 114
+ },
+ {
+  "name": "Exotic Spice Soap",
+  "slug": "exotic-spice-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 141.6,
+  "computed_5sf_g": 134.5,
+  "oils": [
+   "450 grams coconut oil (sap 0.183)",
+   "250 grams shea butter (sap 0.128)",
+   "200 grams olive oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 135
+ },
+ {
+  "name": "Ocean Breeze Soap",
+  "slug": "ocean-breeze-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 120.8,
+  "computed_5sf_g": 114.8,
+  "oils": [
+   "400 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 115
+ },
+ {
+  "name": "Forest Rain Soap",
+  "slug": "forest-rain-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 119.9,
+  "computed_5sf_g": 113.9,
+  "oils": [
+   "400 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams avocado oil (sap 0.133)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 114
+ },
+ {
+  "name": "Honey & Oatmeal Bliss Soap",
+  "slug": "honey-oatmeal-bliss-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 128.1,
+  "computed_5sf_g": 121.7,
+  "oils": [
+   "450 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams shea butter (sap 0.128)",
+   "15 grams almond oil (optional) (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 122
+ },
+ {
+  "name": "Green Tea & Mint Refresh Soap",
+  "slug": "green-tea-mint-refresh-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 119.9,
+  "computed_5sf_g": 113.9,
+  "oils": [
+   "400 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams avocado oil (sap 0.133)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 114
+ },
+ {
+  "name": "scent Coconut & Lime Paradise Soap",
+  "slug": "scent-coconut-lime-paradise-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 126.1,
+  "computed_5sf_g": 119.8,
+  "oils": [
+   "400 grams coconut oil (sap 0.183)",
+   "250 grams shea butter (sap 0.128)",
+   "150 grams cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 120
+ },
+ {
+  "name": "Rose Garden Soap",
+  "slug": "rose-garden-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 126.0,
+  "computed_5sf_g": 119.7,
+  "oils": [
+   "450 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 120
+ },
+ {
+  "name": "Lavender Fields Soap (Variation 2)",
+  "slug": "lavender-fields-soap-variation-2",
+  "printed_g": 200.0,
+  "computed_0sf_g": 120.8,
+  "computed_5sf_g": 114.8,
+  "oils": [
+   "400 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 115
+ },
+ {
+  "name": "Lemon Sunshine Soap",
+  "slug": "lemon-sunshine-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 127.5,
+  "computed_5sf_g": 121.1,
+  "oils": [
+   "450 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 121
+ },
+ {
+  "name": "Tranquil Garden Soap",
+  "slug": "tranquil-garden-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 126.0,
+  "computed_5sf_g": 119.7,
+  "oils": [
+   "450 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 120
+ },
+ {
+  "name": "Refreshing Citrus Burst Soap",
+  "slug": "refreshing-citrus-burst-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 120.8,
+  "computed_5sf_g": 114.8,
+  "oils": [
+   "400 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams sweet almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 115
+ },
+ {
+  "name": "Woodsy Cedar Haven Soap",
+  "slug": "woodsy-cedar-haven-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 126.0,
+  "computed_5sf_g": 119.7,
+  "oils": [
+   "450 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 120
+ },
+ {
+  "name": "Lavender Vanilla Dream Soap",
+  "slug": "lavender-vanilla-dream-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 126.0,
+  "computed_5sf_g": 119.7,
+  "oils": [
+   "450 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 120
+ },
+ {
+  "name": "Honey Oatmeal Almond Delight Soap",
+  "slug": "honey-oatmeal-almond-delight-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 120.8,
+  "computed_5sf_g": 114.8,
+  "oils": [
+   "400 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams almond oil (sap 0.139)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 115
+ },
+ {
+  "name": "Exotic Citrus Spice Soap",
+  "slug": "exotic-citrus-spice-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 126.0,
+  "computed_5sf_g": 119.7,
+  "oils": [
+   "450 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 120
+ },
+ {
+  "name": "Aloe Vera & Green Tea Soothing Soap",
+  "slug": "aloe-vera-green-tea-soothing-soap",
+  "printed_g": 200.0,
+  "computed_0sf_g": 119.9,
+  "computed_5sf_g": 113.9,
+  "oils": [
+   "400 grams olive oil (sap 0.135)",
+   "250 grams coconut oil (sap 0.183)",
+   "150 grams avocado oil (sap 0.133)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 114
+ },
+ {
+  "name": "Cherry Blossom (Sakura) Soap",
+  "slug": "cherry-blossom-sakura-soap",
+  "printed_g": 135.0,
+  "computed_0sf_g": 93.1,
+  "computed_5sf_g": 88.5,
+  "oils": [
+   "250 grams coconut oil (sap 0.183)",
+   "200 grams olive oil (sap 0.135)",
+   "100 grams cocoa butter (sap 0.138)",
+   "50 grams shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 88
+ },
+ {
+  "name": "Sandalwood Soap",
+  "slug": "sandalwood-soap",
+  "printed_g": 135.0,
+  "computed_0sf_g": 93.1,
+  "computed_5sf_g": 88.4,
+  "oils": [
+   "250 grams of coconut oil (sap 0.183)",
+   "200 grams of argan oil (sap 0.136)",
+   "100 grams of mango butter (sap 0.136)",
+   "50 grams of shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 88
+ },
+ {
+  "name": "Yuzu and Seaweed Soap",
+  "slug": "yuzu-and-seaweed-soap",
+  "printed_g": 135.0,
+  "computed_0sf_g": 65.6,
+  "computed_5sf_g": 62.3,
+  "oils": [
+   "250 grams coconut oil (sap 0.183)",
+   "100 grams shea butter (sap 0.128)",
+   "50 grams cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [
+   "200 grams jojoba oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Green Tea (Matcha) Soap",
+  "slug": "green-tea-matcha-soap",
+  "printed_g": 130.0,
+  "computed_0sf_g": 90.4,
+  "computed_5sf_g": 85.9,
+  "oils": [
+   "200 grams coconut oil (sap 0.183)",
+   "200 grams olive oil (sap 0.135)",
+   "100 grams cocoa butter (sap 0.138)",
+   "100 grams shea butter (sap 0.128)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 86
+ },
+ {
+  "name": "Ginseng Soap",
+  "slug": "ginseng-soap",
+  "printed_g": 135.0,
+  "computed_0sf_g": 65.6,
+  "computed_5sf_g": 62.3,
+  "oils": [
+   "250 grams coconut oil (sap 0.183)",
+   "100 grams shea butter (sap 0.128)",
+   "50 grams cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [
+   "200 grams rice bran oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Sea-Scented Soap",
+  "slug": "sea-scented-soap",
+  "printed_g": 135.0,
+  "computed_0sf_g": 93.1,
+  "computed_5sf_g": 88.5,
+  "oils": [
+   "250 grams coconut oil (sap 0.183)",
+   "200 grams sesame oil (sap 0.134)",
+   "100 grams mango butter (sap 0.136)",
+   "50 grams cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 88
+ },
+ {
+  "name": "Japanese Rose Garden Soap",
+  "slug": "japanese-rose-garden-soap",
+  "printed_g": 135.0,
+  "computed_0sf_g": 68.8,
+  "computed_5sf_g": 65.4,
+  "oils": [
+   "300 grams coconut oil (sap 0.183)",
+   "100 grams cocoa butter (sap 0.138)"
+  ],
+  "unmatched_fats": [
+   "200 grams rice bran oil",
+   "50 grams jojoba oil"
+  ],
+  "verdict": "kept:unverifiable"
+ },
+ {
+  "name": "Peppermint, Rosemary & Eucalyptus Soap (Variation 2)",
+  "slug": "peppermint-rosemary-eucalyptus-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 55.0,
+  "computed_5sf_g": 52.2,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 52
+ },
+ {
+  "name": "Lemon Verbena, Peppermint & Spearmint Soap",
+  "slug": "lemon-verbena-peppermint-spearmint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Sweet Orange, Ginger & Clove Soap",
+  "slug": "sweet-orange-ginger-clove-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 27.1,
+  "computed_5sf_g": 25.7,
+  "oils": [
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 26
+ },
+ {
+  "name": "Sweet Orange, Ginger & Clove Soap (Variation 2)",
+  "slug": "sweet-orange-ginger-clove-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemongrass & Lime Soap",
+  "slug": "lemongrass-lime-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Jasmine, Neroli & Ylang Ylang Soap (Variation 2)",
+  "slug": "jasmine-neroli-ylang-ylang-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender, Rosemary & Sage Soap (Variation 2)",
+  "slug": "lavender-rosemary-sage-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon, Basil & Peppermint Soap",
+  "slug": "lemon-basil-peppermint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Tea Tree Soap",
+  "slug": "tea-tree-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Grapefruit & Bergamot Soap",
+  "slug": "grapefruit-bergamot-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Almond Soap",
+  "slug": "almond-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 45.8,
+  "computed_5sf_g": 43.5,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 44
+ },
+ {
+  "name": "Vanilla Soap (Variation 2)",
+  "slug": "vanilla-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 45.8,
+  "computed_5sf_g": 43.5,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 44
+ },
+ {
+  "name": "Lemongrass & Sage Soap (Variation 2)",
+  "slug": "lemongrass-sage-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Jasmine Soap",
+  "slug": "jasmine-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lavender, Cedarwood & Vetiver Soap (Variation 2)",
+  "slug": "lavender-cedarwood-vetiver-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 55.0,
+  "computed_5sf_g": 52.2,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 52
+ },
+ {
+  "name": "Lemon, Basil & Rosemary Soap (Variation 2)",
+  "slug": "lemon-basil-rosemary-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Chamomile, Calendula & Rose Soap",
+  "slug": "chamomile-calendula-rose-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Grapefruit, Lemongrass & Peppermint Soap",
+  "slug": "grapefruit-lemongrass-peppermint-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Sweet Orange, Ginger, Clove & Cinnamon Soap",
+  "slug": "sweet-orange-ginger-clove-cinnamon-soap",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender, Chamomile, Calendula & Rose Soap (Variation 2)",
+  "slug": "lavender-chamomile-calendula-rose-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Grapefruit, Lemongrass & Peppermint Soap (Variation 2)",
+  "slug": "grapefruit-lemongrass-peppermint-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender, Rosemary & Thyme Soap (Variation 2)",
+  "slug": "lavender-rosemary-thyme-soap-variation-2",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon, Eucalyptus & Thyme Soap (Variation 5)",
+  "slug": "lemon-eucalyptus-thyme-soap-variation-5",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon, Eucalyptus & Thyme Soap (Variation 6)",
+  "slug": "lemon-eucalyptus-thyme-soap-variation-6",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ },
+ {
+  "name": "Lavender, Jasmine & Sandalwood Soap (Variation 4)",
+  "slug": "lavender-jasmine-sandalwood-soap-variation-4",
+  "printed_g": 100.0,
+  "computed_0sf_g": 82.1,
+  "computed_5sf_g": 78.0,
+  "oils": [
+   "300g Organic Coconut Oil (sap 0.183)",
+   "200g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 78
+ },
+ {
+  "name": "Lemon, Eucalyptus & Thyme Soap (Variation 7)",
+  "slug": "lemon-eucalyptus-thyme-soap-variation-7",
+  "printed_g": 100.0,
+  "computed_0sf_g": 79.7,
+  "computed_5sf_g": 75.7,
+  "oils": [
+   "250g Organic Coconut Oil (sap 0.183)",
+   "250g Organic Olive Oil (sap 0.135)"
+  ],
+  "unmatched_fats": [],
+  "verdict": "corrected",
+  "new_g": 76
+ }
+]
